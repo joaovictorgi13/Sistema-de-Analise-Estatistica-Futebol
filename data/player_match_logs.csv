@@ -1,0 +1,2018 @@
+jogador,time,posicao,rodada,minutos,gols,gols_1t,gols_2t,chutes,chutes_alvo,passes,amarelos,resultado_time,vitoria_time
+Erling Haaland,Man City,Atacante,1,68,0,0,0,3,0,19,0,Derrota,0
+Erling Haaland,Man City,Atacante,2,76,0,0,0,4,1,15,0,Empate,0
+Erling Haaland,Man City,Atacante,3,82,1,1,0,1,1,11,0,Empate,0
+Erling Haaland,Man City,Atacante,4,85,1,0,1,2,2,15,0,Vitória,1
+Erling Haaland,Man City,Atacante,5,84,1,0,1,1,1,21,0,Empate,0
+Erling Haaland,Man City,Atacante,6,86,0,0,0,4,0,10,0,Derrota,0
+Erling Haaland,Man City,Atacante,7,71,2,0,2,5,3,16,0,Empate,0
+Erling Haaland,Man City,Atacante,8,81,1,0,1,1,1,25,0,Vitória,1
+Erling Haaland,Man City,Atacante,10,90,0,0,0,1,0,15,0,Derrota,0
+Erling Haaland,Man City,Atacante,11,85,0,0,0,5,1,19,0,Derrota,0
+Erling Haaland,Man City,Atacante,12,82,1,0,1,5,5,16,0,Vitória,1
+Erling Haaland,Man City,Atacante,13,69,0,0,0,2,0,13,0,Vitória,1
+Erling Haaland,Man City,Atacante,14,86,0,0,0,5,2,17,0,Vitória,1
+Erling Haaland,Man City,Atacante,15,70,0,0,0,2,1,15,0,Empate,0
+Erling Haaland,Man City,Atacante,16,70,1,0,1,4,3,24,0,Vitória,1
+Erling Haaland,Man City,Atacante,17,85,0,0,0,6,1,21,0,Empate,0
+Erling Haaland,Man City,Atacante,18,85,0,0,0,4,2,14,0,Vitória,1
+Erling Haaland,Man City,Atacante,19,90,1,0,1,4,4,19,0,Empate,0
+Erling Haaland,Man City,Atacante,20,78,0,0,0,2,1,30,0,Derrota,0
+Erling Haaland,Man City,Atacante,23,87,2,1,1,5,4,17,1,Vitória,1
+Erling Haaland,Man City,Atacante,25,90,2,1,1,8,6,18,0,Empate,0
+Erling Haaland,Man City,Atacante,26,72,1,0,1,3,1,16,0,Vitória,1
+Erling Haaland,Man City,Atacante,27,90,0,0,0,2,1,18,0,Empate,0
+Erling Haaland,Man City,Atacante,28,82,0,0,0,3,0,19,0,Derrota,0
+Erling Haaland,Man City,Atacante,29,67,0,0,0,4,3,16,0,Empate,0
+Erling Haaland,Man City,Atacante,30,63,0,0,0,1,0,15,1,Vitória,1
+Erling Haaland,Man City,Atacante,31,79,0,0,0,3,1,26,0,Empate,0
+Erling Haaland,Man City,Atacante,32,90,2,0,2,2,2,11,0,Vitória,1
+Erling Haaland,Man City,Atacante,33,74,2,2,0,2,2,27,1,Vitória,1
+Erling Haaland,Man City,Atacante,34,79,1,1,0,3,3,15,0,Empate,0
+Erling Haaland,Man City,Atacante,35,88,2,1,1,7,6,14,0,Empate,0
+Erling Haaland,Man City,Atacante,36,79,0,0,0,5,2,21,0,Vitória,1
+Erling Haaland,Man City,Atacante,37,90,2,1,1,2,2,21,0,Vitória,1
+Erling Haaland,Man City,Atacante,38,89,0,0,0,2,1,24,0,Vitória,1
+Kevin De Bruyne,Man City,Meio-campo,1,90,2,1,1,2,2,54,0,Vitória,1
+Kevin De Bruyne,Man City,Meio-campo,3,78,0,0,0,0,0,61,1,Empate,0
+Kevin De Bruyne,Man City,Meio-campo,4,87,0,0,0,2,2,63,1,Derrota,0
+Kevin De Bruyne,Man City,Meio-campo,5,82,1,1,0,4,3,77,0,Empate,0
+Kevin De Bruyne,Man City,Meio-campo,6,80,0,0,0,1,0,77,0,Empate,0
+Kevin De Bruyne,Man City,Meio-campo,7,86,0,0,0,2,2,91,0,Derrota,0
+Kevin De Bruyne,Man City,Meio-campo,8,66,2,0,2,3,3,90,0,Empate,0
+Kevin De Bruyne,Man City,Meio-campo,9,80,0,0,0,1,1,81,0,Derrota,0
+Kevin De Bruyne,Man City,Meio-campo,11,76,0,0,0,2,0,71,0,Empate,0
+Kevin De Bruyne,Man City,Meio-campo,12,85,0,0,0,4,3,50,0,Vitória,1
+Kevin De Bruyne,Man City,Meio-campo,13,89,0,0,0,1,0,83,0,Empate,0
+Kevin De Bruyne,Man City,Meio-campo,14,90,0,0,0,3,2,59,0,Vitória,1
+Kevin De Bruyne,Man City,Meio-campo,16,78,1,0,1,2,1,36,1,Vitória,1
+Kevin De Bruyne,Man City,Meio-campo,17,68,0,0,0,3,0,69,1,Vitória,1
+Kevin De Bruyne,Man City,Meio-campo,18,80,0,0,0,3,2,45,0,Vitória,1
+Kevin De Bruyne,Man City,Meio-campo,19,90,0,0,0,1,0,52,0,Empate,0
+Kevin De Bruyne,Man City,Meio-campo,20,90,0,0,0,3,1,58,1,Empate,0
+Kevin De Bruyne,Man City,Meio-campo,21,72,0,0,0,0,0,47,0,Vitória,1
+Kevin De Bruyne,Man City,Meio-campo,22,84,0,0,0,2,1,76,0,Derrota,0
+Kevin De Bruyne,Man City,Meio-campo,23,77,0,0,0,4,1,51,1,Vitória,1
+Kevin De Bruyne,Man City,Meio-campo,24,77,0,0,0,2,1,55,0,Derrota,0
+Kevin De Bruyne,Man City,Meio-campo,25,86,1,0,1,2,2,60,0,Vitória,1
+Kevin De Bruyne,Man City,Meio-campo,26,75,0,0,0,2,1,46,0,Empate,0
+Kevin De Bruyne,Man City,Meio-campo,27,90,0,0,0,1,0,37,0,Vitória,1
+Kevin De Bruyne,Man City,Meio-campo,28,90,0,0,0,3,2,44,0,Derrota,0
+Kevin De Bruyne,Man City,Meio-campo,29,84,0,0,0,0,0,63,0,Derrota,0
+Kevin De Bruyne,Man City,Meio-campo,30,74,0,0,0,2,1,71,0,Derrota,0
+Kevin De Bruyne,Man City,Meio-campo,31,78,0,0,0,2,1,82,0,Derrota,0
+Kevin De Bruyne,Man City,Meio-campo,32,90,0,0,0,1,1,63,0,Vitória,1
+Kevin De Bruyne,Man City,Meio-campo,33,89,1,0,1,1,1,97,1,Vitória,1
+Kevin De Bruyne,Man City,Meio-campo,34,77,1,1,0,1,1,74,1,Vitória,1
+Kevin De Bruyne,Man City,Meio-campo,35,90,0,0,0,2,0,83,0,Empate,0
+Kevin De Bruyne,Man City,Meio-campo,36,89,0,0,0,3,2,61,0,Empate,0
+Kevin De Bruyne,Man City,Meio-campo,37,84,0,0,0,3,2,68,0,Empate,0
+Kevin De Bruyne,Man City,Meio-campo,38,82,0,0,0,1,0,78,0,Vitória,1
+Phil Foden,Man City,Atacante,1,90,1,0,1,3,1,17,0,Vitória,1
+Phil Foden,Man City,Atacante,2,79,1,0,1,3,2,49,1,Derrota,0
+Phil Foden,Man City,Atacante,3,73,1,1,0,1,1,43,0,Vitória,1
+Phil Foden,Man City,Atacante,4,78,0,0,0,3,0,57,0,Derrota,0
+Phil Foden,Man City,Atacante,5,90,0,0,0,0,0,28,0,Empate,0
+Phil Foden,Man City,Atacante,6,73,1,0,1,3,1,34,0,Empate,0
+Phil Foden,Man City,Atacante,7,77,1,0,1,1,1,54,0,Vitória,1
+Phil Foden,Man City,Atacante,8,61,2,0,2,3,3,60,0,Vitória,1
+Phil Foden,Man City,Atacante,9,90,1,0,1,3,1,41,0,Derrota,0
+Phil Foden,Man City,Atacante,10,75,0,0,0,3,1,33,0,Derrota,0
+Phil Foden,Man City,Atacante,11,90,1,1,0,3,1,58,0,Vitória,1
+Phil Foden,Man City,Atacante,12,74,0,0,0,3,1,27,0,Derrota,0
+Phil Foden,Man City,Atacante,13,89,0,0,0,4,0,26,0,Empate,0
+Phil Foden,Man City,Atacante,14,63,2,0,2,2,2,37,0,Empate,0
+Phil Foden,Man City,Atacante,15,84,2,1,1,4,4,27,0,Vitória,1
+Phil Foden,Man City,Atacante,16,90,0,0,0,8,5,43,1,Empate,0
+Phil Foden,Man City,Atacante,17,69,1,0,1,6,1,55,0,Vitória,1
+Phil Foden,Man City,Atacante,18,90,2,1,1,6,4,42,0,Vitória,1
+Phil Foden,Man City,Atacante,19,65,0,0,0,1,0,32,0,Empate,0
+Phil Foden,Man City,Atacante,20,69,2,1,1,4,4,49,0,Empate,0
+Phil Foden,Man City,Atacante,21,85,0,0,0,1,0,67,0,Vitória,1
+Phil Foden,Man City,Atacante,22,77,1,0,1,2,2,29,0,Vitória,1
+Phil Foden,Man City,Atacante,23,77,0,0,0,6,2,48,0,Vitória,1
+Phil Foden,Man City,Atacante,24,71,0,0,0,2,1,41,0,Empate,0
+Phil Foden,Man City,Atacante,25,90,0,0,0,8,4,30,0,Derrota,0
+Phil Foden,Man City,Atacante,26,77,1,1,0,2,1,33,0,Derrota,0
+Phil Foden,Man City,Atacante,27,90,0,0,0,3,3,27,0,Empate,0
+Phil Foden,Man City,Atacante,29,84,0,0,0,2,1,46,0,Empate,0
+Phil Foden,Man City,Atacante,30,86,0,0,0,0,0,36,0,Derrota,0
+Phil Foden,Man City,Atacante,31,61,1,0,1,3,1,37,0,Vitória,1
+Phil Foden,Man City,Atacante,32,89,0,0,0,4,3,40,0,Vitória,1
+Phil Foden,Man City,Atacante,33,66,1,1,0,6,2,57,1,Empate,0
+Phil Foden,Man City,Atacante,34,80,0,0,0,2,0,57,0,Vitória,1
+Phil Foden,Man City,Atacante,35,90,0,0,0,1,0,35,0,Empate,0
+Phil Foden,Man City,Atacante,36,90,2,1,1,2,2,30,0,Vitória,1
+Phil Foden,Man City,Atacante,37,88,0,0,0,2,0,60,1,Vitória,1
+Phil Foden,Man City,Atacante,38,84,1,0,1,1,1,30,0,Vitória,1
+Rodri,Man City,Meio-campo,2,90,1,1,0,2,2,103,0,Empate,0
+Rodri,Man City,Meio-campo,3,86,0,0,0,0,0,120,1,Vitória,1
+Rodri,Man City,Meio-campo,4,69,1,0,1,2,2,82,0,Vitória,1
+Rodri,Man City,Meio-campo,5,75,0,0,0,1,1,100,0,Derrota,0
+Rodri,Man City,Meio-campo,6,67,1,1,0,3,3,60,0,Vitória,1
+Rodri,Man City,Meio-campo,7,90,0,0,0,3,2,99,0,Vitória,1
+Rodri,Man City,Meio-campo,8,81,0,0,0,3,1,120,1,Vitória,1
+Rodri,Man City,Meio-campo,10,66,0,0,0,0,0,120,0,Vitória,1
+Rodri,Man City,Meio-campo,11,82,0,0,0,2,1,64,0,Vitória,1
+Rodri,Man City,Meio-campo,12,78,1,1,0,2,1,120,1,Vitória,1
+Rodri,Man City,Meio-campo,14,80,1,0,1,1,1,70,0,Empate,0
+Rodri,Man City,Meio-campo,15,83,1,0,1,2,1,105,0,Vitória,1
+Rodri,Man City,Meio-campo,16,85,0,0,0,1,1,79,0,Derrota,0
+Rodri,Man City,Meio-campo,17,90,1,0,1,3,3,93,0,Vitória,1
+Rodri,Man City,Meio-campo,18,90,0,0,0,3,1,89,0,Derrota,0
+Rodri,Man City,Meio-campo,19,78,1,0,1,1,1,120,0,Vitória,1
+Rodri,Man City,Meio-campo,20,70,0,0,0,1,0,43,0,Empate,0
+Rodri,Man City,Meio-campo,21,55,1,0,1,1,1,78,0,Vitória,1
+Rodri,Man City,Meio-campo,22,90,0,0,0,3,0,112,1,Empate,0
+Rodri,Man City,Meio-campo,23,83,0,0,0,2,1,93,1,Vitória,1
+Rodri,Man City,Meio-campo,24,84,0,0,0,2,1,120,1,Vitória,1
+Rodri,Man City,Meio-campo,25,83,0,0,0,0,0,63,1,Derrota,0
+Rodri,Man City,Meio-campo,26,84,0,0,0,5,1,120,0,Vitória,1
+Rodri,Man City,Meio-campo,27,78,0,0,0,3,2,112,1,Empate,0
+Rodri,Man City,Meio-campo,28,67,0,0,0,2,0,102,0,Empate,0
+Rodri,Man City,Meio-campo,29,75,0,0,0,2,1,62,0,Empate,0
+Rodri,Man City,Meio-campo,30,88,0,0,0,0,0,120,0,Vitória,1
+Rodri,Man City,Meio-campo,31,74,0,0,0,1,1,65,1,Empate,0
+Rodri,Man City,Meio-campo,32,87,0,0,0,3,1,120,0,Empate,0
+Rodri,Man City,Meio-campo,33,88,0,0,0,1,0,96,1,Empate,0
+Rodri,Man City,Meio-campo,34,90,1,0,1,1,1,66,0,Vitória,1
+Rodri,Man City,Meio-campo,35,90,0,0,0,1,1,104,0,Derrota,0
+Rodri,Man City,Meio-campo,36,69,0,0,0,0,0,73,0,Vitória,1
+Rodri,Man City,Meio-campo,37,90,0,0,0,4,3,68,1,Derrota,0
+Rodri,Man City,Meio-campo,38,88,0,0,0,0,0,109,1,Derrota,0
+Rúben Dias,Man City,Defensor,1,82,0,0,0,0,0,88,0,Empate,0
+Rúben Dias,Man City,Defensor,2,74,0,0,0,0,0,96,0,Vitória,1
+Rúben Dias,Man City,Defensor,3,88,0,0,0,0,0,86,0,Vitória,1
+Rúben Dias,Man City,Defensor,4,88,0,0,0,0,0,57,0,Empate,0
+Rúben Dias,Man City,Defensor,5,75,0,0,0,0,0,76,0,Vitória,1
+Rúben Dias,Man City,Defensor,6,63,0,0,0,0,0,104,1,Derrota,0
+Rúben Dias,Man City,Defensor,7,75,0,0,0,2,0,60,0,Empate,0
+Rúben Dias,Man City,Defensor,8,90,0,0,0,0,0,68,1,Vitória,1
+Rúben Dias,Man City,Defensor,10,81,0,0,0,0,0,97,0,Vitória,1
+Rúben Dias,Man City,Defensor,11,76,0,0,0,0,0,66,0,Empate,0
+Rúben Dias,Man City,Defensor,12,73,0,0,0,0,0,107,0,Vitória,1
+Rúben Dias,Man City,Defensor,14,90,0,0,0,1,0,110,0,Vitória,1
+Rúben Dias,Man City,Defensor,15,90,0,0,0,0,0,87,1,Vitória,1
+Rúben Dias,Man City,Defensor,16,65,0,0,0,1,0,64,1,Vitória,1
+Rúben Dias,Man City,Defensor,17,72,0,0,0,0,0,103,0,Derrota,0
+Rúben Dias,Man City,Defensor,18,66,0,0,0,1,1,74,0,Vitória,1
+Rúben Dias,Man City,Defensor,20,90,0,0,0,1,0,120,0,Derrota,0
+Rúben Dias,Man City,Defensor,21,69,0,0,0,1,0,43,1,Vitória,1
+Rúben Dias,Man City,Defensor,22,65,0,0,0,3,2,104,0,Derrota,0
+Rúben Dias,Man City,Defensor,23,89,0,0,0,0,0,109,0,Vitória,1
+Rúben Dias,Man City,Defensor,24,86,0,0,0,0,0,71,0,Derrota,0
+Rúben Dias,Man City,Defensor,25,84,0,0,0,0,0,120,0,Empate,0
+Rúben Dias,Man City,Defensor,26,80,0,0,0,0,0,58,0,Vitória,1
+Rúben Dias,Man City,Defensor,27,75,0,0,0,1,0,97,0,Derrota,0
+Rúben Dias,Man City,Defensor,28,64,0,0,0,0,0,61,0,Vitória,1
+Rúben Dias,Man City,Defensor,29,89,0,0,0,0,0,92,0,Vitória,1
+Rúben Dias,Man City,Defensor,30,90,0,0,0,0,0,72,0,Vitória,1
+Rúben Dias,Man City,Defensor,31,90,0,0,0,1,0,120,0,Empate,0
+Rúben Dias,Man City,Defensor,32,79,0,0,0,1,0,75,0,Vitória,1
+Rúben Dias,Man City,Defensor,33,71,0,0,0,0,0,82,0,Derrota,0
+Rúben Dias,Man City,Defensor,34,90,0,0,0,0,0,62,0,Vitória,1
+Rúben Dias,Man City,Defensor,35,66,0,0,0,0,0,92,1,Derrota,0
+Rúben Dias,Man City,Defensor,36,59,0,0,0,0,0,88,0,Derrota,0
+Rúben Dias,Man City,Defensor,37,79,0,0,0,0,0,114,0,Empate,0
+Rúben Dias,Man City,Defensor,38,90,0,0,0,1,1,101,0,Derrota,0
+Bukayo Saka,Arsenal,Atacante,1,80,0,0,0,3,2,36,0,Derrota,0
+Bukayo Saka,Arsenal,Atacante,2,75,0,0,0,3,1,37,0,Vitória,1
+Bukayo Saka,Arsenal,Atacante,3,82,1,0,1,3,3,42,0,Vitória,1
+Bukayo Saka,Arsenal,Atacante,4,82,0,0,0,1,0,41,0,Derrota,0
+Bukayo Saka,Arsenal,Atacante,5,69,2,1,1,2,2,38,0,Vitória,1
+Bukayo Saka,Arsenal,Atacante,7,76,0,0,0,2,1,57,0,Empate,0
+Bukayo Saka,Arsenal,Atacante,8,74,0,0,0,1,1,43,0,Vitória,1
+Bukayo Saka,Arsenal,Atacante,9,78,2,0,2,4,4,23,0,Vitória,1
+Bukayo Saka,Arsenal,Atacante,10,60,1,1,0,4,3,39,0,Vitória,1
+Bukayo Saka,Arsenal,Atacante,11,78,1,0,1,3,2,42,0,Vitória,1
+Bukayo Saka,Arsenal,Atacante,12,82,1,1,0,4,2,51,1,Vitória,1
+Bukayo Saka,Arsenal,Atacante,13,88,0,0,0,4,2,41,0,Empate,0
+Bukayo Saka,Arsenal,Atacante,14,56,0,0,0,2,1,32,0,Vitória,1
+Bukayo Saka,Arsenal,Atacante,15,77,0,0,0,5,4,29,0,Vitória,1
+Bukayo Saka,Arsenal,Atacante,16,90,0,0,0,2,1,27,0,Empate,0
+Bukayo Saka,Arsenal,Atacante,17,58,0,0,0,0,0,39,0,Derrota,0
+Bukayo Saka,Arsenal,Atacante,18,90,1,1,0,2,2,44,0,Empate,0
+Bukayo Saka,Arsenal,Atacante,19,85,0,0,0,1,1,37,0,Vitória,1
+Bukayo Saka,Arsenal,Atacante,20,88,1,0,1,4,4,35,1,Vitória,1
+Bukayo Saka,Arsenal,Atacante,21,79,0,0,0,3,1,34,0,Vitória,1
+Bukayo Saka,Arsenal,Atacante,23,90,1,0,1,2,2,54,0,Empate,0
+Bukayo Saka,Arsenal,Atacante,24,70,0,0,0,7,3,40,0,Empate,0
+Bukayo Saka,Arsenal,Atacante,25,90,1,1,0,2,2,27,0,Vitória,1
+Bukayo Saka,Arsenal,Atacante,27,82,1,0,1,2,1,54,0,Derrota,0
+Bukayo Saka,Arsenal,Atacante,28,65,0,0,0,2,0,37,1,Vitória,1
+Bukayo Saka,Arsenal,Atacante,29,78,1,0,1,3,2,30,1,Vitória,1
+Bukayo Saka,Arsenal,Atacante,30,81,2,0,2,4,4,48,0,Empate,0
+Bukayo Saka,Arsenal,Atacante,32,83,1,0,1,2,2,32,0,Vitória,1
+Bukayo Saka,Arsenal,Atacante,33,88,1,0,1,1,1,36,0,Vitória,1
+Bukayo Saka,Arsenal,Atacante,34,74,1,0,1,1,1,41,0,Vitória,1
+Bukayo Saka,Arsenal,Atacante,35,58,1,1,0,4,3,44,0,Empate,0
+Bukayo Saka,Arsenal,Atacante,36,60,0,0,0,4,1,31,0,Vitória,1
+Bukayo Saka,Arsenal,Atacante,37,70,0,0,0,3,1,33,0,Derrota,0
+Bukayo Saka,Arsenal,Atacante,38,67,1,1,0,2,2,32,0,Vitória,1
+Martin Ødegaard,Arsenal,Meio-campo,1,80,0,0,0,0,0,52,0,Vitória,1
+Martin Ødegaard,Arsenal,Meio-campo,3,80,1,1,0,4,2,61,0,Vitória,1
+Martin Ødegaard,Arsenal,Meio-campo,4,90,1,0,1,1,1,61,0,Vitória,1
+Martin Ødegaard,Arsenal,Meio-campo,6,90,0,0,0,3,3,31,0,Empate,0
+Martin Ødegaard,Arsenal,Meio-campo,7,67,0,0,0,0,0,65,0,Vitória,1
+Martin Ødegaard,Arsenal,Meio-campo,10,90,0,0,0,2,0,59,0,Derrota,0
+Martin Ødegaard,Arsenal,Meio-campo,11,86,0,0,0,3,0,57,0,Vitória,1
+Martin Ødegaard,Arsenal,Meio-campo,12,90,2,2,0,3,2,54,0,Vitória,1
+Martin Ødegaard,Arsenal,Meio-campo,13,80,0,0,0,2,1,72,0,Derrota,0
+Martin Ødegaard,Arsenal,Meio-campo,14,77,0,0,0,2,2,47,1,Derrota,0
+Martin Ødegaard,Arsenal,Meio-campo,15,75,0,0,0,3,2,70,0,Empate,0
+Martin Ødegaard,Arsenal,Meio-campo,16,86,0,0,0,1,0,73,0,Vitória,1
+Martin Ødegaard,Arsenal,Meio-campo,17,83,1,1,0,2,2,56,0,Vitória,1
+Martin Ødegaard,Arsenal,Meio-campo,18,80,0,0,0,1,1,47,0,Vitória,1
+Martin Ødegaard,Arsenal,Meio-campo,20,63,0,0,0,4,3,56,0,Empate,0
+Martin Ødegaard,Arsenal,Meio-campo,21,74,0,0,0,4,2,60,0,Derrota,0
+Martin Ødegaard,Arsenal,Meio-campo,22,59,0,0,0,1,1,57,0,Vitória,1
+Martin Ødegaard,Arsenal,Meio-campo,23,78,1,0,1,2,2,60,0,Empate,0
+Martin Ødegaard,Arsenal,Meio-campo,24,85,0,0,0,3,2,60,0,Vitória,1
+Martin Ødegaard,Arsenal,Meio-campo,25,88,0,0,0,5,3,46,0,Vitória,1
+Martin Ødegaard,Arsenal,Meio-campo,26,82,0,0,0,2,1,66,1,Derrota,0
+Martin Ødegaard,Arsenal,Meio-campo,27,85,0,0,0,3,2,62,0,Vitória,1
+Martin Ødegaard,Arsenal,Meio-campo,28,90,0,0,0,3,2,69,0,Vitória,1
+Martin Ødegaard,Arsenal,Meio-campo,29,82,0,0,0,1,0,43,0,Vitória,1
+Martin Ødegaard,Arsenal,Meio-campo,30,79,0,0,0,2,1,19,0,Empate,0
+Martin Ødegaard,Arsenal,Meio-campo,31,90,1,1,0,1,1,47,0,Vitória,1
+Martin Ødegaard,Arsenal,Meio-campo,32,83,0,0,0,1,0,80,0,Derrota,0
+Martin Ødegaard,Arsenal,Meio-campo,33,90,0,0,0,2,0,67,0,Empate,0
+Martin Ødegaard,Arsenal,Meio-campo,34,73,2,2,0,2,2,57,0,Vitória,1
+Martin Ødegaard,Arsenal,Meio-campo,35,90,0,0,0,2,1,66,0,Vitória,1
+Martin Ødegaard,Arsenal,Meio-campo,36,79,0,0,0,2,0,64,1,Empate,0
+Martin Ødegaard,Arsenal,Meio-campo,37,62,0,0,0,1,0,60,0,Empate,0
+Martin Ødegaard,Arsenal,Meio-campo,38,75,0,0,0,2,2,56,0,Derrota,0
+Kai Havertz,Arsenal,Atacante,1,82,0,0,0,2,1,30,0,Vitória,1
+Kai Havertz,Arsenal,Atacante,2,82,2,1,1,3,2,32,0,Empate,0
+Kai Havertz,Arsenal,Atacante,3,89,0,0,0,2,2,26,0,Vitória,1
+Kai Havertz,Arsenal,Atacante,4,81,0,0,0,1,0,24,0,Derrota,0
+Kai Havertz,Arsenal,Atacante,5,74,0,0,0,6,3,37,0,Empate,0
+Kai Havertz,Arsenal,Atacante,6,82,0,0,0,0,0,21,1,Derrota,0
+Kai Havertz,Arsenal,Atacante,7,83,0,0,0,3,1,32,0,Derrota,0
+Kai Havertz,Arsenal,Atacante,8,90,0,0,0,2,0,25,0,Derrota,0
+Kai Havertz,Arsenal,Atacante,9,82,0,0,0,5,1,32,0,Empate,0
+Kai Havertz,Arsenal,Atacante,10,75,0,0,0,1,0,27,0,Vitória,1
+Kai Havertz,Arsenal,Atacante,12,68,0,0,0,0,0,20,0,Vitória,1
+Kai Havertz,Arsenal,Atacante,13,89,0,0,0,1,1,31,0,Vitória,1
+Kai Havertz,Arsenal,Atacante,14,90,0,0,0,0,0,15,0,Vitória,1
+Kai Havertz,Arsenal,Atacante,15,88,0,0,0,2,1,28,0,Vitória,1
+Kai Havertz,Arsenal,Atacante,16,54,2,1,1,5,5,29,1,Vitória,1
+Kai Havertz,Arsenal,Atacante,17,90,0,0,0,3,2,34,0,Vitória,1
+Kai Havertz,Arsenal,Atacante,18,63,1,0,1,1,1,25,0,Empate,0
+Kai Havertz,Arsenal,Atacante,19,84,0,0,0,2,0,37,0,Derrota,0
+Kai Havertz,Arsenal,Atacante,20,74,0,0,0,3,2,33,1,Empate,0
+Kai Havertz,Arsenal,Atacante,21,69,0,0,0,2,0,18,0,Vitória,1
+Kai Havertz,Arsenal,Atacante,22,68,0,0,0,4,1,36,0,Derrota,0
+Kai Havertz,Arsenal,Atacante,23,70,0,0,0,1,0,21,1,Derrota,0
+Kai Havertz,Arsenal,Atacante,24,90,1,0,1,2,2,23,0,Vitória,1
+Kai Havertz,Arsenal,Atacante,25,83,0,0,0,0,0,30,0,Vitória,1
+Kai Havertz,Arsenal,Atacante,26,90,0,0,0,0,0,36,0,Derrota,0
+Kai Havertz,Arsenal,Atacante,27,63,0,0,0,3,0,34,0,Derrota,0
+Kai Havertz,Arsenal,Atacante,28,86,1,0,1,1,1,18,0,Vitória,1
+Kai Havertz,Arsenal,Atacante,30,77,0,0,0,1,0,30,0,Vitória,1
+Kai Havertz,Arsenal,Atacante,31,80,0,0,0,2,1,33,0,Empate,0
+Kai Havertz,Arsenal,Atacante,32,75,0,0,0,2,0,29,1,Vitória,1
+Kai Havertz,Arsenal,Atacante,33,81,1,1,0,1,1,22,0,Empate,0
+Kai Havertz,Arsenal,Atacante,34,82,0,0,0,4,1,33,0,Empate,0
+Kai Havertz,Arsenal,Atacante,35,72,1,1,0,2,2,18,0,Vitória,1
+Kai Havertz,Arsenal,Atacante,36,75,0,0,0,0,0,34,0,Vitória,1
+Kai Havertz,Arsenal,Atacante,37,76,0,0,0,1,0,38,1,Vitória,1
+Kai Havertz,Arsenal,Atacante,38,83,1,0,1,1,1,29,0,Vitória,1
+Gabriel Martinelli,Arsenal,Atacante,1,87,0,0,0,3,1,36,0,Derrota,0
+Gabriel Martinelli,Arsenal,Atacante,2,90,0,0,0,3,2,14,0,Empate,0
+Gabriel Martinelli,Arsenal,Atacante,3,87,0,0,0,2,0,24,1,Derrota,0
+Gabriel Martinelli,Arsenal,Atacante,4,67,0,0,0,0,0,32,0,Vitória,1
+Gabriel Martinelli,Arsenal,Atacante,5,79,0,0,0,2,1,29,0,Vitória,1
+Gabriel Martinelli,Arsenal,Atacante,7,56,0,0,0,3,1,43,0,Derrota,0
+Gabriel Martinelli,Arsenal,Atacante,8,69,0,0,0,1,0,32,0,Vitória,1
+Gabriel Martinelli,Arsenal,Atacante,9,80,0,0,0,1,1,33,1,Empate,0
+Gabriel Martinelli,Arsenal,Atacante,10,90,0,0,0,0,0,39,0,Derrota,0
+Gabriel Martinelli,Arsenal,Atacante,11,81,0,0,0,2,2,41,0,Empate,0
+Gabriel Martinelli,Arsenal,Atacante,12,90,1,0,1,4,3,28,1,Vitória,1
+Gabriel Martinelli,Arsenal,Atacante,13,59,0,0,0,2,1,36,0,Derrota,0
+Gabriel Martinelli,Arsenal,Atacante,14,89,0,0,0,0,0,22,0,Empate,0
+Gabriel Martinelli,Arsenal,Atacante,15,87,1,1,0,1,1,43,0,Empate,0
+Gabriel Martinelli,Arsenal,Atacante,16,83,0,0,0,6,1,31,0,Derrota,0
+Gabriel Martinelli,Arsenal,Atacante,17,74,0,0,0,1,1,23,0,Vitória,1
+Gabriel Martinelli,Arsenal,Atacante,18,71,1,1,0,2,2,44,0,Vitória,1
+Gabriel Martinelli,Arsenal,Atacante,19,89,0,0,0,2,1,24,0,Derrota,0
+Gabriel Martinelli,Arsenal,Atacante,20,85,0,0,0,1,0,27,1,Derrota,0
+Gabriel Martinelli,Arsenal,Atacante,21,75,0,0,0,3,2,32,0,Derrota,0
+Gabriel Martinelli,Arsenal,Atacante,22,87,0,0,0,0,0,19,0,Derrota,0
+Gabriel Martinelli,Arsenal,Atacante,23,69,0,0,0,3,2,30,0,Vitória,1
+Gabriel Martinelli,Arsenal,Atacante,24,90,0,0,0,5,2,37,0,Derrota,0
+Gabriel Martinelli,Arsenal,Atacante,25,72,0,0,0,4,1,44,0,Derrota,0
+Gabriel Martinelli,Arsenal,Atacante,26,89,0,0,0,0,0,39,0,Derrota,0
+Gabriel Martinelli,Arsenal,Atacante,27,90,0,0,0,2,1,32,0,Vitória,1
+Gabriel Martinelli,Arsenal,Atacante,28,90,1,0,1,7,3,27,0,Vitória,1
+Gabriel Martinelli,Arsenal,Atacante,29,83,0,0,0,1,0,38,0,Vitória,1
+Gabriel Martinelli,Arsenal,Atacante,30,68,2,1,1,3,3,36,0,Derrota,0
+Gabriel Martinelli,Arsenal,Atacante,31,75,2,2,0,2,2,30,1,Vitória,1
+Gabriel Martinelli,Arsenal,Atacante,32,61,0,0,0,1,1,30,0,Derrota,0
+Gabriel Martinelli,Arsenal,Atacante,33,90,0,0,0,1,0,26,0,Vitória,1
+Gabriel Martinelli,Arsenal,Atacante,34,77,0,0,0,2,1,34,0,Empate,0
+Gabriel Martinelli,Arsenal,Atacante,35,84,0,0,0,1,0,23,0,Vitória,1
+Gabriel Martinelli,Arsenal,Atacante,36,90,0,0,0,3,2,27,0,Derrota,0
+Gabriel Martinelli,Arsenal,Atacante,37,90,2,0,2,3,3,33,0,Empate,0
+Gabriel Martinelli,Arsenal,Atacante,38,75,1,0,1,2,2,16,0,Vitória,1
+Declan Rice,Arsenal,Meio-campo,1,56,0,0,0,0,0,82,1,Vitória,1
+Declan Rice,Arsenal,Meio-campo,2,87,0,0,0,3,1,60,0,Vitória,1
+Declan Rice,Arsenal,Meio-campo,3,90,0,0,0,0,0,71,0,Vitória,1
+Declan Rice,Arsenal,Meio-campo,4,71,0,0,0,4,1,52,0,Vitória,1
+Declan Rice,Arsenal,Meio-campo,5,70,0,0,0,2,1,56,1,Empate,0
+Declan Rice,Arsenal,Meio-campo,6,75,1,0,1,1,1,91,0,Vitória,1
+Declan Rice,Arsenal,Meio-campo,8,74,0,0,0,1,1,68,1,Vitória,1
+Declan Rice,Arsenal,Meio-campo,9,75,0,0,0,1,0,73,0,Vitória,1
+Declan Rice,Arsenal,Meio-campo,10,85,0,0,0,3,0,60,1,Derrota,0
+Declan Rice,Arsenal,Meio-campo,11,73,0,0,0,0,0,80,0,Derrota,0
+Declan Rice,Arsenal,Meio-campo,12,90,0,0,0,4,1,84,0,Vitória,1
+Declan Rice,Arsenal,Meio-campo,13,90,1,0,1,1,1,93,0,Vitória,1
+Declan Rice,Arsenal,Meio-campo,14,89,0,0,0,0,0,64,0,Vitória,1
+Declan Rice,Arsenal,Meio-campo,16,62,0,0,0,3,2,68,0,Derrota,0
+Declan Rice,Arsenal,Meio-campo,17,70,0,0,0,3,2,97,0,Vitória,1
+Declan Rice,Arsenal,Meio-campo,18,71,1,1,0,1,1,35,0,Vitória,1
+Declan Rice,Arsenal,Meio-campo,19,90,0,0,0,4,2,69,0,Vitória,1
+Declan Rice,Arsenal,Meio-campo,20,80,0,0,0,1,1,69,0,Vitória,1
+Declan Rice,Arsenal,Meio-campo,21,87,0,0,0,0,0,103,0,Derrota,0
+Declan Rice,Arsenal,Meio-campo,22,81,0,0,0,0,0,75,0,Empate,0
+Declan Rice,Arsenal,Meio-campo,23,65,0,0,0,2,1,79,0,Vitória,1
+Declan Rice,Arsenal,Meio-campo,24,69,0,0,0,1,1,57,0,Vitória,1
+Declan Rice,Arsenal,Meio-campo,25,77,0,0,0,2,2,87,0,Empate,0
+Declan Rice,Arsenal,Meio-campo,26,52,0,0,0,4,1,56,1,Empate,0
+Declan Rice,Arsenal,Meio-campo,28,79,0,0,0,3,1,57,0,Vitória,1
+Declan Rice,Arsenal,Meio-campo,29,90,0,0,0,0,0,53,1,Vitória,1
+Declan Rice,Arsenal,Meio-campo,30,80,0,0,0,2,1,59,0,Derrota,0
+Declan Rice,Arsenal,Meio-campo,31,84,0,0,0,2,1,79,0,Derrota,0
+Declan Rice,Arsenal,Meio-campo,32,84,0,0,0,2,2,63,0,Derrota,0
+Declan Rice,Arsenal,Meio-campo,33,58,0,0,0,1,0,70,1,Derrota,0
+Declan Rice,Arsenal,Meio-campo,35,71,0,0,0,3,1,89,0,Vitória,1
+Declan Rice,Arsenal,Meio-campo,36,90,0,0,0,1,1,86,0,Vitória,1
+Declan Rice,Arsenal,Meio-campo,37,68,0,0,0,3,1,63,1,Vitória,1
+Declan Rice,Arsenal,Meio-campo,38,68,0,0,0,0,0,73,0,Vitória,1
+William Saliba,Arsenal,Defensor,1,74,0,0,0,0,0,70,1,Empate,0
+William Saliba,Arsenal,Defensor,2,73,0,0,0,0,0,90,0,Empate,0
+William Saliba,Arsenal,Defensor,3,69,0,0,0,0,0,88,1,Empate,0
+William Saliba,Arsenal,Defensor,4,74,0,0,0,2,1,83,0,Derrota,0
+William Saliba,Arsenal,Defensor,5,90,0,0,0,0,0,58,0,Vitória,1
+William Saliba,Arsenal,Defensor,6,85,0,0,0,1,0,50,0,Vitória,1
+William Saliba,Arsenal,Defensor,7,77,0,0,0,0,0,74,0,Empate,0
+William Saliba,Arsenal,Defensor,8,69,0,0,0,0,0,58,0,Derrota,0
+William Saliba,Arsenal,Defensor,9,68,0,0,0,0,0,66,0,Vitória,1
+William Saliba,Arsenal,Defensor,11,89,0,0,0,1,0,92,0,Vitória,1
+William Saliba,Arsenal,Defensor,12,90,0,0,0,0,0,38,0,Derrota,0
+William Saliba,Arsenal,Defensor,13,70,0,0,0,0,0,59,1,Vitória,1
+William Saliba,Arsenal,Defensor,15,76,0,0,0,0,0,88,0,Empate,0
+William Saliba,Arsenal,Defensor,16,90,0,0,0,1,1,58,0,Vitória,1
+William Saliba,Arsenal,Defensor,17,85,0,0,0,0,0,54,0,Empate,0
+William Saliba,Arsenal,Defensor,19,78,0,0,0,0,0,71,0,Empate,0
+William Saliba,Arsenal,Defensor,20,75,0,0,0,1,1,56,0,Empate,0
+William Saliba,Arsenal,Defensor,21,61,0,0,0,0,0,91,0,Vitória,1
+William Saliba,Arsenal,Defensor,22,89,0,0,0,1,1,77,0,Vitória,1
+William Saliba,Arsenal,Defensor,23,89,0,0,0,0,0,51,0,Vitória,1
+William Saliba,Arsenal,Defensor,24,58,0,0,0,0,0,84,0,Empate,0
+William Saliba,Arsenal,Defensor,25,90,0,0,0,0,0,60,0,Vitória,1
+William Saliba,Arsenal,Defensor,26,82,0,0,0,1,0,66,1,Empate,0
+William Saliba,Arsenal,Defensor,27,63,0,0,0,0,0,99,1,Vitória,1
+William Saliba,Arsenal,Defensor,29,90,1,1,0,1,1,73,0,Vitória,1
+William Saliba,Arsenal,Defensor,30,72,0,0,0,0,0,64,0,Derrota,0
+William Saliba,Arsenal,Defensor,31,81,0,0,0,0,0,91,1,Vitória,1
+William Saliba,Arsenal,Defensor,32,90,0,0,0,0,0,78,1,Empate,0
+William Saliba,Arsenal,Defensor,33,71,0,0,0,0,0,73,0,Vitória,1
+William Saliba,Arsenal,Defensor,34,90,0,0,0,0,0,71,0,Derrota,0
+William Saliba,Arsenal,Defensor,35,72,0,0,0,0,0,96,0,Empate,0
+William Saliba,Arsenal,Defensor,36,77,0,0,0,1,1,69,0,Derrota,0
+William Saliba,Arsenal,Defensor,37,90,0,0,0,0,0,69,0,Vitória,1
+William Saliba,Arsenal,Defensor,38,82,0,0,0,0,0,33,0,Vitória,1
+Mohamed Salah,Liverpool,Atacante,1,60,1,1,0,3,3,23,0,Vitória,1
+Mohamed Salah,Liverpool,Atacante,2,60,0,0,0,2,1,48,0,Vitória,1
+Mohamed Salah,Liverpool,Atacante,3,90,1,1,0,2,2,37,0,Vitória,1
+Mohamed Salah,Liverpool,Atacante,4,79,1,1,0,3,2,24,0,Empate,0
+Mohamed Salah,Liverpool,Atacante,5,84,0,0,0,4,1,34,0,Empate,0
+Mohamed Salah,Liverpool,Atacante,7,90,1,1,0,2,1,34,0,Vitória,1
+Mohamed Salah,Liverpool,Atacante,8,83,1,0,1,1,1,29,0,Vitória,1
+Mohamed Salah,Liverpool,Atacante,9,85,1,1,0,5,3,47,0,Vitória,1
+Mohamed Salah,Liverpool,Atacante,10,90,0,0,0,2,1,39,0,Vitória,1
+Mohamed Salah,Liverpool,Atacante,11,75,0,0,0,4,2,33,1,Vitória,1
+Mohamed Salah,Liverpool,Atacante,12,90,1,0,1,1,1,36,0,Vitória,1
+Mohamed Salah,Liverpool,Atacante,13,76,0,0,0,1,0,33,0,Vitória,1
+Mohamed Salah,Liverpool,Atacante,15,90,0,0,0,0,0,16,0,Vitória,1
+Mohamed Salah,Liverpool,Atacante,16,77,0,0,0,1,1,34,0,Derrota,0
+Mohamed Salah,Liverpool,Atacante,17,65,0,0,0,4,3,30,1,Vitória,1
+Mohamed Salah,Liverpool,Atacante,18,88,1,0,1,4,3,31,0,Vitória,1
+Mohamed Salah,Liverpool,Atacante,19,86,0,0,0,3,1,37,0,Derrota,0
+Mohamed Salah,Liverpool,Atacante,20,70,0,0,0,5,2,49,0,Empate,0
+Mohamed Salah,Liverpool,Atacante,21,90,1,0,1,4,2,19,0,Vitória,1
+Mohamed Salah,Liverpool,Atacante,22,89,2,1,1,2,2,50,0,Vitória,1
+Mohamed Salah,Liverpool,Atacante,23,59,1,1,0,3,2,34,0,Vitória,1
+Mohamed Salah,Liverpool,Atacante,24,81,0,0,0,9,3,35,0,Vitória,1
+Mohamed Salah,Liverpool,Atacante,25,90,0,0,0,2,0,46,0,Vitória,1
+Mohamed Salah,Liverpool,Atacante,26,90,0,0,0,4,1,31,0,Empate,0
+Mohamed Salah,Liverpool,Atacante,27,90,3,2,1,3,3,45,0,Vitória,1
+Mohamed Salah,Liverpool,Atacante,28,82,1,1,0,3,3,45,0,Empate,0
+Mohamed Salah,Liverpool,Atacante,29,90,2,0,2,4,3,41,0,Vitória,1
+Mohamed Salah,Liverpool,Atacante,30,75,0,0,0,6,1,22,0,Vitória,1
+Mohamed Salah,Liverpool,Atacante,31,81,0,0,0,4,3,28,0,Derrota,0
+Mohamed Salah,Liverpool,Atacante,32,85,1,0,1,3,3,36,0,Vitória,1
+Mohamed Salah,Liverpool,Atacante,34,90,2,2,0,4,4,41,0,Vitória,1
+Mohamed Salah,Liverpool,Atacante,35,90,0,0,0,3,2,34,0,Empate,0
+Mohamed Salah,Liverpool,Atacante,36,86,1,1,0,5,3,38,0,Vitória,1
+Mohamed Salah,Liverpool,Atacante,38,65,0,0,0,4,0,41,0,Derrota,0
+Darwin Núñez,Liverpool,Atacante,1,65,0,0,0,4,4,13,0,Vitória,1
+Darwin Núñez,Liverpool,Atacante,2,63,0,0,0,5,1,28,0,Empate,0
+Darwin Núñez,Liverpool,Atacante,3,90,0,0,0,1,0,19,1,Vitória,1
+Darwin Núñez,Liverpool,Atacante,5,73,0,0,0,3,0,22,0,Vitória,1
+Darwin Núñez,Liverpool,Atacante,6,90,0,0,0,2,0,24,1,Vitória,1
+Darwin Núñez,Liverpool,Atacante,7,75,0,0,0,4,2,25,0,Derrota,0
+Darwin Núñez,Liverpool,Atacante,8,84,2,1,1,2,2,11,0,Empate,0
+Darwin Núñez,Liverpool,Atacante,9,69,0,0,0,1,0,16,0,Vitória,1
+Darwin Núñez,Liverpool,Atacante,10,57,0,0,0,2,0,19,0,Vitória,1
+Darwin Núñez,Liverpool,Atacante,11,85,0,0,0,2,1,15,0,Vitória,1
+Darwin Núñez,Liverpool,Atacante,13,79,1,0,1,7,3,21,0,Vitória,1
+Darwin Núñez,Liverpool,Atacante,14,71,0,0,0,5,1,22,0,Vitória,1
+Darwin Núñez,Liverpool,Atacante,15,80,0,0,0,3,2,22,1,Derrota,0
+Darwin Núñez,Liverpool,Atacante,16,73,0,0,0,3,2,25,0,Derrota,0
+Darwin Núñez,Liverpool,Atacante,17,67,0,0,0,4,1,14,1,Vitória,1
+Darwin Núñez,Liverpool,Atacante,18,90,1,1,0,3,1,28,0,Vitória,1
+Darwin Núñez,Liverpool,Atacante,19,77,0,0,0,2,0,19,0,Vitória,1
+Darwin Núñez,Liverpool,Atacante,21,69,0,0,0,4,2,19,0,Empate,0
+Darwin Núñez,Liverpool,Atacante,22,76,1,0,1,6,3,17,0,Vitória,1
+Darwin Núñez,Liverpool,Atacante,23,80,0,0,0,7,2,23,0,Derrota,0
+Darwin Núñez,Liverpool,Atacante,24,90,2,0,2,5,3,23,0,Vitória,1
+Darwin Núñez,Liverpool,Atacante,25,90,0,0,0,7,3,15,0,Empate,0
+Darwin Núñez,Liverpool,Atacante,26,90,1,0,1,8,6,14,1,Vitória,1
+Darwin Núñez,Liverpool,Atacante,27,62,0,0,0,3,2,27,0,Vitória,1
+Darwin Núñez,Liverpool,Atacante,28,88,0,0,0,3,1,15,0,Derrota,0
+Darwin Núñez,Liverpool,Atacante,29,89,2,0,2,2,2,19,0,Vitória,1
+Darwin Núñez,Liverpool,Atacante,30,77,0,0,0,7,3,14,0,Empate,0
+Darwin Núñez,Liverpool,Atacante,31,65,1,0,1,4,2,20,0,Empate,0
+Darwin Núñez,Liverpool,Atacante,32,90,0,0,0,3,1,15,0,Empate,0
+Darwin Núñez,Liverpool,Atacante,33,82,0,0,0,3,0,22,0,Vitória,1
+Darwin Núñez,Liverpool,Atacante,34,90,0,0,0,2,0,20,0,Vitória,1
+Darwin Núñez,Liverpool,Atacante,35,90,0,0,0,1,0,18,0,Empate,0
+Darwin Núñez,Liverpool,Atacante,36,73,0,0,0,7,3,18,0,Empate,0
+Darwin Núñez,Liverpool,Atacante,37,70,1,0,1,5,3,14,0,Vitória,1
+Darwin Núñez,Liverpool,Atacante,38,80,0,0,0,4,2,21,0,Vitória,1
+Luis Díaz,Liverpool,Atacante,1,90,0,0,0,1,0,38,0,Derrota,0
+Luis Díaz,Liverpool,Atacante,2,71,1,0,1,1,1,30,0,Vitória,1
+Luis Díaz,Liverpool,Atacante,4,78,1,1,0,1,1,32,0,Empate,0
+Luis Díaz,Liverpool,Atacante,5,82,1,1,0,4,2,28,0,Vitória,1
+Luis Díaz,Liverpool,Atacante,6,90,1,1,0,1,1,42,0,Vitória,1
+Luis Díaz,Liverpool,Atacante,8,90,0,0,0,3,1,31,0,Vitória,1
+Luis Díaz,Liverpool,Atacante,9,90,0,0,0,0,0,32,0,Vitória,1
+Luis Díaz,Liverpool,Atacante,10,74,0,0,0,2,1,34,0,Derrota,0
+Luis Díaz,Liverpool,Atacante,11,79,0,0,0,1,0,36,0,Empate,0
+Luis Díaz,Liverpool,Atacante,12,85,0,0,0,4,3,40,0,Vitória,1
+Luis Díaz,Liverpool,Atacante,13,72,0,0,0,2,1,35,0,Vitória,1
+Luis Díaz,Liverpool,Atacante,15,78,1,0,1,1,1,19,0,Vitória,1
+Luis Díaz,Liverpool,Atacante,16,87,0,0,0,3,1,34,0,Derrota,0
+Luis Díaz,Liverpool,Atacante,17,85,0,0,0,1,0,31,0,Vitória,1
+Luis Díaz,Liverpool,Atacante,18,66,0,0,0,1,1,53,0,Empate,0
+Luis Díaz,Liverpool,Atacante,19,53,2,1,1,4,4,31,0,Vitória,1
+Luis Díaz,Liverpool,Atacante,20,73,1,1,0,1,1,21,0,Vitória,1
+Luis Díaz,Liverpool,Atacante,21,78,2,1,1,2,2,31,0,Vitória,1
+Luis Díaz,Liverpool,Atacante,22,82,0,0,0,2,1,41,0,Vitória,1
+Luis Díaz,Liverpool,Atacante,23,53,0,0,0,4,2,43,0,Empate,0
+Luis Díaz,Liverpool,Atacante,25,90,0,0,0,2,1,30,0,Derrota,0
+Luis Díaz,Liverpool,Atacante,26,90,0,0,0,2,0,31,0,Empate,0
+Luis Díaz,Liverpool,Atacante,27,82,1,1,0,4,2,40,0,Empate,0
+Luis Díaz,Liverpool,Atacante,28,72,2,1,1,3,2,24,1,Vitória,1
+Luis Díaz,Liverpool,Atacante,29,80,0,0,0,1,1,18,0,Empate,0
+Luis Díaz,Liverpool,Atacante,30,90,0,0,0,1,0,44,0,Derrota,0
+Luis Díaz,Liverpool,Atacante,31,80,0,0,0,2,0,46,0,Empate,0
+Luis Díaz,Liverpool,Atacante,32,77,0,0,0,2,0,29,0,Vitória,1
+Luis Díaz,Liverpool,Atacante,35,68,0,0,0,5,0,27,0,Vitória,1
+Luis Díaz,Liverpool,Atacante,36,90,1,1,0,3,3,26,0,Vitória,1
+Luis Díaz,Liverpool,Atacante,37,87,0,0,0,3,1,50,0,Empate,0
+Luis Díaz,Liverpool,Atacante,38,81,0,0,0,2,0,21,0,Vitória,1
+Dominik Szoboszlai,Liverpool,Meio-campo,2,74,0,0,0,2,1,59,0,Empate,0
+Dominik Szoboszlai,Liverpool,Meio-campo,3,90,0,0,0,1,0,20,0,Empate,0
+Dominik Szoboszlai,Liverpool,Meio-campo,4,90,0,0,0,0,0,63,0,Empate,0
+Dominik Szoboszlai,Liverpool,Meio-campo,5,85,1,1,0,1,1,44,1,Vitória,1
+Dominik Szoboszlai,Liverpool,Meio-campo,6,73,1,1,0,1,1,35,0,Vitória,1
+Dominik Szoboszlai,Liverpool,Meio-campo,7,85,0,0,0,5,3,52,0,Empate,0
+Dominik Szoboszlai,Liverpool,Meio-campo,8,80,0,0,0,3,0,66,0,Empate,0
+Dominik Szoboszlai,Liverpool,Meio-campo,10,85,0,0,0,3,2,28,0,Derrota,0
+Dominik Szoboszlai,Liverpool,Meio-campo,11,72,0,0,0,0,0,49,0,Derrota,0
+Dominik Szoboszlai,Liverpool,Meio-campo,12,72,0,0,0,2,1,53,0,Vitória,1
+Dominik Szoboszlai,Liverpool,Meio-campo,13,79,0,0,0,1,1,71,0,Vitória,1
+Dominik Szoboszlai,Liverpool,Meio-campo,14,90,0,0,0,0,0,59,0,Vitória,1
+Dominik Szoboszlai,Liverpool,Meio-campo,15,63,0,0,0,4,1,64,0,Vitória,1
+Dominik Szoboszlai,Liverpool,Meio-campo,16,90,1,0,1,1,1,60,0,Vitória,1
+Dominik Szoboszlai,Liverpool,Meio-campo,17,90,0,0,0,3,1,62,0,Vitória,1
+Dominik Szoboszlai,Liverpool,Meio-campo,18,88,0,0,0,1,1,43,0,Vitória,1
+Dominik Szoboszlai,Liverpool,Meio-campo,19,90,0,0,0,2,1,55,0,Derrota,0
+Dominik Szoboszlai,Liverpool,Meio-campo,20,55,1,0,1,2,2,38,0,Empate,0
+Dominik Szoboszlai,Liverpool,Meio-campo,21,90,0,0,0,4,1,58,0,Vitória,1
+Dominik Szoboszlai,Liverpool,Meio-campo,22,79,0,0,0,1,1,42,0,Vitória,1
+Dominik Szoboszlai,Liverpool,Meio-campo,23,90,0,0,0,3,0,37,0,Derrota,0
+Dominik Szoboszlai,Liverpool,Meio-campo,24,88,0,0,0,4,0,42,0,Derrota,0
+Dominik Szoboszlai,Liverpool,Meio-campo,25,69,0,0,0,4,3,81,0,Vitória,1
+Dominik Szoboszlai,Liverpool,Meio-campo,26,86,0,0,0,2,0,51,0,Empate,0
+Dominik Szoboszlai,Liverpool,Meio-campo,27,75,0,0,0,2,0,64,0,Vitória,1
+Dominik Szoboszlai,Liverpool,Meio-campo,28,90,2,1,1,2,2,38,0,Vitória,1
+Dominik Szoboszlai,Liverpool,Meio-campo,29,90,0,0,0,0,0,46,0,Empate,0
+Dominik Szoboszlai,Liverpool,Meio-campo,30,75,0,0,0,0,0,66,0,Derrota,0
+Dominik Szoboszlai,Liverpool,Meio-campo,31,79,0,0,0,1,0,71,0,Vitória,1
+Dominik Szoboszlai,Liverpool,Meio-campo,32,83,0,0,0,5,2,55,0,Vitória,1
+Dominik Szoboszlai,Liverpool,Meio-campo,33,77,0,0,0,2,0,61,0,Derrota,0
+Dominik Szoboszlai,Liverpool,Meio-campo,34,90,0,0,0,0,0,47,0,Empate,0
+Dominik Szoboszlai,Liverpool,Meio-campo,35,81,0,0,0,2,1,53,0,Vitória,1
+Dominik Szoboszlai,Liverpool,Meio-campo,36,90,0,0,0,3,1,60,0,Empate,0
+Dominik Szoboszlai,Liverpool,Meio-campo,37,81,0,0,0,4,2,57,0,Vitória,1
+Dominik Szoboszlai,Liverpool,Meio-campo,38,85,0,0,0,4,1,52,1,Empate,0
+Virgil van Dijk,Liverpool,Defensor,1,73,0,0,0,0,0,93,0,Vitória,1
+Virgil van Dijk,Liverpool,Defensor,2,67,0,0,0,0,0,99,0,Empate,0
+Virgil van Dijk,Liverpool,Defensor,3,90,0,0,0,2,0,94,0,Derrota,0
+Virgil van Dijk,Liverpool,Defensor,4,90,0,0,0,0,0,102,0,Vitória,1
+Virgil van Dijk,Liverpool,Defensor,5,66,0,0,0,2,0,55,0,Empate,0
+Virgil van Dijk,Liverpool,Defensor,6,64,0,0,0,2,2,99,0,Derrota,0
+Virgil van Dijk,Liverpool,Defensor,7,87,0,0,0,2,2,90,1,Vitória,1
+Virgil van Dijk,Liverpool,Defensor,8,90,0,0,0,1,0,99,1,Empate,0
+Virgil van Dijk,Liverpool,Defensor,10,57,0,0,0,0,0,120,0,Derrota,0
+Virgil van Dijk,Liverpool,Defensor,11,86,0,0,0,2,2,60,0,Vitória,1
+Virgil van Dijk,Liverpool,Defensor,12,90,0,0,0,2,1,67,1,Empate,0
+Virgil van Dijk,Liverpool,Defensor,13,80,0,0,0,1,0,63,0,Derrota,0
+Virgil van Dijk,Liverpool,Defensor,14,75,0,0,0,0,0,85,0,Empate,0
+Virgil van Dijk,Liverpool,Defensor,15,90,0,0,0,2,1,87,0,Derrota,0
+Virgil van Dijk,Liverpool,Defensor,16,82,0,0,0,3,1,60,0,Empate,0
+Virgil van Dijk,Liverpool,Defensor,17,90,0,0,0,0,0,79,0,Empate,0
+Virgil van Dijk,Liverpool,Defensor,18,81,0,0,0,0,0,109,0,Vitória,1
+Virgil van Dijk,Liverpool,Defensor,19,59,0,0,0,0,0,72,0,Vitória,1
+Virgil van Dijk,Liverpool,Defensor,20,80,0,0,0,0,0,87,0,Vitória,1
+Virgil van Dijk,Liverpool,Defensor,21,81,0,0,0,0,0,73,0,Derrota,0
+Virgil van Dijk,Liverpool,Defensor,22,77,0,0,0,0,0,88,0,Derrota,0
+Virgil van Dijk,Liverpool,Defensor,23,81,0,0,0,0,0,53,0,Vitória,1
+Virgil van Dijk,Liverpool,Defensor,25,90,0,0,0,1,1,58,1,Vitória,1
+Virgil van Dijk,Liverpool,Defensor,26,82,0,0,0,0,0,109,0,Derrota,0
+Virgil van Dijk,Liverpool,Defensor,27,79,1,1,0,1,1,62,0,Empate,0
+Virgil van Dijk,Liverpool,Defensor,28,50,0,0,0,2,0,120,1,Vitória,1
+Virgil van Dijk,Liverpool,Defensor,29,90,0,0,0,1,0,98,0,Vitória,1
+Virgil van Dijk,Liverpool,Defensor,30,51,1,0,1,1,1,73,1,Empate,0
+Virgil van Dijk,Liverpool,Defensor,31,90,0,0,0,0,0,102,0,Vitória,1
+Virgil van Dijk,Liverpool,Defensor,32,89,0,0,0,0,0,92,0,Empate,0
+Virgil van Dijk,Liverpool,Defensor,33,84,0,0,0,0,0,87,0,Vitória,1
+Virgil van Dijk,Liverpool,Defensor,34,90,0,0,0,0,0,76,0,Vitória,1
+Virgil van Dijk,Liverpool,Defensor,35,81,0,0,0,0,0,66,0,Derrota,0
+Virgil van Dijk,Liverpool,Defensor,36,65,0,0,0,2,1,50,1,Empate,0
+Virgil van Dijk,Liverpool,Defensor,37,90,0,0,0,1,0,42,0,Empate,0
+Virgil van Dijk,Liverpool,Defensor,38,90,0,0,0,1,1,86,0,Vitória,1
+Son Heung-min,Tottenham,Atacante,1,75,0,0,0,5,1,25,0,Vitória,1
+Son Heung-min,Tottenham,Atacante,3,86,0,0,0,4,2,34,0,Empate,0
+Son Heung-min,Tottenham,Atacante,4,90,0,0,0,4,2,30,0,Empate,0
+Son Heung-min,Tottenham,Atacante,6,78,1,1,0,2,2,25,0,Empate,0
+Son Heung-min,Tottenham,Atacante,7,90,0,0,0,3,2,33,0,Empate,0
+Son Heung-min,Tottenham,Atacante,8,70,2,1,1,2,2,25,0,Vitória,1
+Son Heung-min,Tottenham,Atacante,9,80,0,0,0,0,0,38,0,Empate,0
+Son Heung-min,Tottenham,Atacante,10,90,0,0,0,2,0,26,0,Empate,0
+Son Heung-min,Tottenham,Atacante,11,73,0,0,0,3,1,32,1,Empate,0
+Son Heung-min,Tottenham,Atacante,14,90,1,0,1,2,2,33,0,Vitória,1
+Son Heung-min,Tottenham,Atacante,15,87,0,0,0,3,2,42,0,Derrota,0
+Son Heung-min,Tottenham,Atacante,16,90,0,0,0,3,2,54,0,Empate,0
+Son Heung-min,Tottenham,Atacante,17,90,2,1,1,5,5,29,1,Empate,0
+Son Heung-min,Tottenham,Atacante,18,83,1,0,1,3,2,17,0,Empate,0
+Son Heung-min,Tottenham,Atacante,19,81,0,0,0,2,2,36,0,Vitória,1
+Son Heung-min,Tottenham,Atacante,20,84,1,1,0,2,1,34,0,Vitória,1
+Son Heung-min,Tottenham,Atacante,21,90,1,0,1,5,2,53,0,Vitória,1
+Son Heung-min,Tottenham,Atacante,22,66,2,2,0,2,2,26,0,Empate,0
+Son Heung-min,Tottenham,Atacante,23,90,2,2,0,2,2,38,0,Vitória,1
+Son Heung-min,Tottenham,Atacante,24,81,1,0,1,3,2,22,0,Vitória,1
+Son Heung-min,Tottenham,Atacante,25,74,0,0,0,1,0,39,0,Derrota,0
+Son Heung-min,Tottenham,Atacante,27,77,2,1,1,4,3,35,0,Empate,0
+Son Heung-min,Tottenham,Atacante,28,90,0,0,0,2,0,30,0,Empate,0
+Son Heung-min,Tottenham,Atacante,29,90,0,0,0,4,2,26,0,Vitória,1
+Son Heung-min,Tottenham,Atacante,30,85,0,0,0,0,0,16,0,Vitória,1
+Son Heung-min,Tottenham,Atacante,31,72,0,0,0,2,1,24,0,Vitória,1
+Son Heung-min,Tottenham,Atacante,32,80,0,0,0,2,2,34,0,Vitória,1
+Son Heung-min,Tottenham,Atacante,33,77,1,0,1,1,1,35,0,Vitória,1
+Son Heung-min,Tottenham,Atacante,34,90,1,0,1,4,2,31,0,Vitória,1
+Son Heung-min,Tottenham,Atacante,35,83,1,1,0,2,1,24,0,Vitória,1
+Son Heung-min,Tottenham,Atacante,36,90,0,0,0,4,2,34,0,Empate,0
+Son Heung-min,Tottenham,Atacante,37,69,1,1,0,3,2,31,0,Empate,0
+Son Heung-min,Tottenham,Atacante,38,78,0,0,0,4,3,38,0,Vitória,1
+Richarlison,Tottenham,Atacante,1,63,0,0,0,1,0,19,0,Vitória,1
+Richarlison,Tottenham,Atacante,2,85,0,0,0,2,0,24,0,Vitória,1
+Richarlison,Tottenham,Atacante,3,65,0,0,0,2,2,25,0,Derrota,0
+Richarlison,Tottenham,Atacante,4,64,0,0,0,0,0,15,1,Derrota,0
+Richarlison,Tottenham,Atacante,5,90,0,0,0,3,2,24,0,Vitória,1
+Richarlison,Tottenham,Atacante,6,90,1,0,1,4,2,25,1,Vitória,1
+Richarlison,Tottenham,Atacante,7,90,0,0,0,1,1,14,0,Empate,0
+Richarlison,Tottenham,Atacante,8,79,0,0,0,2,0,24,0,Vitória,1
+Richarlison,Tottenham,Atacante,9,90,0,0,0,2,2,23,0,Vitória,1
+Richarlison,Tottenham,Atacante,10,75,0,0,0,4,1,20,1,Vitória,1
+Richarlison,Tottenham,Atacante,11,77,0,0,0,3,1,26,0,Empate,0
+Richarlison,Tottenham,Atacante,13,78,0,0,0,6,4,9,0,Vitória,1
+Richarlison,Tottenham,Atacante,14,60,1,0,1,1,1,20,1,Vitória,1
+Richarlison,Tottenham,Atacante,15,89,0,0,0,2,0,26,1,Derrota,0
+Richarlison,Tottenham,Atacante,16,77,2,1,1,5,3,19,0,Vitória,1
+Richarlison,Tottenham,Atacante,18,90,1,0,1,4,1,22,1,Empate,0
+Richarlison,Tottenham,Atacante,19,66,0,0,0,0,0,10,0,Derrota,0
+Richarlison,Tottenham,Atacante,20,65,1,0,1,2,2,26,0,Vitória,1
+Richarlison,Tottenham,Atacante,21,88,0,0,0,1,0,22,0,Empate,0
+Richarlison,Tottenham,Atacante,22,89,0,0,0,2,1,18,0,Derrota,0
+Richarlison,Tottenham,Atacante,23,70,0,0,0,4,3,19,0,Vitória,1
+Richarlison,Tottenham,Atacante,24,64,0,0,0,0,0,19,0,Vitória,1
+Richarlison,Tottenham,Atacante,25,87,0,0,0,2,0,23,0,Vitória,1
+Richarlison,Tottenham,Atacante,26,84,0,0,0,1,0,26,0,Empate,0
+Richarlison,Tottenham,Atacante,27,90,1,0,1,1,1,15,0,Vitória,1
+Richarlison,Tottenham,Atacante,28,81,0,0,0,3,1,30,0,Vitória,1
+Richarlison,Tottenham,Atacante,29,79,0,0,0,0,0,31,0,Empate,0
+Richarlison,Tottenham,Atacante,30,82,0,0,0,3,0,22,0,Vitória,1
+Richarlison,Tottenham,Atacante,31,65,0,0,0,0,0,21,0,Empate,0
+Richarlison,Tottenham,Atacante,32,88,0,0,0,3,2,25,0,Empate,0
+Richarlison,Tottenham,Atacante,33,79,1,1,0,3,1,21,0,Empate,0
+Richarlison,Tottenham,Atacante,34,89,0,0,0,1,0,9,0,Vitória,1
+Richarlison,Tottenham,Atacante,35,90,0,0,0,0,0,22,0,Empate,0
+Richarlison,Tottenham,Atacante,36,80,0,0,0,2,1,35,0,Empate,0
+Richarlison,Tottenham,Atacante,37,90,0,0,0,4,2,20,1,Derrota,0
+Richarlison,Tottenham,Atacante,38,81,1,1,0,2,2,14,0,Empate,0
+James Maddison,Tottenham,Meio-campo,3,90,0,0,0,1,0,60,1,Vitória,1
+James Maddison,Tottenham,Meio-campo,4,90,0,0,0,1,0,37,0,Empate,0
+James Maddison,Tottenham,Meio-campo,5,90,0,0,0,2,1,42,0,Vitória,1
+James Maddison,Tottenham,Meio-campo,6,72,0,0,0,2,0,56,0,Vitória,1
+James Maddison,Tottenham,Meio-campo,7,83,0,0,0,0,0,57,0,Derrota,0
+James Maddison,Tottenham,Meio-campo,8,87,0,0,0,1,1,54,0,Vitória,1
+James Maddison,Tottenham,Meio-campo,9,90,0,0,0,3,0,53,0,Vitória,1
+James Maddison,Tottenham,Meio-campo,11,90,0,0,0,5,4,46,1,Derrota,0
+James Maddison,Tottenham,Meio-campo,12,83,0,0,0,1,1,55,0,Vitória,1
+James Maddison,Tottenham,Meio-campo,14,90,0,0,0,2,1,44,0,Empate,0
+James Maddison,Tottenham,Meio-campo,15,79,1,0,1,3,3,53,1,Vitória,1
+James Maddison,Tottenham,Meio-campo,17,82,0,0,0,3,2,32,0,Vitória,1
+James Maddison,Tottenham,Meio-campo,18,90,0,0,0,1,1,78,0,Vitória,1
+James Maddison,Tottenham,Meio-campo,19,70,0,0,0,2,0,47,0,Vitória,1
+James Maddison,Tottenham,Meio-campo,20,66,0,0,0,1,1,49,0,Derrota,0
+James Maddison,Tottenham,Meio-campo,24,77,2,0,2,2,2,42,1,Vitória,1
+James Maddison,Tottenham,Meio-campo,25,90,1,0,1,2,2,44,0,Vitória,1
+James Maddison,Tottenham,Meio-campo,26,80,0,0,0,4,2,53,1,Vitória,1
+James Maddison,Tottenham,Meio-campo,27,62,0,0,0,1,1,47,1,Vitória,1
+James Maddison,Tottenham,Meio-campo,28,55,0,0,0,2,1,49,0,Vitória,1
+James Maddison,Tottenham,Meio-campo,29,88,0,0,0,0,0,70,0,Vitória,1
+James Maddison,Tottenham,Meio-campo,30,60,1,1,0,1,1,56,0,Vitória,1
+James Maddison,Tottenham,Meio-campo,32,54,0,0,0,1,0,49,0,Vitória,1
+James Maddison,Tottenham,Meio-campo,34,90,0,0,0,3,0,43,0,Vitória,1
+James Maddison,Tottenham,Meio-campo,35,89,0,0,0,3,0,50,0,Derrota,0
+James Maddison,Tottenham,Meio-campo,36,65,1,0,1,1,1,56,0,Vitória,1
+James Maddison,Tottenham,Meio-campo,37,80,0,0,0,2,1,59,0,Derrota,0
+Cristian Romero,Tottenham,Defensor,1,81,0,0,0,0,0,55,0,Derrota,0
+Cristian Romero,Tottenham,Defensor,2,86,0,0,0,1,0,76,0,Empate,0
+Cristian Romero,Tottenham,Defensor,3,90,0,0,0,1,0,88,0,Vitória,1
+Cristian Romero,Tottenham,Defensor,4,80,0,0,0,2,0,51,1,Derrota,0
+Cristian Romero,Tottenham,Defensor,5,90,0,0,0,1,0,49,1,Vitória,1
+Cristian Romero,Tottenham,Defensor,6,68,0,0,0,1,0,78,0,Vitória,1
+Cristian Romero,Tottenham,Defensor,7,64,0,0,0,0,0,95,0,Empate,0
+Cristian Romero,Tottenham,Defensor,8,71,0,0,0,0,0,75,0,Vitória,1
+Cristian Romero,Tottenham,Defensor,9,90,0,0,0,0,0,44,1,Vitória,1
+Cristian Romero,Tottenham,Defensor,10,80,0,0,0,0,0,68,0,Vitória,1
+Cristian Romero,Tottenham,Defensor,11,65,0,0,0,1,1,84,1,Empate,0
+Cristian Romero,Tottenham,Defensor,12,90,2,1,1,2,2,40,0,Vitória,1
+Cristian Romero,Tottenham,Defensor,14,65,0,0,0,1,0,40,0,Vitória,1
+Cristian Romero,Tottenham,Defensor,15,52,0,0,0,1,1,70,0,Vitória,1
+Cristian Romero,Tottenham,Defensor,16,79,0,0,0,1,1,17,0,Derrota,0
+Cristian Romero,Tottenham,Defensor,17,62,0,0,0,1,0,48,0,Vitória,1
+Cristian Romero,Tottenham,Defensor,18,90,0,0,0,0,0,67,0,Vitória,1
+Cristian Romero,Tottenham,Defensor,19,90,0,0,0,1,0,67,0,Derrota,0
+Cristian Romero,Tottenham,Defensor,20,90,0,0,0,0,0,53,0,Derrota,0
+Cristian Romero,Tottenham,Defensor,21,90,0,0,0,1,0,94,1,Vitória,1
+Cristian Romero,Tottenham,Defensor,22,87,0,0,0,0,0,78,0,Vitória,1
+Cristian Romero,Tottenham,Defensor,23,83,0,0,0,0,0,65,1,Derrota,0
+Cristian Romero,Tottenham,Defensor,24,80,0,0,0,0,0,74,0,Vitória,1
+Cristian Romero,Tottenham,Defensor,25,90,0,0,0,1,1,67,0,Derrota,0
+Cristian Romero,Tottenham,Defensor,27,90,0,0,0,1,0,30,0,Derrota,0
+Cristian Romero,Tottenham,Defensor,29,70,0,0,0,0,0,91,0,Vitória,1
+Cristian Romero,Tottenham,Defensor,30,72,0,0,0,3,3,65,1,Vitória,1
+Cristian Romero,Tottenham,Defensor,32,70,0,0,0,1,1,73,1,Empate,0
+Cristian Romero,Tottenham,Defensor,33,74,0,0,0,1,0,48,0,Vitória,1
+Cristian Romero,Tottenham,Defensor,34,81,1,0,1,1,1,72,0,Vitória,1
+Cristian Romero,Tottenham,Defensor,36,90,0,0,0,2,0,60,0,Vitória,1
+Cristian Romero,Tottenham,Defensor,37,58,0,0,0,0,0,55,0,Empate,0
+Cristian Romero,Tottenham,Defensor,38,90,0,0,0,0,0,37,0,Derrota,0
+Cole Palmer,Chelsea,Atacante,1,90,0,0,0,1,1,57,0,Empate,0
+Cole Palmer,Chelsea,Atacante,2,90,2,1,1,7,3,29,0,Vitória,1
+Cole Palmer,Chelsea,Atacante,3,71,2,1,1,3,3,43,0,Vitória,1
+Cole Palmer,Chelsea,Atacante,4,69,0,0,0,4,0,58,0,Derrota,0
+Cole Palmer,Chelsea,Atacante,5,66,0,0,0,2,2,36,0,Derrota,0
+Cole Palmer,Chelsea,Atacante,6,86,0,0,0,2,1,46,0,Vitória,1
+Cole Palmer,Chelsea,Atacante,7,90,0,0,0,2,0,46,0,Vitória,1
+Cole Palmer,Chelsea,Atacante,8,67,1,1,0,2,2,47,0,Empate,0
+Cole Palmer,Chelsea,Atacante,9,87,0,0,0,4,1,30,1,Derrota,0
+Cole Palmer,Chelsea,Atacante,10,69,0,0,0,1,0,53,0,Derrota,0
+Cole Palmer,Chelsea,Atacante,11,76,1,1,0,3,2,43,0,Vitória,1
+Cole Palmer,Chelsea,Atacante,12,90,0,0,0,2,0,53,1,Vitória,1
+Cole Palmer,Chelsea,Atacante,14,90,0,0,0,0,0,48,1,Vitória,1
+Cole Palmer,Chelsea,Atacante,15,83,0,0,0,5,3,26,0,Derrota,0
+Cole Palmer,Chelsea,Atacante,17,71,0,0,0,3,1,45,0,Derrota,0
+Cole Palmer,Chelsea,Atacante,18,84,0,0,0,1,1,55,0,Derrota,0
+Cole Palmer,Chelsea,Atacante,19,90,1,0,1,2,1,32,1,Vitória,1
+Cole Palmer,Chelsea,Atacante,20,75,0,0,0,0,0,31,1,Derrota,0
+Cole Palmer,Chelsea,Atacante,21,90,1,1,0,1,1,64,0,Empate,0
+Cole Palmer,Chelsea,Atacante,22,75,0,0,0,2,1,50,0,Empate,0
+Cole Palmer,Chelsea,Atacante,23,87,0,0,0,3,1,52,0,Vitória,1
+Cole Palmer,Chelsea,Atacante,25,76,0,0,0,3,0,58,0,Derrota,0
+Cole Palmer,Chelsea,Atacante,26,79,1,0,1,2,2,33,0,Empate,0
+Cole Palmer,Chelsea,Atacante,27,88,1,0,1,2,1,51,0,Vitória,1
+Cole Palmer,Chelsea,Atacante,28,69,1,1,0,2,2,40,1,Empate,0
+Cole Palmer,Chelsea,Atacante,29,90,0,0,0,0,0,49,0,Vitória,1
+Cole Palmer,Chelsea,Atacante,30,77,0,0,0,0,0,44,0,Derrota,0
+Cole Palmer,Chelsea,Atacante,31,67,3,1,2,3,3,44,0,Empate,0
+Cole Palmer,Chelsea,Atacante,32,88,1,0,1,1,1,48,0,Vitória,1
+Cole Palmer,Chelsea,Atacante,34,90,0,0,0,4,2,56,1,Derrota,0
+Cole Palmer,Chelsea,Atacante,35,67,2,1,1,6,4,50,0,Vitória,1
+Cole Palmer,Chelsea,Atacante,36,75,1,0,1,2,2,56,0,Derrota,0
+Cole Palmer,Chelsea,Atacante,38,70,1,1,0,1,1,42,0,Vitória,1
+Nicolas Jackson,Chelsea,Atacante,1,62,0,0,0,3,3,16,1,Derrota,0
+Nicolas Jackson,Chelsea,Atacante,2,57,0,0,0,4,3,20,1,Empate,0
+Nicolas Jackson,Chelsea,Atacante,3,79,0,0,0,1,0,9,0,Empate,0
+Nicolas Jackson,Chelsea,Atacante,5,79,0,0,0,3,0,28,0,Empate,0
+Nicolas Jackson,Chelsea,Atacante,6,66,0,0,0,5,2,24,1,Derrota,0
+Nicolas Jackson,Chelsea,Atacante,7,83,0,0,0,1,1,14,1,Vitória,1
+Nicolas Jackson,Chelsea,Atacante,8,90,0,0,0,3,1,18,0,Empate,0
+Nicolas Jackson,Chelsea,Atacante,9,86,1,1,0,1,1,18,0,Vitória,1
+Nicolas Jackson,Chelsea,Atacante,10,90,0,0,0,4,1,22,0,Derrota,0
+Nicolas Jackson,Chelsea,Atacante,11,74,0,0,0,1,1,7,0,Vitória,1
+Nicolas Jackson,Chelsea,Atacante,12,81,0,0,0,2,1,29,1,Vitória,1
+Nicolas Jackson,Chelsea,Atacante,13,76,1,0,1,3,2,18,1,Vitória,1
+Nicolas Jackson,Chelsea,Atacante,14,73,0,0,0,4,0,22,1,Vitória,1
+Nicolas Jackson,Chelsea,Atacante,15,88,0,0,0,3,1,18,1,Derrota,0
+Nicolas Jackson,Chelsea,Atacante,16,78,0,0,0,1,0,26,0,Vitória,1
+Nicolas Jackson,Chelsea,Atacante,17,86,0,0,0,4,2,29,0,Vitória,1
+Nicolas Jackson,Chelsea,Atacante,18,90,0,0,0,5,2,15,0,Derrota,0
+Nicolas Jackson,Chelsea,Atacante,19,82,1,0,1,1,1,23,1,Vitória,1
+Nicolas Jackson,Chelsea,Atacante,20,90,0,0,0,1,0,26,0,Derrota,0
+Nicolas Jackson,Chelsea,Atacante,21,59,0,0,0,4,3,14,0,Vitória,1
+Nicolas Jackson,Chelsea,Atacante,22,88,1,0,1,4,4,22,0,Vitória,1
+Nicolas Jackson,Chelsea,Atacante,23,75,0,0,0,3,0,19,0,Vitória,1
+Nicolas Jackson,Chelsea,Atacante,24,86,1,0,1,2,1,25,0,Vitória,1
+Nicolas Jackson,Chelsea,Atacante,26,90,0,0,0,5,2,20,0,Derrota,0
+Nicolas Jackson,Chelsea,Atacante,27,80,2,0,2,3,3,14,0,Vitória,1
+Nicolas Jackson,Chelsea,Atacante,28,85,0,0,0,2,0,12,0,Empate,0
+Nicolas Jackson,Chelsea,Atacante,29,90,0,0,0,1,0,20,0,Derrota,0
+Nicolas Jackson,Chelsea,Atacante,30,68,0,0,0,3,2,19,0,Vitória,1
+Nicolas Jackson,Chelsea,Atacante,31,72,0,0,0,2,1,23,0,Empate,0
+Nicolas Jackson,Chelsea,Atacante,32,90,0,0,0,2,0,21,1,Empate,0
+Nicolas Jackson,Chelsea,Atacante,33,86,0,0,0,1,0,21,0,Empate,0
+Nicolas Jackson,Chelsea,Atacante,34,84,0,0,0,1,0,15,1,Vitória,1
+Nicolas Jackson,Chelsea,Atacante,36,78,0,0,0,0,0,20,0,Vitória,1
+Nicolas Jackson,Chelsea,Atacante,37,82,0,0,0,1,1,21,0,Vitória,1
+Nicolas Jackson,Chelsea,Atacante,38,90,0,0,0,2,1,23,0,Derrota,0
+Enzo Fernández,Chelsea,Meio-campo,1,66,1,1,0,4,2,96,0,Vitória,1
+Enzo Fernández,Chelsea,Meio-campo,2,73,0,0,0,1,1,53,1,Empate,0
+Enzo Fernández,Chelsea,Meio-campo,3,83,1,1,0,1,1,68,1,Vitória,1
+Enzo Fernández,Chelsea,Meio-campo,4,80,1,1,0,2,1,50,0,Vitória,1
+Enzo Fernández,Chelsea,Meio-campo,5,90,0,0,0,1,1,73,0,Vitória,1
+Enzo Fernández,Chelsea,Meio-campo,6,90,0,0,0,1,0,67,0,Vitória,1
+Enzo Fernández,Chelsea,Meio-campo,7,90,0,0,0,1,0,88,0,Empate,0
+Enzo Fernández,Chelsea,Meio-campo,8,90,0,0,0,3,1,68,0,Vitória,1
+Enzo Fernández,Chelsea,Meio-campo,9,85,0,0,0,2,1,57,0,Derrota,0
+Enzo Fernández,Chelsea,Meio-campo,10,85,1,0,1,3,2,82,0,Vitória,1
+Enzo Fernández,Chelsea,Meio-campo,11,70,0,0,0,0,0,79,0,Derrota,0
+Enzo Fernández,Chelsea,Meio-campo,12,58,1,0,1,2,2,28,0,Empate,0
+Enzo Fernández,Chelsea,Meio-campo,13,56,0,0,0,4,1,77,0,Derrota,0
+Enzo Fernández,Chelsea,Meio-campo,14,90,0,0,0,2,0,75,0,Derrota,0
+Enzo Fernández,Chelsea,Meio-campo,15,90,0,0,0,2,0,70,0,Derrota,0
+Enzo Fernández,Chelsea,Meio-campo,16,80,0,0,0,4,3,62,0,Vitória,1
+Enzo Fernández,Chelsea,Meio-campo,17,53,0,0,0,0,0,99,1,Vitória,1
+Enzo Fernández,Chelsea,Meio-campo,18,87,0,0,0,2,0,44,0,Empate,0
+Enzo Fernández,Chelsea,Meio-campo,19,81,0,0,0,2,0,60,0,Derrota,0
+Enzo Fernández,Chelsea,Meio-campo,20,64,0,0,0,1,1,69,0,Vitória,1
+Enzo Fernández,Chelsea,Meio-campo,21,76,0,0,0,2,0,78,1,Vitória,1
+Enzo Fernández,Chelsea,Meio-campo,22,67,0,0,0,4,2,84,0,Derrota,0
+Enzo Fernández,Chelsea,Meio-campo,23,72,0,0,0,2,1,54,0,Vitória,1
+Enzo Fernández,Chelsea,Meio-campo,24,90,1,1,0,2,2,66,1,Vitória,1
+Enzo Fernández,Chelsea,Meio-campo,25,73,0,0,0,1,0,97,0,Vitória,1
+Enzo Fernández,Chelsea,Meio-campo,26,84,0,0,0,0,0,69,0,Empate,0
+Enzo Fernández,Chelsea,Meio-campo,27,74,0,0,0,1,0,68,1,Vitória,1
+Enzo Fernández,Chelsea,Meio-campo,28,74,0,0,0,3,0,56,0,Vitória,1
+Enzo Fernández,Chelsea,Meio-campo,29,90,0,0,0,2,1,70,1,Vitória,1
+Enzo Fernández,Chelsea,Meio-campo,30,56,1,1,0,2,1,93,0,Vitória,1
+Enzo Fernández,Chelsea,Meio-campo,31,68,0,0,0,1,1,114,0,Vitória,1
+Enzo Fernández,Chelsea,Meio-campo,32,76,0,0,0,0,0,99,1,Empate,0
+Enzo Fernández,Chelsea,Meio-campo,33,80,1,1,0,2,1,40,1,Vitória,1
+Enzo Fernández,Chelsea,Meio-campo,34,90,0,0,0,2,0,47,1,Derrota,0
+Enzo Fernández,Chelsea,Meio-campo,35,90,0,0,0,1,0,46,0,Derrota,0
+Enzo Fernández,Chelsea,Meio-campo,36,90,1,1,0,3,3,71,0,Vitória,1
+Enzo Fernández,Chelsea,Meio-campo,37,76,0,0,0,1,0,69,1,Empate,0
+Enzo Fernández,Chelsea,Meio-campo,38,90,1,0,1,3,2,70,0,Vitória,1
+Moisés Caicedo,Chelsea,Meio-campo,1,68,0,0,0,1,0,38,1,Derrota,0
+Moisés Caicedo,Chelsea,Meio-campo,2,90,0,0,0,0,0,78,0,Derrota,0
+Moisés Caicedo,Chelsea,Meio-campo,3,90,0,0,0,2,1,34,0,Empate,0
+Moisés Caicedo,Chelsea,Meio-campo,4,90,0,0,0,4,0,84,0,Empate,0
+Moisés Caicedo,Chelsea,Meio-campo,5,90,0,0,0,0,0,36,0,Vitória,1
+Moisés Caicedo,Chelsea,Meio-campo,6,68,0,0,0,2,0,66,0,Empate,0
+Moisés Caicedo,Chelsea,Meio-campo,7,63,0,0,0,2,0,47,0,Derrota,0
+Moisés Caicedo,Chelsea,Meio-campo,9,62,0,0,0,0,0,70,1,Vitória,1
+Moisés Caicedo,Chelsea,Meio-campo,10,85,0,0,0,0,0,78,0,Vitória,1
+Moisés Caicedo,Chelsea,Meio-campo,11,90,0,0,0,1,0,88,0,Vitória,1
+Moisés Caicedo,Chelsea,Meio-campo,12,90,0,0,0,2,1,29,0,Empate,0
+Moisés Caicedo,Chelsea,Meio-campo,13,88,0,0,0,1,0,59,1,Empate,0
+Moisés Caicedo,Chelsea,Meio-campo,14,66,1,1,0,3,2,62,1,Vitória,1
+Moisés Caicedo,Chelsea,Meio-campo,15,90,0,0,0,1,0,61,1,Vitória,1
+Moisés Caicedo,Chelsea,Meio-campo,16,66,0,0,0,1,0,75,0,Empate,0
+Moisés Caicedo,Chelsea,Meio-campo,17,90,0,0,0,2,0,47,0,Derrota,0
+Moisés Caicedo,Chelsea,Meio-campo,18,76,1,0,1,1,1,48,0,Empate,0
+Moisés Caicedo,Chelsea,Meio-campo,19,84,0,0,0,0,0,82,0,Derrota,0
+Moisés Caicedo,Chelsea,Meio-campo,20,74,0,0,0,2,1,52,0,Vitória,1
+Moisés Caicedo,Chelsea,Meio-campo,21,85,0,0,0,1,1,69,0,Derrota,0
+Moisés Caicedo,Chelsea,Meio-campo,22,74,0,0,0,0,0,44,1,Vitória,1
+Moisés Caicedo,Chelsea,Meio-campo,23,67,0,0,0,2,2,92,1,Vitória,1
+Moisés Caicedo,Chelsea,Meio-campo,25,90,0,0,0,1,0,67,1,Derrota,0
+Moisés Caicedo,Chelsea,Meio-campo,26,84,0,0,0,1,0,63,0,Empate,0
+Moisés Caicedo,Chelsea,Meio-campo,29,81,0,0,0,3,1,77,0,Derrota,0
+Moisés Caicedo,Chelsea,Meio-campo,30,83,0,0,0,2,0,87,0,Empate,0
+Moisés Caicedo,Chelsea,Meio-campo,31,90,0,0,0,1,0,63,0,Empate,0
+Moisés Caicedo,Chelsea,Meio-campo,32,81,0,0,0,0,0,44,0,Empate,0
+Moisés Caicedo,Chelsea,Meio-campo,33,84,0,0,0,2,2,73,1,Vitória,1
+Moisés Caicedo,Chelsea,Meio-campo,34,90,0,0,0,0,0,55,1,Vitória,1
+Moisés Caicedo,Chelsea,Meio-campo,35,80,0,0,0,1,1,62,0,Derrota,0
+Moisés Caicedo,Chelsea,Meio-campo,36,87,0,0,0,3,3,68,0,Empate,0
+Moisés Caicedo,Chelsea,Meio-campo,37,90,0,0,0,3,1,62,1,Vitória,1
+Moisés Caicedo,Chelsea,Meio-campo,38,90,0,0,0,3,1,99,0,Empate,0
+Bruno Fernandes,Man United,Meio-campo,1,81,0,0,0,1,0,66,0,Derrota,0
+Bruno Fernandes,Man United,Meio-campo,2,90,0,0,0,4,1,71,1,Empate,0
+Bruno Fernandes,Man United,Meio-campo,3,90,0,0,0,1,1,45,1,Empate,0
+Bruno Fernandes,Man United,Meio-campo,4,90,1,0,1,1,1,76,0,Vitória,1
+Bruno Fernandes,Man United,Meio-campo,5,90,0,0,0,2,0,44,0,Derrota,0
+Bruno Fernandes,Man United,Meio-campo,6,90,1,0,1,6,4,76,0,Vitória,1
+Bruno Fernandes,Man United,Meio-campo,7,90,0,0,0,2,1,55,1,Vitória,1
+Bruno Fernandes,Man United,Meio-campo,8,90,0,0,0,1,1,42,0,Empate,0
+Bruno Fernandes,Man United,Meio-campo,9,85,0,0,0,3,0,52,0,Derrota,0
+Bruno Fernandes,Man United,Meio-campo,10,77,0,0,0,2,2,77,0,Empate,0
+Bruno Fernandes,Man United,Meio-campo,11,90,1,1,0,4,2,58,0,Vitória,1
+Bruno Fernandes,Man United,Meio-campo,12,88,0,0,0,5,1,62,0,Empate,0
+Bruno Fernandes,Man United,Meio-campo,13,86,1,0,1,1,1,75,0,Vitória,1
+Bruno Fernandes,Man United,Meio-campo,14,90,0,0,0,4,2,31,0,Derrota,0
+Bruno Fernandes,Man United,Meio-campo,15,72,0,0,0,0,0,76,0,Vitória,1
+Bruno Fernandes,Man United,Meio-campo,16,88,0,0,0,2,1,31,1,Empate,0
+Bruno Fernandes,Man United,Meio-campo,17,90,0,0,0,1,0,66,0,Empate,0
+Bruno Fernandes,Man United,Meio-campo,18,83,0,0,0,5,3,67,0,Vitória,1
+Bruno Fernandes,Man United,Meio-campo,19,69,0,0,0,2,1,41,1,Vitória,1
+Bruno Fernandes,Man United,Meio-campo,20,76,0,0,0,4,2,23,1,Vitória,1
+Bruno Fernandes,Man United,Meio-campo,21,73,1,0,1,1,1,36,0,Empate,0
+Bruno Fernandes,Man United,Meio-campo,25,75,0,0,0,6,1,25,1,Vitória,1
+Bruno Fernandes,Man United,Meio-campo,26,82,0,0,0,1,1,24,0,Empate,0
+Bruno Fernandes,Man United,Meio-campo,27,90,0,0,0,3,1,57,0,Vitória,1
+Bruno Fernandes,Man United,Meio-campo,28,72,0,0,0,2,1,56,0,Vitória,1
+Bruno Fernandes,Man United,Meio-campo,29,89,0,0,0,1,1,58,1,Derrota,0
+Bruno Fernandes,Man United,Meio-campo,31,79,1,0,1,2,2,64,1,Vitória,1
+Bruno Fernandes,Man United,Meio-campo,32,57,0,0,0,1,0,50,0,Vitória,1
+Bruno Fernandes,Man United,Meio-campo,34,90,1,0,1,3,3,74,0,Vitória,1
+Bruno Fernandes,Man United,Meio-campo,35,90,0,0,0,2,0,59,1,Vitória,1
+Bruno Fernandes,Man United,Meio-campo,36,90,0,0,0,1,0,68,1,Vitória,1
+Bruno Fernandes,Man United,Meio-campo,38,77,0,0,0,2,1,38,0,Vitória,1
+Rasmus Højlund,Man United,Atacante,1,56,0,0,0,1,1,17,0,Vitória,1
+Rasmus Højlund,Man United,Atacante,2,89,0,0,0,1,1,20,0,Derrota,0
+Rasmus Højlund,Man United,Atacante,3,86,1,0,1,1,1,18,0,Vitória,1
+Rasmus Højlund,Man United,Atacante,4,90,0,0,0,1,1,19,0,Empate,0
+Rasmus Højlund,Man United,Atacante,5,81,0,0,0,2,0,16,0,Derrota,0
+Rasmus Højlund,Man United,Atacante,6,90,0,0,0,1,0,21,0,Empate,0
+Rasmus Højlund,Man United,Atacante,7,90,0,0,0,1,0,20,0,Derrota,0
+Rasmus Højlund,Man United,Atacante,8,90,1,1,0,1,1,13,0,Empate,0
+Rasmus Højlund,Man United,Atacante,9,57,0,0,0,0,0,18,0,Empate,0
+Rasmus Højlund,Man United,Atacante,10,70,0,0,0,3,2,13,0,Empate,0
+Rasmus Højlund,Man United,Atacante,11,84,1,0,1,3,1,25,0,Vitória,1
+Rasmus Højlund,Man United,Atacante,12,86,0,0,0,1,0,16,0,Vitória,1
+Rasmus Højlund,Man United,Atacante,13,90,0,0,0,2,2,21,0,Vitória,1
+Rasmus Højlund,Man United,Atacante,14,79,1,1,0,1,1,25,0,Vitória,1
+Rasmus Højlund,Man United,Atacante,15,87,0,0,0,3,2,21,0,Vitória,1
+Rasmus Højlund,Man United,Atacante,16,73,0,0,0,2,1,21,0,Vitória,1
+Rasmus Højlund,Man United,Atacante,19,88,2,1,1,2,2,12,0,Vitória,1
+Rasmus Højlund,Man United,Atacante,20,63,0,0,0,4,1,23,0,Vitória,1
+Rasmus Højlund,Man United,Atacante,21,77,0,0,0,4,3,18,0,Vitória,1
+Rasmus Højlund,Man United,Atacante,22,89,1,1,0,2,2,26,0,Empate,0
+Rasmus Højlund,Man United,Atacante,24,70,0,0,0,3,0,28,0,Derrota,0
+Rasmus Højlund,Man United,Atacante,25,90,0,0,0,2,2,18,0,Vitória,1
+Rasmus Højlund,Man United,Atacante,26,90,1,1,0,2,2,13,0,Vitória,1
+Rasmus Højlund,Man United,Atacante,27,90,1,1,0,2,2,18,0,Vitória,1
+Rasmus Højlund,Man United,Atacante,28,90,1,0,1,1,1,18,0,Vitória,1
+Rasmus Højlund,Man United,Atacante,29,71,0,0,0,0,0,14,0,Derrota,0
+Rasmus Højlund,Man United,Atacante,30,90,0,0,0,1,1,9,0,Derrota,0
+Rasmus Højlund,Man United,Atacante,31,90,0,0,0,3,2,13,0,Derrota,0
+Rasmus Højlund,Man United,Atacante,32,81,0,0,0,4,1,17,1,Vitória,1
+Rasmus Højlund,Man United,Atacante,34,70,1,0,1,1,1,27,0,Empate,0
+Rasmus Højlund,Man United,Atacante,35,89,0,0,0,5,1,28,1,Vitória,1
+Rasmus Højlund,Man United,Atacante,36,90,1,1,0,1,1,16,0,Vitória,1
+Rasmus Højlund,Man United,Atacante,37,67,0,0,0,2,1,14,0,Vitória,1
+Rasmus Højlund,Man United,Atacante,38,90,0,0,0,1,0,21,0,Empate,0
+Marcus Rashford,Man United,Atacante,1,90,0,0,0,2,2,31,0,Vitória,1
+Marcus Rashford,Man United,Atacante,2,81,2,1,1,4,3,18,0,Vitória,1
+Marcus Rashford,Man United,Atacante,3,58,0,0,0,2,2,24,0,Vitória,1
+Marcus Rashford,Man United,Atacante,4,64,0,0,0,3,1,20,0,Derrota,0
+Marcus Rashford,Man United,Atacante,5,85,0,0,0,1,0,29,0,Vitória,1
+Marcus Rashford,Man United,Atacante,6,73,2,1,1,2,2,31,0,Empate,0
+Marcus Rashford,Man United,Atacante,7,90,0,0,0,1,1,25,1,Vitória,1
+Marcus Rashford,Man United,Atacante,8,89,0,0,0,0,0,37,0,Derrota,0
+Marcus Rashford,Man United,Atacante,9,79,0,0,0,3,1,33,0,Vitória,1
+Marcus Rashford,Man United,Atacante,10,75,0,0,0,7,6,25,0,Vitória,1
+Marcus Rashford,Man United,Atacante,11,90,0,0,0,1,1,42,0,Vitória,1
+Marcus Rashford,Man United,Atacante,12,73,0,0,0,4,2,23,0,Vitória,1
+Marcus Rashford,Man United,Atacante,14,70,0,0,0,2,0,33,1,Derrota,0
+Marcus Rashford,Man United,Atacante,15,84,0,0,0,1,0,22,0,Derrota,0
+Marcus Rashford,Man United,Atacante,16,81,1,1,0,3,1,37,1,Vitória,1
+Marcus Rashford,Man United,Atacante,17,90,0,0,0,4,2,42,0,Derrota,0
+Marcus Rashford,Man United,Atacante,18,78,0,0,0,0,0,31,0,Vitória,1
+Marcus Rashford,Man United,Atacante,19,90,0,0,0,2,1,34,0,Empate,0
+Marcus Rashford,Man United,Atacante,20,68,0,0,0,1,0,28,0,Empate,0
+Marcus Rashford,Man United,Atacante,21,90,0,0,0,3,2,36,0,Vitória,1
+Marcus Rashford,Man United,Atacante,22,64,0,0,0,5,1,34,0,Vitória,1
+Marcus Rashford,Man United,Atacante,23,71,0,0,0,2,1,24,0,Vitória,1
+Marcus Rashford,Man United,Atacante,24,90,1,0,1,1,1,29,0,Empate,0
+Marcus Rashford,Man United,Atacante,25,82,0,0,0,2,1,25,0,Derrota,0
+Marcus Rashford,Man United,Atacante,26,86,1,1,0,2,2,37,0,Vitória,1
+Marcus Rashford,Man United,Atacante,28,89,0,0,0,3,2,26,0,Empate,0
+Marcus Rashford,Man United,Atacante,30,81,0,0,0,2,1,23,0,Vitória,1
+Marcus Rashford,Man United,Atacante,32,90,0,0,0,2,2,30,0,Vitória,1
+Marcus Rashford,Man United,Atacante,33,71,0,0,0,1,0,26,0,Derrota,0
+Marcus Rashford,Man United,Atacante,34,76,1,1,0,2,2,27,0,Vitória,1
+Marcus Rashford,Man United,Atacante,36,85,0,0,0,2,1,40,0,Derrota,0
+Marcus Rashford,Man United,Atacante,37,74,0,0,0,3,1,22,1,Derrota,0
+Marcus Rashford,Man United,Atacante,38,73,0,0,0,2,1,33,1,Derrota,0
+Alejandro Garnacho,Man United,Atacante,2,90,0,0,0,3,2,24,0,Vitória,1
+Alejandro Garnacho,Man United,Atacante,3,72,0,0,0,4,1,23,0,Vitória,1
+Alejandro Garnacho,Man United,Atacante,4,62,1,0,1,3,3,32,0,Empate,0
+Alejandro Garnacho,Man United,Atacante,5,89,1,0,1,7,5,22,0,Vitória,1
+Alejandro Garnacho,Man United,Atacante,6,66,0,0,0,1,1,24,0,Vitória,1
+Alejandro Garnacho,Man United,Atacante,7,69,1,0,1,4,2,27,0,Vitória,1
+Alejandro Garnacho,Man United,Atacante,8,62,0,0,0,3,2,31,0,Vitória,1
+Alejandro Garnacho,Man United,Atacante,9,90,0,0,0,2,0,24,0,Derrota,0
+Alejandro Garnacho,Man United,Atacante,10,72,0,0,0,8,3,34,1,Empate,0
+Alejandro Garnacho,Man United,Atacante,11,87,1,0,1,3,2,25,0,Empate,0
+Alejandro Garnacho,Man United,Atacante,12,75,0,0,0,0,0,35,0,Vitória,1
+Alejandro Garnacho,Man United,Atacante,13,72,0,0,0,1,1,29,0,Vitória,1
+Alejandro Garnacho,Man United,Atacante,14,85,0,0,0,3,0,18,1,Derrota,0
+Alejandro Garnacho,Man United,Atacante,15,78,0,0,0,3,1,33,0,Empate,0
+Alejandro Garnacho,Man United,Atacante,16,90,0,0,0,5,2,24,0,Empate,0
+Alejandro Garnacho,Man United,Atacante,17,90,1,1,0,2,2,29,0,Vitória,1
+Alejandro Garnacho,Man United,Atacante,18,90,1,1,0,2,2,29,0,Vitória,1
+Alejandro Garnacho,Man United,Atacante,19,82,0,0,0,3,3,35,1,Vitória,1
+Alejandro Garnacho,Man United,Atacante,20,90,0,0,0,5,3,27,0,Derrota,0
+Alejandro Garnacho,Man United,Atacante,22,77,1,1,0,2,2,32,0,Vitória,1
+Alejandro Garnacho,Man United,Atacante,23,66,0,0,0,4,1,35,0,Vitória,1
+Alejandro Garnacho,Man United,Atacante,24,79,0,0,0,6,2,29,0,Empate,0
+Alejandro Garnacho,Man United,Atacante,26,79,0,0,0,6,1,23,0,Empate,0
+Alejandro Garnacho,Man United,Atacante,27,74,0,0,0,4,2,17,0,Empate,0
+Alejandro Garnacho,Man United,Atacante,29,87,1,1,0,4,3,26,0,Vitória,1
+Alejandro Garnacho,Man United,Atacante,30,90,0,0,0,0,0,16,0,Vitória,1
+Alejandro Garnacho,Man United,Atacante,32,75,0,0,0,3,1,21,0,Derrota,0
+Alejandro Garnacho,Man United,Atacante,33,76,0,0,0,1,1,35,0,Derrota,0
+Alejandro Garnacho,Man United,Atacante,34,83,1,1,0,1,1,26,0,Derrota,0
+Alejandro Garnacho,Man United,Atacante,35,90,0,0,0,1,0,32,0,Derrota,0
+Alejandro Garnacho,Man United,Atacante,36,71,0,0,0,2,1,21,0,Derrota,0
+Alejandro Garnacho,Man United,Atacante,37,72,0,0,0,5,1,11,0,Empate,0
+Alejandro Garnacho,Man United,Atacante,38,76,0,0,0,2,1,22,0,Derrota,0
+Casemiro,Man United,Meio-campo,1,81,0,0,0,2,1,50,1,Derrota,0
+Casemiro,Man United,Meio-campo,2,80,0,0,0,1,1,54,0,Empate,0
+Casemiro,Man United,Meio-campo,3,90,0,0,0,2,0,47,1,Vitória,1
+Casemiro,Man United,Meio-campo,4,74,1,1,0,2,1,62,1,Vitória,1
+Casemiro,Man United,Meio-campo,5,74,0,0,0,0,0,69,1,Vitória,1
+Casemiro,Man United,Meio-campo,6,78,0,0,0,1,1,56,0,Vitória,1
+Casemiro,Man United,Meio-campo,7,90,0,0,0,2,1,46,0,Empate,0
+Casemiro,Man United,Meio-campo,8,70,0,0,0,1,1,62,1,Derrota,0
+Casemiro,Man United,Meio-campo,9,82,0,0,0,0,0,69,1,Empate,0
+Casemiro,Man United,Meio-campo,11,85,0,0,0,3,0,64,0,Empate,0
+Casemiro,Man United,Meio-campo,12,53,0,0,0,1,0,54,0,Vitória,1
+Casemiro,Man United,Meio-campo,13,88,0,0,0,0,0,55,1,Derrota,0
+Casemiro,Man United,Meio-campo,14,83,0,0,0,0,0,76,0,Vitória,1
+Casemiro,Man United,Meio-campo,16,90,0,0,0,2,1,25,0,Empate,0
+Casemiro,Man United,Meio-campo,17,80,0,0,0,0,0,51,1,Derrota,0
+Casemiro,Man United,Meio-campo,18,69,0,0,0,0,0,58,1,Empate,0
+Casemiro,Man United,Meio-campo,19,89,0,0,0,1,0,69,0,Vitória,1
+Casemiro,Man United,Meio-campo,20,68,1,0,1,1,1,61,0,Vitória,1
+Casemiro,Man United,Meio-campo,21,61,0,0,0,1,1,66,0,Empate,0
+Casemiro,Man United,Meio-campo,22,77,0,0,0,2,2,66,1,Vitória,1
+Casemiro,Man United,Meio-campo,23,90,0,0,0,1,1,69,1,Derrota,0
+Casemiro,Man United,Meio-campo,24,73,0,0,0,3,1,63,0,Vitória,1
+Casemiro,Man United,Meio-campo,25,55,1,0,1,2,2,51,0,Vitória,1
+Casemiro,Man United,Meio-campo,26,77,1,0,1,2,2,76,0,Vitória,1
+Casemiro,Man United,Meio-campo,27,86,0,0,0,2,2,64,0,Derrota,0
+Casemiro,Man United,Meio-campo,28,87,0,0,0,0,0,32,1,Vitória,1
+Casemiro,Man United,Meio-campo,30,86,0,0,0,3,2,64,0,Derrota,0
+Casemiro,Man United,Meio-campo,32,82,0,0,0,2,1,56,1,Empate,0
+Casemiro,Man United,Meio-campo,33,90,1,0,1,4,3,62,0,Vitória,1
+Casemiro,Man United,Meio-campo,34,65,0,0,0,0,0,30,0,Derrota,0
+Casemiro,Man United,Meio-campo,36,89,0,0,0,2,2,55,0,Vitória,1
+Casemiro,Man United,Meio-campo,37,80,0,0,0,1,1,48,0,Vitória,1
+Casemiro,Man United,Meio-campo,38,52,0,0,0,0,0,65,0,Vitória,1
+Ollie Watkins,Aston Villa,Atacante,1,90,0,0,0,6,2,28,0,Vitória,1
+Ollie Watkins,Aston Villa,Atacante,2,88,1,1,0,3,3,28,0,Vitória,1
+Ollie Watkins,Aston Villa,Atacante,3,67,0,0,0,6,3,27,0,Vitória,1
+Ollie Watkins,Aston Villa,Atacante,4,77,0,0,0,4,2,30,0,Vitória,1
+Ollie Watkins,Aston Villa,Atacante,5,90,0,0,0,5,2,19,0,Vitória,1
+Ollie Watkins,Aston Villa,Atacante,6,86,0,0,0,3,2,23,0,Vitória,1
+Ollie Watkins,Aston Villa,Atacante,7,71,2,1,1,5,5,23,0,Empate,0
+Ollie Watkins,Aston Villa,Atacante,8,85,0,0,0,3,1,20,1,Vitória,1
+Ollie Watkins,Aston Villa,Atacante,9,80,1,0,1,6,3,11,1,Vitória,1
+Ollie Watkins,Aston Villa,Atacante,10,76,1,0,1,1,1,14,0,Vitória,1
+Ollie Watkins,Aston Villa,Atacante,11,85,0,0,0,3,1,24,0,Empate,0
+Ollie Watkins,Aston Villa,Atacante,12,80,0,0,0,2,1,30,0,Derrota,0
+Ollie Watkins,Aston Villa,Atacante,13,66,1,1,0,4,2,15,0,Vitória,1
+Ollie Watkins,Aston Villa,Atacante,14,90,0,0,0,5,1,14,1,Empate,0
+Ollie Watkins,Aston Villa,Atacante,15,76,0,0,0,4,3,19,1,Derrota,0
+Ollie Watkins,Aston Villa,Atacante,16,80,0,0,0,5,0,26,0,Vitória,1
+Ollie Watkins,Aston Villa,Atacante,17,77,0,0,0,2,0,15,0,Vitória,1
+Ollie Watkins,Aston Villa,Atacante,18,45,3,1,2,4,3,28,0,Vitória,1
+Ollie Watkins,Aston Villa,Atacante,19,72,0,0,0,2,1,27,0,Vitória,1
+Ollie Watkins,Aston Villa,Atacante,20,77,2,0,2,2,2,29,0,Empate,0
+Ollie Watkins,Aston Villa,Atacante,21,88,1,1,0,3,3,32,0,Empate,0
+Ollie Watkins,Aston Villa,Atacante,23,78,1,1,0,2,2,32,0,Vitória,1
+Ollie Watkins,Aston Villa,Atacante,24,80,0,0,0,3,0,13,0,Empate,0
+Ollie Watkins,Aston Villa,Atacante,25,90,1,0,1,3,3,19,0,Vitória,1
+Ollie Watkins,Aston Villa,Atacante,26,51,0,0,0,1,0,24,0,Vitória,1
+Ollie Watkins,Aston Villa,Atacante,28,84,1,1,0,3,3,33,1,Vitória,1
+Ollie Watkins,Aston Villa,Atacante,29,84,0,0,0,6,3,24,0,Empate,0
+Ollie Watkins,Aston Villa,Atacante,30,78,1,1,0,1,1,23,0,Vitória,1
+Ollie Watkins,Aston Villa,Atacante,31,89,1,0,1,3,1,22,0,Vitória,1
+Ollie Watkins,Aston Villa,Atacante,32,71,1,0,1,5,3,27,0,Vitória,1
+Ollie Watkins,Aston Villa,Atacante,33,90,0,0,0,4,1,23,0,Derrota,0
+Ollie Watkins,Aston Villa,Atacante,34,86,0,0,0,4,1,28,1,Empate,0
+Ollie Watkins,Aston Villa,Atacante,35,90,1,0,1,3,2,19,1,Vitória,1
+Ollie Watkins,Aston Villa,Atacante,36,90,1,1,0,1,1,27,0,Vitória,1
+Ollie Watkins,Aston Villa,Atacante,37,90,0,0,0,4,3,27,0,Derrota,0
+Ollie Watkins,Aston Villa,Atacante,38,90,1,1,0,4,2,27,0,Vitória,1
+Douglas Luiz,Aston Villa,Meio-campo,1,70,0,0,0,1,0,57,1,Derrota,0
+Douglas Luiz,Aston Villa,Meio-campo,2,89,0,0,0,1,0,61,0,Derrota,0
+Douglas Luiz,Aston Villa,Meio-campo,3,70,0,0,0,4,1,83,0,Derrota,0
+Douglas Luiz,Aston Villa,Meio-campo,4,78,0,0,0,4,2,51,0,Vitória,1
+Douglas Luiz,Aston Villa,Meio-campo,5,90,0,0,0,1,0,54,0,Vitória,1
+Douglas Luiz,Aston Villa,Meio-campo,6,61,0,0,0,0,0,63,1,Derrota,0
+Douglas Luiz,Aston Villa,Meio-campo,7,70,2,2,0,2,2,31,0,Vitória,1
+Douglas Luiz,Aston Villa,Meio-campo,8,90,0,0,0,0,0,51,0,Vitória,1
+Douglas Luiz,Aston Villa,Meio-campo,9,90,0,0,0,0,0,31,0,Derrota,0
+Douglas Luiz,Aston Villa,Meio-campo,11,90,1,1,0,2,2,51,0,Vitória,1
+Douglas Luiz,Aston Villa,Meio-campo,12,77,1,0,1,1,1,50,1,Vitória,1
+Douglas Luiz,Aston Villa,Meio-campo,13,60,1,0,1,2,1,58,0,Empate,0
+Douglas Luiz,Aston Villa,Meio-campo,15,76,2,0,2,2,2,28,1,Vitória,1
+Douglas Luiz,Aston Villa,Meio-campo,18,90,0,0,0,2,1,62,1,Derrota,0
+Douglas Luiz,Aston Villa,Meio-campo,19,73,1,1,0,2,2,52,1,Vitória,1
+Douglas Luiz,Aston Villa,Meio-campo,20,74,0,0,0,2,1,43,0,Vitória,1
+Douglas Luiz,Aston Villa,Meio-campo,21,60,2,0,2,2,2,49,1,Vitória,1
+Douglas Luiz,Aston Villa,Meio-campo,22,71,0,0,0,4,2,68,1,Empate,0
+Douglas Luiz,Aston Villa,Meio-campo,23,90,0,0,0,0,0,43,1,Vitória,1
+Douglas Luiz,Aston Villa,Meio-campo,24,72,1,0,1,3,2,47,0,Empate,0
+Douglas Luiz,Aston Villa,Meio-campo,25,62,0,0,0,1,1,85,1,Empate,0
+Douglas Luiz,Aston Villa,Meio-campo,26,80,0,0,0,1,0,35,0,Derrota,0
+Douglas Luiz,Aston Villa,Meio-campo,28,76,0,0,0,2,1,52,1,Derrota,0
+Douglas Luiz,Aston Villa,Meio-campo,29,90,1,0,1,1,1,53,0,Empate,0
+Douglas Luiz,Aston Villa,Meio-campo,30,82,0,0,0,2,0,70,1,Empate,0
+Douglas Luiz,Aston Villa,Meio-campo,31,75,1,1,0,3,2,72,0,Empate,0
+Douglas Luiz,Aston Villa,Meio-campo,32,77,0,0,0,0,0,62,0,Derrota,0
+Douglas Luiz,Aston Villa,Meio-campo,33,90,2,1,1,3,2,36,1,Vitória,1
+Douglas Luiz,Aston Villa,Meio-campo,34,72,0,0,0,2,0,43,0,Vitória,1
+Douglas Luiz,Aston Villa,Meio-campo,35,73,0,0,0,3,2,63,0,Empate,0
+Douglas Luiz,Aston Villa,Meio-campo,36,66,3,3,0,3,3,64,1,Derrota,0
+Douglas Luiz,Aston Villa,Meio-campo,37,81,0,0,0,2,0,52,0,Vitória,1
+Douglas Luiz,Aston Villa,Meio-campo,38,71,0,0,0,0,0,55,1,Derrota,0
+Leon Bailey,Aston Villa,Atacante,2,67,0,0,0,2,0,23,0,Derrota,0
+Leon Bailey,Aston Villa,Atacante,3,85,0,0,0,4,2,30,0,Derrota,0
+Leon Bailey,Aston Villa,Atacante,4,90,0,0,0,2,0,23,0,Empate,0
+Leon Bailey,Aston Villa,Atacante,6,73,0,0,0,1,0,26,0,Vitória,1
+Leon Bailey,Aston Villa,Atacante,7,77,1,1,0,1,1,35,0,Vitória,1
+Leon Bailey,Aston Villa,Atacante,9,80,2,2,0,2,2,38,0,Vitória,1
+Leon Bailey,Aston Villa,Atacante,10,90,2,0,2,3,3,16,0,Empate,0
+Leon Bailey,Aston Villa,Atacante,11,83,0,0,0,2,1,37,0,Derrota,0
+Leon Bailey,Aston Villa,Atacante,12,76,0,0,0,3,1,32,0,Derrota,0
+Leon Bailey,Aston Villa,Atacante,13,90,0,0,0,1,1,30,0,Empate,0
+Leon Bailey,Aston Villa,Atacante,14,80,0,0,0,4,1,35,0,Vitória,1
+Leon Bailey,Aston Villa,Atacante,15,84,0,0,0,3,0,19,1,Vitória,1
+Leon Bailey,Aston Villa,Atacante,16,90,0,0,0,1,0,38,0,Empate,0
+Leon Bailey,Aston Villa,Atacante,17,84,1,0,1,3,3,28,0,Vitória,1
+Leon Bailey,Aston Villa,Atacante,18,81,1,1,0,1,1,29,0,Empate,0
+Leon Bailey,Aston Villa,Atacante,19,74,0,0,0,3,3,14,0,Empate,0
+Leon Bailey,Aston Villa,Atacante,20,70,0,0,0,0,0,22,0,Empate,0
+Leon Bailey,Aston Villa,Atacante,21,85,1,0,1,2,1,38,1,Vitória,1
+Leon Bailey,Aston Villa,Atacante,22,68,0,0,0,2,0,29,0,Vitória,1
+Leon Bailey,Aston Villa,Atacante,23,90,0,0,0,4,1,46,0,Derrota,0
+Leon Bailey,Aston Villa,Atacante,24,80,0,0,0,1,0,30,0,Empate,0
+Leon Bailey,Aston Villa,Atacante,25,84,0,0,0,3,1,27,0,Empate,0
+Leon Bailey,Aston Villa,Atacante,26,90,0,0,0,2,1,28,1,Derrota,0
+Leon Bailey,Aston Villa,Atacante,27,60,0,0,0,5,2,37,0,Vitória,1
+Leon Bailey,Aston Villa,Atacante,28,81,1,0,1,1,1,19,0,Vitória,1
+Leon Bailey,Aston Villa,Atacante,30,80,2,1,1,2,2,18,0,Empate,0
+Leon Bailey,Aston Villa,Atacante,31,80,1,1,0,4,3,28,0,Empate,0
+Leon Bailey,Aston Villa,Atacante,33,77,1,0,1,2,2,31,1,Empate,0
+Leon Bailey,Aston Villa,Atacante,34,69,1,1,0,3,2,17,0,Empate,0
+Leon Bailey,Aston Villa,Atacante,35,76,0,0,0,3,1,28,0,Empate,0
+Leon Bailey,Aston Villa,Atacante,36,79,1,0,1,3,3,24,0,Vitória,1
+Leon Bailey,Aston Villa,Atacante,37,68,0,0,0,2,0,40,1,Derrota,0
+Leon Bailey,Aston Villa,Atacante,38,66,1,0,1,2,2,32,0,Empate,0
+Alexander Isak,Newcastle,Atacante,1,90,0,0,0,4,2,22,0,Derrota,0
+Alexander Isak,Newcastle,Atacante,2,88,1,0,1,4,2,15,0,Vitória,1
+Alexander Isak,Newcastle,Atacante,3,83,0,0,0,4,1,19,0,Vitória,1
+Alexander Isak,Newcastle,Atacante,5,83,1,0,1,4,3,20,0,Empate,0
+Alexander Isak,Newcastle,Atacante,6,86,2,1,1,3,3,22,0,Vitória,1
+Alexander Isak,Newcastle,Atacante,7,90,0,0,0,2,0,23,0,Derrota,0
+Alexander Isak,Newcastle,Atacante,8,81,0,0,0,5,2,24,0,Vitória,1
+Alexander Isak,Newcastle,Atacante,9,62,1,0,1,1,1,24,0,Empate,0
+Alexander Isak,Newcastle,Atacante,10,83,1,1,0,1,1,22,0,Vitória,1
+Alexander Isak,Newcastle,Atacante,11,52,0,0,0,4,1,16,0,Vitória,1
+Alexander Isak,Newcastle,Atacante,12,90,1,0,1,3,2,26,1,Empate,0
+Alexander Isak,Newcastle,Atacante,13,72,0,0,0,1,1,25,0,Vitória,1
+Alexander Isak,Newcastle,Atacante,14,90,2,0,2,5,5,23,0,Derrota,0
+Alexander Isak,Newcastle,Atacante,15,90,0,0,0,4,3,22,0,Vitória,1
+Alexander Isak,Newcastle,Atacante,16,79,0,0,0,2,1,22,1,Vitória,1
+Alexander Isak,Newcastle,Atacante,17,90,1,0,1,1,1,26,0,Vitória,1
+Alexander Isak,Newcastle,Atacante,18,90,2,0,2,4,4,27,0,Vitória,1
+Alexander Isak,Newcastle,Atacante,19,90,1,1,0,1,1,15,0,Empate,0
+Alexander Isak,Newcastle,Atacante,20,61,0,0,0,2,1,27,0,Derrota,0
+Alexander Isak,Newcastle,Atacante,21,73,0,0,0,7,1,17,0,Empate,0
+Alexander Isak,Newcastle,Atacante,22,61,0,0,0,4,3,24,0,Derrota,0
+Alexander Isak,Newcastle,Atacante,23,87,1,0,1,5,2,20,0,Vitória,1
+Alexander Isak,Newcastle,Atacante,25,81,0,0,0,1,1,31,0,Derrota,0
+Alexander Isak,Newcastle,Atacante,26,90,0,0,0,5,1,19,0,Derrota,0
+Alexander Isak,Newcastle,Atacante,27,75,0,0,0,3,1,17,0,Vitória,1
+Alexander Isak,Newcastle,Atacante,28,90,0,0,0,4,0,29,1,Empate,0
+Alexander Isak,Newcastle,Atacante,29,90,0,0,0,5,1,17,0,Derrota,0
+Alexander Isak,Newcastle,Atacante,30,88,0,0,0,6,4,16,0,Vitória,1
+Alexander Isak,Newcastle,Atacante,31,90,1,1,0,3,1,17,0,Vitória,1
+Alexander Isak,Newcastle,Atacante,32,83,1,1,0,4,3,20,0,Vitória,1
+Alexander Isak,Newcastle,Atacante,33,73,1,0,1,4,3,15,0,Vitória,1
+Alexander Isak,Newcastle,Atacante,34,78,0,0,0,3,0,24,0,Vitória,1
+Alexander Isak,Newcastle,Atacante,35,77,1,0,1,2,2,27,0,Vitória,1
+Alexander Isak,Newcastle,Atacante,36,79,0,0,0,3,1,24,0,Vitória,1
+Alexander Isak,Newcastle,Atacante,38,90,1,0,1,2,2,20,0,Vitória,1
+Anthony Gordon,Newcastle,Atacante,1,87,1,1,0,4,1,25,0,Vitória,1
+Anthony Gordon,Newcastle,Atacante,2,75,0,0,0,2,1,34,0,Vitória,1
+Anthony Gordon,Newcastle,Atacante,3,83,1,0,1,1,1,28,0,Empate,0
+Anthony Gordon,Newcastle,Atacante,4,71,0,0,0,1,0,27,0,Empate,0
+Anthony Gordon,Newcastle,Atacante,6,74,1,0,1,1,1,23,0,Empate,0
+Anthony Gordon,Newcastle,Atacante,7,63,0,0,0,3,2,30,0,Empate,0
+Anthony Gordon,Newcastle,Atacante,8,85,0,0,0,3,0,29,0,Empate,0
+Anthony Gordon,Newcastle,Atacante,9,78,0,0,0,4,1,36,0,Derrota,0
+Anthony Gordon,Newcastle,Atacante,10,69,0,0,0,1,1,29,0,Empate,0
+Anthony Gordon,Newcastle,Atacante,11,71,0,0,0,2,2,28,1,Vitória,1
+Anthony Gordon,Newcastle,Atacante,12,85,0,0,0,6,4,37,0,Vitória,1
+Anthony Gordon,Newcastle,Atacante,13,82,1,0,1,3,2,24,0,Empate,0
+Anthony Gordon,Newcastle,Atacante,14,83,0,0,0,3,0,39,0,Vitória,1
+Anthony Gordon,Newcastle,Atacante,15,71,0,0,0,2,1,21,0,Empate,0
+Anthony Gordon,Newcastle,Atacante,16,90,2,2,0,2,2,25,0,Vitória,1
+Anthony Gordon,Newcastle,Atacante,17,76,1,0,1,5,1,18,1,Vitória,1
+Anthony Gordon,Newcastle,Atacante,18,82,0,0,0,4,1,19,1,Derrota,0
+Anthony Gordon,Newcastle,Atacante,19,89,0,0,0,2,2,28,1,Derrota,0
+Anthony Gordon,Newcastle,Atacante,20,77,0,0,0,2,2,27,0,Derrota,0
+Anthony Gordon,Newcastle,Atacante,21,86,0,0,0,4,0,29,1,Vitória,1
+Anthony Gordon,Newcastle,Atacante,22,70,0,0,0,0,0,19,0,Empate,0
+Anthony Gordon,Newcastle,Atacante,23,90,0,0,0,5,2,33,0,Empate,0
+Anthony Gordon,Newcastle,Atacante,25,83,0,0,0,0,0,26,1,Derrota,0
+Anthony Gordon,Newcastle,Atacante,26,90,0,0,0,5,2,17,0,Empate,0
+Anthony Gordon,Newcastle,Atacante,27,90,1,0,1,2,1,33,0,Empate,0
+Anthony Gordon,Newcastle,Atacante,28,66,0,0,0,1,1,26,0,Vitória,1
+Anthony Gordon,Newcastle,Atacante,29,76,0,0,0,1,1,14,0,Empate,0
+Anthony Gordon,Newcastle,Atacante,30,75,0,0,0,0,0,25,0,Empate,0
+Anthony Gordon,Newcastle,Atacante,31,88,0,0,0,1,0,30,0,Vitória,1
+Anthony Gordon,Newcastle,Atacante,32,84,0,0,0,2,1,20,0,Empate,0
+Anthony Gordon,Newcastle,Atacante,35,72,0,0,0,5,0,28,1,Vitória,1
+Anthony Gordon,Newcastle,Atacante,36,83,0,0,0,1,0,21,1,Vitória,1
+Anthony Gordon,Newcastle,Atacante,37,90,0,0,0,3,2,34,0,Vitória,1
+Anthony Gordon,Newcastle,Atacante,38,71,0,0,0,1,0,29,0,Vitória,1
+Bruno Guimarães,Newcastle,Meio-campo,4,74,0,0,0,4,1,60,1,Empate,0
+Bruno Guimarães,Newcastle,Meio-campo,5,82,1,1,0,1,1,85,0,Vitória,1
+Bruno Guimarães,Newcastle,Meio-campo,6,58,0,0,0,2,2,57,0,Derrota,0
+Bruno Guimarães,Newcastle,Meio-campo,7,76,0,0,0,0,0,40,1,Empate,0
+Bruno Guimarães,Newcastle,Meio-campo,8,90,0,0,0,1,0,79,0,Derrota,0
+Bruno Guimarães,Newcastle,Meio-campo,9,66,0,0,0,1,0,48,1,Vitória,1
+Bruno Guimarães,Newcastle,Meio-campo,10,90,0,0,0,2,1,44,0,Derrota,0
+Bruno Guimarães,Newcastle,Meio-campo,11,70,0,0,0,2,1,55,0,Derrota,0
+Bruno Guimarães,Newcastle,Meio-campo,12,84,0,0,0,3,1,54,1,Empate,0
+Bruno Guimarães,Newcastle,Meio-campo,13,68,1,0,1,1,1,53,1,Vitória,1
+Bruno Guimarães,Newcastle,Meio-campo,14,90,0,0,0,3,1,85,1,Empate,0
+Bruno Guimarães,Newcastle,Meio-campo,15,81,0,0,0,3,1,62,0,Empate,0
+Bruno Guimarães,Newcastle,Meio-campo,16,59,0,0,0,1,0,63,0,Derrota,0
+Bruno Guimarães,Newcastle,Meio-campo,17,89,0,0,0,1,1,70,1,Vitória,1
+Bruno Guimarães,Newcastle,Meio-campo,18,60,0,0,0,0,0,93,0,Derrota,0
+Bruno Guimarães,Newcastle,Meio-campo,19,86,0,0,0,1,1,78,0,Vitória,1
+Bruno Guimarães,Newcastle,Meio-campo,20,63,0,0,0,1,0,43,0,Derrota,0
+Bruno Guimarães,Newcastle,Meio-campo,21,76,0,0,0,2,2,73,0,Empate,0
+Bruno Guimarães,Newcastle,Meio-campo,22,76,0,0,0,1,0,90,0,Vitória,1
+Bruno Guimarães,Newcastle,Meio-campo,23,68,1,0,1,2,1,52,0,Vitória,1
+Bruno Guimarães,Newcastle,Meio-campo,24,61,0,0,0,2,2,60,1,Vitória,1
+Bruno Guimarães,Newcastle,Meio-campo,25,72,2,2,0,2,2,62,0,Empate,0
+Bruno Guimarães,Newcastle,Meio-campo,26,90,0,0,0,1,1,53,1,Empate,0
+Bruno Guimarães,Newcastle,Meio-campo,27,80,0,0,0,2,1,68,0,Derrota,0
+Bruno Guimarães,Newcastle,Meio-campo,28,78,0,0,0,1,1,78,0,Derrota,0
+Bruno Guimarães,Newcastle,Meio-campo,29,90,0,0,0,0,0,59,1,Derrota,0
+Bruno Guimarães,Newcastle,Meio-campo,30,90,0,0,0,3,1,52,1,Empate,0
+Bruno Guimarães,Newcastle,Meio-campo,31,77,0,0,0,0,0,31,0,Derrota,0
+Bruno Guimarães,Newcastle,Meio-campo,32,83,1,1,0,1,1,61,1,Vitória,1
+Bruno Guimarães,Newcastle,Meio-campo,33,71,1,0,1,1,1,87,1,Vitória,1
+Bruno Guimarães,Newcastle,Meio-campo,34,83,0,0,0,1,0,76,0,Derrota,0
+Bruno Guimarães,Newcastle,Meio-campo,35,82,0,0,0,2,1,54,1,Vitória,1
+Bruno Guimarães,Newcastle,Meio-campo,36,90,1,0,1,1,1,66,0,Vitória,1
+Bruno Guimarães,Newcastle,Meio-campo,37,62,0,0,0,2,1,59,0,Vitória,1
+Bruno Guimarães,Newcastle,Meio-campo,38,90,0,0,0,2,0,46,0,Derrota,0
+Jarrod Bowen,West Ham,Atacante,1,76,0,0,0,1,0,34,1,Vitória,1
+Jarrod Bowen,West Ham,Atacante,2,56,0,0,0,4,0,34,0,Empate,0
+Jarrod Bowen,West Ham,Atacante,3,73,0,0,0,3,0,32,0,Vitória,1
+Jarrod Bowen,West Ham,Atacante,4,76,2,1,1,2,2,16,0,Vitória,1
+Jarrod Bowen,West Ham,Atacante,5,77,0,0,0,2,1,25,0,Derrota,0
+Jarrod Bowen,West Ham,Atacante,6,81,1,0,1,1,1,18,0,Vitória,1
+Jarrod Bowen,West Ham,Atacante,7,69,0,0,0,1,1,40,0,Vitória,1
+Jarrod Bowen,West Ham,Atacante,8,86,1,1,0,4,3,20,0,Vitória,1
+Jarrod Bowen,West Ham,Atacante,9,90,0,0,0,2,0,34,0,Empate,0
+Jarrod Bowen,West Ham,Atacante,11,66,0,0,0,4,3,23,0,Vitória,1
+Jarrod Bowen,West Ham,Atacante,12,80,0,0,0,1,1,27,0,Vitória,1
+Jarrod Bowen,West Ham,Atacante,13,59,3,2,1,3,3,22,0,Vitória,1
+Jarrod Bowen,West Ham,Atacante,14,87,0,0,0,2,0,18,0,Derrota,0
+Jarrod Bowen,West Ham,Atacante,15,45,0,0,0,4,1,25,0,Vitória,1
+Jarrod Bowen,West Ham,Atacante,16,85,1,0,1,3,3,16,0,Derrota,0
+Jarrod Bowen,West Ham,Atacante,17,75,0,0,0,4,3,22,0,Vitória,1
+Jarrod Bowen,West Ham,Atacante,18,77,1,0,1,4,1,24,0,Vitória,1
+Jarrod Bowen,West Ham,Atacante,19,85,0,0,0,2,0,17,0,Vitória,1
+Jarrod Bowen,West Ham,Atacante,21,71,0,0,0,3,2,25,0,Derrota,0
+Jarrod Bowen,West Ham,Atacante,23,90,2,1,1,2,2,28,0,Vitória,1
+Jarrod Bowen,West Ham,Atacante,24,69,0,0,0,9,6,31,0,Derrota,0
+Jarrod Bowen,West Ham,Atacante,25,63,0,0,0,2,0,21,0,Empate,0
+Jarrod Bowen,West Ham,Atacante,26,81,1,0,1,3,2,14,0,Vitória,1
+Jarrod Bowen,West Ham,Atacante,27,53,0,0,0,6,3,21,0,Empate,0
+Jarrod Bowen,West Ham,Atacante,28,78,0,0,0,3,0,18,0,Derrota,0
+Jarrod Bowen,West Ham,Atacante,29,90,0,0,0,3,1,23,0,Derrota,0
+Jarrod Bowen,West Ham,Atacante,30,90,0,0,0,3,1,29,0,Vitória,1
+Jarrod Bowen,West Ham,Atacante,31,56,2,1,1,2,2,27,0,Vitória,1
+Jarrod Bowen,West Ham,Atacante,32,89,2,2,0,3,3,19,0,Vitória,1
+Jarrod Bowen,West Ham,Atacante,33,90,0,0,0,2,2,28,0,Derrota,0
+Jarrod Bowen,West Ham,Atacante,34,90,0,0,0,5,0,27,0,Vitória,1
+Jarrod Bowen,West Ham,Atacante,35,60,1,1,0,3,2,33,0,Vitória,1
+Jarrod Bowen,West Ham,Atacante,36,81,0,0,0,1,0,25,0,Derrota,0
+Jarrod Bowen,West Ham,Atacante,38,79,1,0,1,2,2,21,0,Empate,0
+Mohammed Kudus,West Ham,Atacante,2,64,0,0,0,4,1,30,1,Vitória,1
+Mohammed Kudus,West Ham,Atacante,3,76,0,0,0,2,0,35,1,Vitória,1
+Mohammed Kudus,West Ham,Atacante,4,66,0,0,0,4,2,32,1,Vitória,1
+Mohammed Kudus,West Ham,Atacante,5,90,1,1,0,4,3,29,0,Vitória,1
+Mohammed Kudus,West Ham,Atacante,7,75,0,0,0,2,1,36,1,Vitória,1
+Mohammed Kudus,West Ham,Atacante,8,90,1,1,0,2,2,27,1,Vitória,1
+Mohammed Kudus,West Ham,Atacante,9,74,0,0,0,1,0,31,0,Vitória,1
+Mohammed Kudus,West Ham,Atacante,10,90,0,0,0,2,1,22,0,Derrota,0
+Mohammed Kudus,West Ham,Atacante,11,82,0,0,0,5,2,33,1,Vitória,1
+Mohammed Kudus,West Ham,Atacante,13,90,0,0,0,2,1,43,0,Vitória,1
+Mohammed Kudus,West Ham,Atacante,14,90,0,0,0,0,0,27,0,Vitória,1
+Mohammed Kudus,West Ham,Atacante,15,87,1,1,0,3,3,42,0,Vitória,1
+Mohammed Kudus,West Ham,Atacante,16,86,0,0,0,2,0,38,1,Derrota,0
+Mohammed Kudus,West Ham,Atacante,17,68,0,0,0,4,2,41,0,Vitória,1
+Mohammed Kudus,West Ham,Atacante,18,67,0,0,0,1,0,11,0,Empate,0
+Mohammed Kudus,West Ham,Atacante,19,86,0,0,0,3,0,43,1,Empate,0
+Mohammed Kudus,West Ham,Atacante,20,67,1,1,0,2,1,27,1,Vitória,1
+Mohammed Kudus,West Ham,Atacante,21,45,0,0,0,2,1,26,1,Derrota,0
+Mohammed Kudus,West Ham,Atacante,22,90,0,0,0,1,0,17,0,Vitória,1
+Mohammed Kudus,West Ham,Atacante,23,64,1,1,0,1,1,12,0,Vitória,1
+Mohammed Kudus,West Ham,Atacante,24,87,0,0,0,6,2,25,0,Derrota,0
+Mohammed Kudus,West Ham,Atacante,25,89,0,0,0,1,0,27,0,Empate,0
+Mohammed Kudus,West Ham,Atacante,26,81,0,0,0,3,0,32,1,Vitória,1
+Mohammed Kudus,West Ham,Atacante,27,84,3,1,2,4,4,28,1,Vitória,1
+Mohammed Kudus,West Ham,Atacante,28,90,1,0,1,2,2,29,0,Vitória,1
+Mohammed Kudus,West Ham,Atacante,29,71,1,1,0,2,1,35,0,Vitória,1
+Mohammed Kudus,West Ham,Atacante,30,81,1,1,0,4,1,19,0,Empate,0
+Mohammed Kudus,West Ham,Atacante,31,90,1,0,1,2,1,35,0,Vitória,1
+Mohammed Kudus,West Ham,Atacante,32,78,0,0,0,1,0,27,0,Empate,0
+Mohammed Kudus,West Ham,Atacante,33,74,0,0,0,1,0,32,1,Empate,0
+Mohammed Kudus,West Ham,Atacante,34,60,0,0,0,1,0,20,1,Vitória,1
+Mohammed Kudus,West Ham,Atacante,35,83,1,0,1,1,1,33,0,Derrota,0
+Mohammed Kudus,West Ham,Atacante,36,79,0,0,0,1,0,21,0,Vitória,1
+Mohammed Kudus,West Ham,Atacante,37,85,0,0,0,6,2,29,0,Derrota,0
+Lucas Paquetá,West Ham,Meio-campo,1,86,0,0,0,5,0,58,0,Empate,0
+Lucas Paquetá,West Ham,Meio-campo,2,85,1,1,0,1,1,46,0,Vitória,1
+Lucas Paquetá,West Ham,Meio-campo,3,90,1,1,0,1,1,56,0,Vitória,1
+Lucas Paquetá,West Ham,Meio-campo,4,76,0,0,0,3,2,50,0,Vitória,1
+Lucas Paquetá,West Ham,Meio-campo,5,90,0,0,0,2,1,59,0,Vitória,1
+Lucas Paquetá,West Ham,Meio-campo,6,90,0,0,0,1,1,62,0,Vitória,1
+Lucas Paquetá,West Ham,Meio-campo,7,79,0,0,0,2,0,58,0,Vitória,1
+Lucas Paquetá,West Ham,Meio-campo,8,68,1,0,1,2,2,28,0,Vitória,1
+Lucas Paquetá,West Ham,Meio-campo,9,79,0,0,0,3,0,47,0,Vitória,1
+Lucas Paquetá,West Ham,Meio-campo,10,84,0,0,0,2,2,60,0,Empate,0
+Lucas Paquetá,West Ham,Meio-campo,13,78,0,0,0,0,0,50,1,Derrota,0
+Lucas Paquetá,West Ham,Meio-campo,14,90,0,0,0,1,1,45,0,Derrota,0
+Lucas Paquetá,West Ham,Meio-campo,15,74,0,0,0,1,0,24,1,Empate,0
+Lucas Paquetá,West Ham,Meio-campo,16,89,0,0,0,2,0,47,0,Vitória,1
+Lucas Paquetá,West Ham,Meio-campo,17,89,0,0,0,3,1,49,1,Vitória,1
+Lucas Paquetá,West Ham,Meio-campo,18,79,0,0,0,1,0,65,0,Vitória,1
+Lucas Paquetá,West Ham,Meio-campo,19,88,0,0,0,2,0,45,0,Vitória,1
+Lucas Paquetá,West Ham,Meio-campo,20,90,0,0,0,1,1,74,0,Vitória,1
+Lucas Paquetá,West Ham,Meio-campo,21,90,0,0,0,0,0,48,1,Empate,0
+Lucas Paquetá,West Ham,Meio-campo,22,68,2,1,1,2,2,47,0,Vitória,1
+Lucas Paquetá,West Ham,Meio-campo,23,82,0,0,0,1,0,54,0,Vitória,1
+Lucas Paquetá,West Ham,Meio-campo,24,86,0,0,0,4,3,34,0,Derrota,0
+Lucas Paquetá,West Ham,Meio-campo,25,77,0,0,0,4,2,47,0,Derrota,0
+Lucas Paquetá,West Ham,Meio-campo,26,86,1,0,1,3,2,73,0,Vitória,1
+Lucas Paquetá,West Ham,Meio-campo,27,67,0,0,0,0,0,38,0,Vitória,1
+Lucas Paquetá,West Ham,Meio-campo,28,67,0,0,0,2,1,54,0,Derrota,0
+Lucas Paquetá,West Ham,Meio-campo,29,74,1,1,0,1,1,63,1,Vitória,1
+Lucas Paquetá,West Ham,Meio-campo,30,87,0,0,0,2,1,61,1,Empate,0
+Lucas Paquetá,West Ham,Meio-campo,31,68,0,0,0,2,2,51,1,Derrota,0
+Lucas Paquetá,West Ham,Meio-campo,32,75,1,0,1,1,1,67,1,Vitória,1
+Lucas Paquetá,West Ham,Meio-campo,33,80,0,0,0,1,1,55,1,Vitória,1
+Lucas Paquetá,West Ham,Meio-campo,34,67,0,0,0,1,0,43,0,Derrota,0
+Lucas Paquetá,West Ham,Meio-campo,35,62,0,0,0,0,0,81,1,Empate,0
+Lucas Paquetá,West Ham,Meio-campo,36,68,1,0,1,2,1,51,1,Empate,0
+Lucas Paquetá,West Ham,Meio-campo,37,89,3,0,3,3,3,82,0,Empate,0
+Lucas Paquetá,West Ham,Meio-campo,38,84,0,0,0,1,0,61,0,Empate,0
+João Pedro,Brighton,Atacante,1,83,0,0,0,3,2,16,1,Empate,0
+João Pedro,Brighton,Atacante,2,81,1,0,1,2,2,24,0,Vitória,1
+João Pedro,Brighton,Atacante,3,88,0,0,0,0,0,30,0,Derrota,0
+João Pedro,Brighton,Atacante,5,64,1,0,1,1,1,39,0,Vitória,1
+João Pedro,Brighton,Atacante,6,69,1,0,1,5,1,30,0,Vitória,1
+João Pedro,Brighton,Atacante,7,80,0,0,0,2,1,15,0,Vitória,1
+João Pedro,Brighton,Atacante,8,68,0,0,0,1,1,19,0,Derrota,0
+João Pedro,Brighton,Atacante,9,90,0,0,0,3,0,26,0,Vitória,1
+João Pedro,Brighton,Atacante,10,87,1,0,1,5,2,16,0,Empate,0
+João Pedro,Brighton,Atacante,11,90,1,1,0,1,1,37,1,Vitória,1
+João Pedro,Brighton,Atacante,12,79,0,0,0,2,1,19,0,Vitória,1
+João Pedro,Brighton,Atacante,14,86,0,0,0,3,3,17,0,Derrota,0
+João Pedro,Brighton,Atacante,15,67,0,0,0,1,0,26,1,Vitória,1
+João Pedro,Brighton,Atacante,16,79,0,0,0,0,0,34,0,Empate,0
+João Pedro,Brighton,Atacante,17,63,0,0,0,3,2,35,0,Derrota,0
+João Pedro,Brighton,Atacante,18,61,1,0,1,1,1,26,0,Vitória,1
+João Pedro,Brighton,Atacante,19,77,1,0,1,1,1,32,0,Vitória,1
+João Pedro,Brighton,Atacante,20,59,0,0,0,1,0,23,0,Derrota,0
+João Pedro,Brighton,Atacante,21,86,0,0,0,3,1,33,0,Empate,0
+João Pedro,Brighton,Atacante,22,90,1,0,1,1,1,16,0,Vitória,1
+João Pedro,Brighton,Atacante,23,71,0,0,0,4,2,31,0,Derrota,0
+João Pedro,Brighton,Atacante,25,75,1,0,1,1,1,16,0,Vitória,1
+João Pedro,Brighton,Atacante,26,72,0,0,0,1,0,26,0,Vitória,1
+João Pedro,Brighton,Atacante,27,90,1,1,0,2,2,25,1,Empate,0
+João Pedro,Brighton,Atacante,28,77,0,0,0,2,2,30,1,Derrota,0
+João Pedro,Brighton,Atacante,29,76,0,0,0,3,0,33,0,Derrota,0
+João Pedro,Brighton,Atacante,30,79,0,0,0,3,2,18,0,Derrota,0
+João Pedro,Brighton,Atacante,31,68,0,0,0,0,0,30,1,Vitória,1
+João Pedro,Brighton,Atacante,32,69,2,1,1,2,2,28,0,Vitória,1
+João Pedro,Brighton,Atacante,33,79,0,0,0,2,0,21,1,Derrota,0
+João Pedro,Brighton,Atacante,34,61,0,0,0,2,1,32,0,Vitória,1
+João Pedro,Brighton,Atacante,35,73,0,0,0,3,1,25,0,Vitória,1
+João Pedro,Brighton,Atacante,36,86,0,0,0,2,2,27,1,Empate,0
+João Pedro,Brighton,Atacante,37,82,0,0,0,1,1,22,0,Derrota,0
+João Pedro,Brighton,Atacante,38,77,0,0,0,1,1,27,0,Derrota,0
+Kaoru Mitoma,Brighton,Atacante,1,90,1,1,0,1,1,26,0,Empate,0
+Kaoru Mitoma,Brighton,Atacante,2,90,0,0,0,2,1,32,0,Empate,0
+Kaoru Mitoma,Brighton,Atacante,3,72,0,0,0,1,1,28,0,Vitória,1
+Kaoru Mitoma,Brighton,Atacante,4,84,0,0,0,1,0,31,1,Vitória,1
+Kaoru Mitoma,Brighton,Atacante,5,82,0,0,0,3,1,44,0,Vitória,1
+Kaoru Mitoma,Brighton,Atacante,6,72,0,0,0,3,1,25,0,Empate,0
+Kaoru Mitoma,Brighton,Atacante,7,51,1,0,1,1,1,29,0,Empate,0
+Kaoru Mitoma,Brighton,Atacante,8,90,1,0,1,5,1,45,0,Vitória,1
+Kaoru Mitoma,Brighton,Atacante,9,90,0,0,0,0,0,33,0,Empate,0
+Kaoru Mitoma,Brighton,Atacante,10,63,1,0,1,3,1,52,0,Vitória,1
+Kaoru Mitoma,Brighton,Atacante,11,89,1,1,0,4,3,33,0,Vitória,1
+Kaoru Mitoma,Brighton,Atacante,12,80,0,0,0,3,1,31,0,Empate,0
+Kaoru Mitoma,Brighton,Atacante,13,90,0,0,0,5,3,13,0,Vitória,1
+Kaoru Mitoma,Brighton,Atacante,14,79,0,0,0,3,1,33,0,Vitória,1
+Kaoru Mitoma,Brighton,Atacante,15,71,0,0,0,2,0,36,0,Empate,0
+Kaoru Mitoma,Brighton,Atacante,16,79,0,0,0,1,1,34,0,Vitória,1
+Kaoru Mitoma,Brighton,Atacante,18,84,1,0,1,1,1,47,0,Vitória,1
+Kaoru Mitoma,Brighton,Atacante,19,90,0,0,0,1,1,36,1,Empate,0
+Kaoru Mitoma,Brighton,Atacante,20,79,0,0,0,3,2,37,1,Vitória,1
+Kaoru Mitoma,Brighton,Atacante,21,80,0,0,0,1,1,40,0,Empate,0
+Kaoru Mitoma,Brighton,Atacante,22,90,0,0,0,3,0,35,0,Derrota,0
+Kaoru Mitoma,Brighton,Atacante,23,72,0,0,0,1,1,25,0,Derrota,0
+Kaoru Mitoma,Brighton,Atacante,25,90,0,0,0,2,2,27,0,Derrota,0
+Kaoru Mitoma,Brighton,Atacante,26,71,0,0,0,2,2,39,0,Derrota,0
+Kaoru Mitoma,Brighton,Atacante,27,78,0,0,0,1,1,23,0,Derrota,0
+Kaoru Mitoma,Brighton,Atacante,29,74,1,1,0,4,3,33,1,Vitória,1
+Kaoru Mitoma,Brighton,Atacante,30,81,0,0,0,2,1,32,0,Empate,0
+Kaoru Mitoma,Brighton,Atacante,31,63,1,0,1,2,2,35,0,Vitória,1
+Kaoru Mitoma,Brighton,Atacante,32,64,1,1,0,3,3,24,0,Vitória,1
+Kaoru Mitoma,Brighton,Atacante,33,84,0,0,0,2,0,29,0,Derrota,0
+Kaoru Mitoma,Brighton,Atacante,34,86,0,0,0,2,0,34,0,Vitória,1
+Kaoru Mitoma,Brighton,Atacante,35,77,0,0,0,0,0,42,0,Derrota,0
+Kaoru Mitoma,Brighton,Atacante,36,84,1,0,1,1,1,35,0,Empate,0
+Kaoru Mitoma,Brighton,Atacante,37,71,0,0,0,2,0,31,0,Vitória,1
+Kaoru Mitoma,Brighton,Atacante,38,68,1,0,1,1,1,32,0,Vitória,1
+Matheus Cunha,Wolves,Atacante,1,78,0,0,0,3,0,31,0,Derrota,0
+Matheus Cunha,Wolves,Atacante,2,66,0,0,0,3,0,32,0,Derrota,0
+Matheus Cunha,Wolves,Atacante,4,63,1,0,1,2,1,29,0,Empate,0
+Matheus Cunha,Wolves,Atacante,5,79,0,0,0,6,1,29,0,Vitória,1
+Matheus Cunha,Wolves,Atacante,6,76,0,0,0,0,0,18,0,Derrota,0
+Matheus Cunha,Wolves,Atacante,7,77,0,0,0,3,3,23,0,Derrota,0
+Matheus Cunha,Wolves,Atacante,8,89,1,1,0,3,3,23,0,Vitória,1
+Matheus Cunha,Wolves,Atacante,9,90,1,0,1,4,2,26,0,Derrota,0
+Matheus Cunha,Wolves,Atacante,10,77,0,0,0,1,1,27,0,Empate,0
+Matheus Cunha,Wolves,Atacante,11,70,2,0,2,2,2,22,0,Vitória,1
+Matheus Cunha,Wolves,Atacante,12,74,1,0,1,1,1,17,0,Vitória,1
+Matheus Cunha,Wolves,Atacante,13,76,0,0,0,0,0,28,0,Vitória,1
+Matheus Cunha,Wolves,Atacante,14,90,1,1,0,1,1,16,0,Empate,0
+Matheus Cunha,Wolves,Atacante,15,85,0,0,0,2,0,26,0,Derrota,0
+Matheus Cunha,Wolves,Atacante,16,81,0,0,0,1,0,44,1,Empate,0
+Matheus Cunha,Wolves,Atacante,17,83,0,0,0,0,0,24,1,Derrota,0
+Matheus Cunha,Wolves,Atacante,18,73,1,0,1,1,1,37,1,Vitória,1
+Matheus Cunha,Wolves,Atacante,19,66,1,1,0,2,1,24,0,Vitória,1
+Matheus Cunha,Wolves,Atacante,20,90,1,0,1,2,1,22,1,Vitória,1
+Matheus Cunha,Wolves,Atacante,21,70,2,0,2,2,2,17,1,Vitória,1
+Matheus Cunha,Wolves,Atacante,22,79,0,0,0,3,0,26,1,Derrota,0
+Matheus Cunha,Wolves,Atacante,24,84,0,0,0,2,0,32,0,Empate,0
+Matheus Cunha,Wolves,Atacante,25,72,0,0,0,3,2,19,1,Vitória,1
+Matheus Cunha,Wolves,Atacante,26,81,0,0,0,3,0,20,0,Derrota,0
+Matheus Cunha,Wolves,Atacante,27,90,0,0,0,3,0,33,1,Derrota,0
+Matheus Cunha,Wolves,Atacante,28,72,0,0,0,2,0,29,0,Vitória,1
+Matheus Cunha,Wolves,Atacante,29,85,0,0,0,6,2,25,1,Empate,0
+Matheus Cunha,Wolves,Atacante,30,75,0,0,0,2,2,30,1,Vitória,1
+Matheus Cunha,Wolves,Atacante,31,76,0,0,0,2,0,27,0,Vitória,1
+Matheus Cunha,Wolves,Atacante,32,66,0,0,0,4,0,19,1,Vitória,1
+Matheus Cunha,Wolves,Atacante,33,58,0,0,0,3,1,28,0,Vitória,1
+Matheus Cunha,Wolves,Atacante,34,85,0,0,0,3,0,35,0,Vitória,1
+Matheus Cunha,Wolves,Atacante,35,74,0,0,0,2,0,23,0,Derrota,0
+Matheus Cunha,Wolves,Atacante,36,63,0,0,0,5,0,23,0,Vitória,1
+Matheus Cunha,Wolves,Atacante,37,68,0,0,0,2,1,17,1,Vitória,1
+Matheus Cunha,Wolves,Atacante,38,88,0,0,0,2,0,25,0,Vitória,1
+Hwang Hee-chan,Wolves,Atacante,1,90,1,0,1,1,1,21,0,Vitória,1
+Hwang Hee-chan,Wolves,Atacante,2,83,1,0,1,2,2,18,0,Vitória,1
+Hwang Hee-chan,Wolves,Atacante,3,90,1,1,0,1,1,22,0,Empate,0
+Hwang Hee-chan,Wolves,Atacante,4,57,1,1,0,2,2,23,0,Empate,0
+Hwang Hee-chan,Wolves,Atacante,5,90,2,0,2,2,2,25,0,Vitória,1
+Hwang Hee-chan,Wolves,Atacante,6,53,0,0,0,1,1,24,0,Empate,0
+Hwang Hee-chan,Wolves,Atacante,8,90,0,0,0,3,2,21,0,Derrota,0
+Hwang Hee-chan,Wolves,Atacante,9,86,0,0,0,3,1,20,0,Vitória,1
+Hwang Hee-chan,Wolves,Atacante,10,90,1,1,0,5,4,14,0,Derrota,0
+Hwang Hee-chan,Wolves,Atacante,11,81,0,0,0,0,0,20,1,Derrota,0
+Hwang Hee-chan,Wolves,Atacante,12,80,0,0,0,3,1,21,1,Derrota,0
+Hwang Hee-chan,Wolves,Atacante,13,62,0,0,0,7,3,23,0,Vitória,1
+Hwang Hee-chan,Wolves,Atacante,14,81,0,0,0,3,1,24,1,Derrota,0
+Hwang Hee-chan,Wolves,Atacante,15,90,0,0,0,1,0,21,0,Derrota,0
+Hwang Hee-chan,Wolves,Atacante,16,66,0,0,0,2,1,16,0,Empate,0
+Hwang Hee-chan,Wolves,Atacante,17,90,0,0,0,3,0,20,0,Empate,0
+Hwang Hee-chan,Wolves,Atacante,18,65,2,0,2,5,4,20,0,Vitória,1
+Hwang Hee-chan,Wolves,Atacante,19,77,0,0,0,1,1,20,0,Vitória,1
+Hwang Hee-chan,Wolves,Atacante,20,80,1,1,0,1,1,28,0,Empate,0
+Hwang Hee-chan,Wolves,Atacante,22,64,0,0,0,1,1,34,0,Vitória,1
+Hwang Hee-chan,Wolves,Atacante,23,68,1,1,0,1,1,28,0,Derrota,0
+Hwang Hee-chan,Wolves,Atacante,24,79,0,0,0,3,3,22,0,Vitória,1
+Hwang Hee-chan,Wolves,Atacante,26,68,1,0,1,2,1,28,0,Derrota,0
+Hwang Hee-chan,Wolves,Atacante,27,77,0,0,0,1,1,27,0,Derrota,0
+Hwang Hee-chan,Wolves,Atacante,28,77,0,0,0,3,0,23,0,Empate,0
+Hwang Hee-chan,Wolves,Atacante,29,90,0,0,0,1,0,22,0,Derrota,0
+Hwang Hee-chan,Wolves,Atacante,30,80,0,0,0,0,0,20,1,Derrota,0
+Hwang Hee-chan,Wolves,Atacante,31,76,2,0,2,4,3,31,0,Empate,0
+Hwang Hee-chan,Wolves,Atacante,32,75,0,0,0,1,1,24,0,Derrota,0
+Hwang Hee-chan,Wolves,Atacante,33,66,0,0,0,2,0,21,0,Vitória,1
+Hwang Hee-chan,Wolves,Atacante,34,76,0,0,0,2,1,25,0,Empate,0
+Hwang Hee-chan,Wolves,Atacante,35,90,0,0,0,1,0,14,0,Empate,0
+Hwang Hee-chan,Wolves,Atacante,37,73,0,0,0,2,1,18,0,Derrota,0
+Rodrigo Muniz,Fulham,Atacante,1,79,0,0,0,0,0,19,0,Vitória,1
+Rodrigo Muniz,Fulham,Atacante,2,84,0,0,0,3,1,18,1,Derrota,0
+Rodrigo Muniz,Fulham,Atacante,3,72,0,0,0,1,0,23,1,Vitória,1
+Rodrigo Muniz,Fulham,Atacante,4,86,0,0,0,3,1,18,0,Vitória,1
+Rodrigo Muniz,Fulham,Atacante,5,90,0,0,0,1,0,12,0,Vitória,1
+Rodrigo Muniz,Fulham,Atacante,6,81,0,0,0,1,0,12,0,Empate,0
+Rodrigo Muniz,Fulham,Atacante,7,67,0,0,0,1,1,23,0,Vitória,1
+Rodrigo Muniz,Fulham,Atacante,8,87,0,0,0,4,3,17,0,Vitória,1
+Rodrigo Muniz,Fulham,Atacante,9,90,0,0,0,4,3,17,0,Derrota,0
+Rodrigo Muniz,Fulham,Atacante,10,67,0,0,0,3,1,21,0,Empate,0
+Rodrigo Muniz,Fulham,Atacante,11,90,0,0,0,4,1,20,0,Vitória,1
+Rodrigo Muniz,Fulham,Atacante,12,74,2,2,0,2,2,19,0,Vitória,1
+Rodrigo Muniz,Fulham,Atacante,14,72,0,0,0,0,0,21,0,Derrota,0
+Rodrigo Muniz,Fulham,Atacante,15,81,0,0,0,2,1,14,0,Vitória,1
+Rodrigo Muniz,Fulham,Atacante,16,72,0,0,0,2,1,9,0,Empate,0
+Rodrigo Muniz,Fulham,Atacante,18,62,0,0,0,2,0,13,0,Vitória,1
+Rodrigo Muniz,Fulham,Atacante,19,66,0,0,0,2,0,26,1,Derrota,0
+Rodrigo Muniz,Fulham,Atacante,20,79,1,0,1,2,1,28,0,Empate,0
+Rodrigo Muniz,Fulham,Atacante,21,90,0,0,0,1,1,21,0,Empate,0
+Rodrigo Muniz,Fulham,Atacante,22,78,0,0,0,4,1,12,0,Empate,0
+Rodrigo Muniz,Fulham,Atacante,23,85,0,0,0,1,0,18,0,Vitória,1
+Rodrigo Muniz,Fulham,Atacante,26,88,1,0,1,6,6,27,0,Vitória,1
+Rodrigo Muniz,Fulham,Atacante,27,85,0,0,0,3,1,20,0,Empate,0
+Rodrigo Muniz,Fulham,Atacante,28,76,1,0,1,1,1,23,0,Empate,0
+Rodrigo Muniz,Fulham,Atacante,29,90,0,0,0,2,1,14,0,Derrota,0
+Rodrigo Muniz,Fulham,Atacante,30,90,1,0,1,2,1,22,0,Vitória,1
+Rodrigo Muniz,Fulham,Atacante,31,77,1,1,0,4,3,17,0,Vitória,1
+Rodrigo Muniz,Fulham,Atacante,32,78,0,0,0,3,1,29,0,Empate,0
+Rodrigo Muniz,Fulham,Atacante,33,81,0,0,0,3,1,23,1,Vitória,1
+Rodrigo Muniz,Fulham,Atacante,34,90,0,0,0,1,1,20,1,Derrota,0
+Rodrigo Muniz,Fulham,Atacante,35,75,0,0,0,4,4,15,0,Empate,0
+Rodrigo Muniz,Fulham,Atacante,36,63,0,0,0,3,2,23,0,Vitória,1
+Rodrigo Muniz,Fulham,Atacante,37,90,0,0,0,3,2,28,0,Derrota,0
+Rodrigo Muniz,Fulham,Atacante,38,74,1,0,1,2,2,19,0,Vitória,1
+Andreas Pereira,Fulham,Meio-campo,1,71,0,0,0,4,1,58,0,Vitória,1
+Andreas Pereira,Fulham,Meio-campo,2,90,0,0,0,1,0,51,0,Empate,0
+Andreas Pereira,Fulham,Meio-campo,3,90,1,0,1,5,2,49,0,Empate,0
+Andreas Pereira,Fulham,Meio-campo,4,75,0,0,0,1,0,50,0,Empate,0
+Andreas Pereira,Fulham,Meio-campo,5,82,0,0,0,0,0,55,1,Empate,0
+Andreas Pereira,Fulham,Meio-campo,6,83,0,0,0,5,2,28,0,Empate,0
+Andreas Pereira,Fulham,Meio-campo,8,70,0,0,0,0,0,27,0,Empate,0
+Andreas Pereira,Fulham,Meio-campo,9,90,1,0,1,3,1,48,1,Vitória,1
+Andreas Pereira,Fulham,Meio-campo,11,90,0,0,0,5,2,51,0,Derrota,0
+Andreas Pereira,Fulham,Meio-campo,12,79,0,0,0,0,0,45,0,Vitória,1
+Andreas Pereira,Fulham,Meio-campo,13,78,0,0,0,0,0,42,1,Vitória,1
+Andreas Pereira,Fulham,Meio-campo,14,77,0,0,0,2,1,45,0,Vitória,1
+Andreas Pereira,Fulham,Meio-campo,15,88,0,0,0,3,1,53,0,Vitória,1
+Andreas Pereira,Fulham,Meio-campo,16,82,1,0,1,2,1,45,0,Vitória,1
+Andreas Pereira,Fulham,Meio-campo,17,90,0,0,0,1,1,50,0,Vitória,1
+Andreas Pereira,Fulham,Meio-campo,18,90,0,0,0,1,0,49,0,Derrota,0
+Andreas Pereira,Fulham,Meio-campo,19,90,0,0,0,2,0,71,0,Empate,0
+Andreas Pereira,Fulham,Meio-campo,20,88,0,0,0,0,0,54,0,Derrota,0
+Andreas Pereira,Fulham,Meio-campo,21,79,0,0,0,3,2,31,1,Derrota,0
+Andreas Pereira,Fulham,Meio-campo,22,81,0,0,0,4,2,38,0,Empate,0
+Andreas Pereira,Fulham,Meio-campo,24,79,0,0,0,2,0,43,1,Empate,0
+Andreas Pereira,Fulham,Meio-campo,25,88,0,0,0,1,0,40,0,Vitória,1
+Andreas Pereira,Fulham,Meio-campo,26,79,1,1,0,3,1,37,0,Empate,0
+Andreas Pereira,Fulham,Meio-campo,27,90,0,0,0,3,2,54,0,Vitória,1
+Andreas Pereira,Fulham,Meio-campo,28,86,0,0,0,1,1,46,1,Empate,0
+Andreas Pereira,Fulham,Meio-campo,29,86,0,0,0,1,0,43,0,Derrota,0
+Andreas Pereira,Fulham,Meio-campo,31,90,0,0,0,1,0,28,0,Derrota,0
+Andreas Pereira,Fulham,Meio-campo,32,88,0,0,0,3,1,56,0,Derrota,0
+Andreas Pereira,Fulham,Meio-campo,34,71,0,0,0,2,1,47,0,Vitória,1
+Andreas Pereira,Fulham,Meio-campo,35,77,0,0,0,3,1,44,0,Empate,0
+Andreas Pereira,Fulham,Meio-campo,36,81,0,0,0,0,0,58,0,Empate,0
+Andreas Pereira,Fulham,Meio-campo,37,64,0,0,0,0,0,46,0,Derrota,0
+Andreas Pereira,Fulham,Meio-campo,38,84,0,0,0,1,0,32,1,Empate,0
+Dominic Calvert-Lewin,Everton,Atacante,2,90,0,0,0,6,3,17,0,Vitória,1
+Dominic Calvert-Lewin,Everton,Atacante,3,75,0,0,0,4,3,14,0,Derrota,0
+Dominic Calvert-Lewin,Everton,Atacante,4,84,1,1,0,5,2,9,1,Empate,0
+Dominic Calvert-Lewin,Everton,Atacante,5,64,0,0,0,7,4,21,0,Vitória,1
+Dominic Calvert-Lewin,Everton,Atacante,6,86,0,0,0,2,1,8,0,Empate,0
+Dominic Calvert-Lewin,Everton,Atacante,7,71,1,0,1,4,3,9,0,Empate,0
+Dominic Calvert-Lewin,Everton,Atacante,8,83,0,0,0,3,1,17,0,Empate,0
+Dominic Calvert-Lewin,Everton,Atacante,9,74,1,1,0,3,3,20,0,Derrota,0
+Dominic Calvert-Lewin,Everton,Atacante,10,75,0,0,0,0,0,9,1,Derrota,0
+Dominic Calvert-Lewin,Everton,Atacante,11,90,2,1,1,2,2,12,0,Derrota,0
+Dominic Calvert-Lewin,Everton,Atacante,12,75,0,0,0,2,1,13,1,Empate,0
+Dominic Calvert-Lewin,Everton,Atacante,13,85,0,0,0,2,1,21,0,Empate,0
+Dominic Calvert-Lewin,Everton,Atacante,14,88,0,0,0,1,1,18,0,Vitória,1
+Dominic Calvert-Lewin,Everton,Atacante,15,63,0,0,0,4,2,20,0,Empate,0
+Dominic Calvert-Lewin,Everton,Atacante,16,90,0,0,0,3,1,21,0,Derrota,0
+Dominic Calvert-Lewin,Everton,Atacante,17,58,0,0,0,2,1,17,0,Derrota,0
+Dominic Calvert-Lewin,Everton,Atacante,18,64,0,0,0,2,2,23,0,Derrota,0
+Dominic Calvert-Lewin,Everton,Atacante,19,90,0,0,0,2,1,13,0,Empate,0
+Dominic Calvert-Lewin,Everton,Atacante,20,82,0,0,0,2,1,20,1,Vitória,1
+Dominic Calvert-Lewin,Everton,Atacante,21,66,1,0,1,3,2,9,0,Vitória,1
+Dominic Calvert-Lewin,Everton,Atacante,22,90,1,1,0,3,1,20,0,Vitória,1
+Dominic Calvert-Lewin,Everton,Atacante,23,89,0,0,0,4,2,9,0,Vitória,1
+Dominic Calvert-Lewin,Everton,Atacante,24,82,1,0,1,3,1,14,0,Vitória,1
+Dominic Calvert-Lewin,Everton,Atacante,26,72,0,0,0,4,2,13,0,Derrota,0
+Dominic Calvert-Lewin,Everton,Atacante,27,85,0,0,0,2,1,14,0,Vitória,1
+Dominic Calvert-Lewin,Everton,Atacante,28,90,0,0,0,4,4,23,0,Vitória,1
+Dominic Calvert-Lewin,Everton,Atacante,29,68,1,0,1,4,3,19,0,Empate,0
+Dominic Calvert-Lewin,Everton,Atacante,30,90,0,0,0,6,3,15,0,Derrota,0
+Dominic Calvert-Lewin,Everton,Atacante,31,90,0,0,0,2,1,18,0,Vitória,1
+Dominic Calvert-Lewin,Everton,Atacante,32,82,0,0,0,3,1,19,0,Vitória,1
+Dominic Calvert-Lewin,Everton,Atacante,33,76,0,0,0,3,2,16,0,Derrota,0
+Dominic Calvert-Lewin,Everton,Atacante,34,77,0,0,0,1,0,13,0,Derrota,0
+Dominic Calvert-Lewin,Everton,Atacante,35,70,0,0,0,3,1,16,0,Vitória,1
+Dominic Calvert-Lewin,Everton,Atacante,36,81,0,0,0,1,1,13,0,Derrota,0
+Dominic Calvert-Lewin,Everton,Atacante,37,53,0,0,0,0,0,13,0,Derrota,0
+Dominic Calvert-Lewin,Everton,Atacante,38,90,0,0,0,2,1,16,0,Derrota,0
+Abdoulaye Doucouré,Everton,Meio-campo,3,83,0,0,0,3,1,21,0,Vitória,1
+Abdoulaye Doucouré,Everton,Meio-campo,4,82,0,0,0,0,0,57,1,Vitória,1
+Abdoulaye Doucouré,Everton,Meio-campo,5,90,1,0,1,3,2,43,0,Vitória,1
+Abdoulaye Doucouré,Everton,Meio-campo,6,87,1,1,0,1,1,40,0,Empate,0
+Abdoulaye Doucouré,Everton,Meio-campo,7,85,0,0,0,3,2,16,0,Derrota,0
+Abdoulaye Doucouré,Everton,Meio-campo,8,71,0,0,0,2,0,36,1,Derrota,0
+Abdoulaye Doucouré,Everton,Meio-campo,10,90,0,0,0,5,4,58,0,Empate,0
+Abdoulaye Doucouré,Everton,Meio-campo,11,90,0,0,0,0,0,36,0,Empate,0
+Abdoulaye Doucouré,Everton,Meio-campo,12,85,0,0,0,1,0,33,0,Empate,0
+Abdoulaye Doucouré,Everton,Meio-campo,13,74,0,0,0,2,0,44,0,Derrota,0
+Abdoulaye Doucouré,Everton,Meio-campo,14,72,0,0,0,0,0,41,1,Empate,0
+Abdoulaye Doucouré,Everton,Meio-campo,15,74,0,0,0,2,1,37,0,Empate,0
+Abdoulaye Doucouré,Everton,Meio-campo,17,83,2,1,1,3,3,34,0,Vitória,1
+Abdoulaye Doucouré,Everton,Meio-campo,18,58,0,0,0,0,0,18,0,Vitória,1
+Abdoulaye Doucouré,Everton,Meio-campo,19,72,2,1,1,2,2,35,0,Empate,0
+Abdoulaye Doucouré,Everton,Meio-campo,20,78,1,1,0,4,1,39,0,Vitória,1
+Abdoulaye Doucouré,Everton,Meio-campo,21,78,0,0,0,1,0,38,0,Derrota,0
+Abdoulaye Doucouré,Everton,Meio-campo,22,64,0,0,0,2,1,45,0,Vitória,1
+Abdoulaye Doucouré,Everton,Meio-campo,23,90,0,0,0,2,0,44,0,Vitória,1
+Abdoulaye Doucouré,Everton,Meio-campo,24,90,0,0,0,0,0,41,0,Vitória,1
+Abdoulaye Doucouré,Everton,Meio-campo,26,89,0,0,0,1,0,41,0,Vitória,1
+Abdoulaye Doucouré,Everton,Meio-campo,27,78,0,0,0,3,0,43,0,Empate,0
+Abdoulaye Doucouré,Everton,Meio-campo,28,67,0,0,0,2,1,41,0,Vitória,1
+Abdoulaye Doucouré,Everton,Meio-campo,29,76,0,0,0,2,1,47,0,Vitória,1
+Abdoulaye Doucouré,Everton,Meio-campo,30,70,0,0,0,2,0,35,0,Derrota,0
+Abdoulaye Doucouré,Everton,Meio-campo,31,67,0,0,0,0,0,41,0,Derrota,0
+Abdoulaye Doucouré,Everton,Meio-campo,32,75,0,0,0,3,1,45,0,Vitória,1
+Abdoulaye Doucouré,Everton,Meio-campo,33,78,0,0,0,1,1,37,1,Vitória,1
+Abdoulaye Doucouré,Everton,Meio-campo,34,53,0,0,0,1,0,31,0,Vitória,1
+Abdoulaye Doucouré,Everton,Meio-campo,35,71,1,0,1,1,1,30,0,Vitória,1
+Abdoulaye Doucouré,Everton,Meio-campo,36,90,0,0,0,3,2,23,1,Derrota,0
+Abdoulaye Doucouré,Everton,Meio-campo,37,86,0,0,0,0,0,32,0,Vitória,1
+Abdoulaye Doucouré,Everton,Meio-campo,38,81,0,0,0,1,0,35,0,Derrota,0
+Ivan Toney,Brentford,Atacante,1,79,0,0,0,6,6,14,0,Derrota,0
+Ivan Toney,Brentford,Atacante,2,90,0,0,0,1,1,24,1,Vitória,1
+Ivan Toney,Brentford,Atacante,3,51,0,0,0,5,1,26,0,Vitória,1
+Ivan Toney,Brentford,Atacante,4,80,0,0,0,2,1,32,0,Derrota,0
+Ivan Toney,Brentford,Atacante,5,86,0,0,0,2,2,24,0,Vitória,1
+Ivan Toney,Brentford,Atacante,6,90,0,0,0,4,1,22,1,Vitória,1
+Ivan Toney,Brentford,Atacante,7,75,1,1,0,1,1,16,0,Vitória,1
+Ivan Toney,Brentford,Atacante,8,75,0,0,0,5,3,26,0,Empate,0
+Ivan Toney,Brentford,Atacante,9,66,0,0,0,3,1,32,0,Vitória,1
+Ivan Toney,Brentford,Atacante,10,72,0,0,0,4,3,24,1,Vitória,1
+Ivan Toney,Brentford,Atacante,11,89,1,0,1,2,2,11,1,Empate,0
+Ivan Toney,Brentford,Atacante,12,84,0,0,0,3,2,15,1,Derrota,0
+Ivan Toney,Brentford,Atacante,13,90,1,0,1,1,1,23,0,Vitória,1
+Ivan Toney,Brentford,Atacante,14,90,1,0,1,4,4,30,0,Vitória,1
+Ivan Toney,Brentford,Atacante,15,72,1,1,0,1,1,28,0,Vitória,1
+Ivan Toney,Brentford,Atacante,17,80,1,1,0,3,3,29,0,Vitória,1
+Ivan Toney,Brentford,Atacante,18,90,0,0,0,2,2,31,0,Derrota,0
+Ivan Toney,Brentford,Atacante,19,86,1,0,1,4,1,21,0,Empate,0
+Ivan Toney,Brentford,Atacante,21,72,0,0,0,6,4,27,0,Vitória,1
+Ivan Toney,Brentford,Atacante,22,67,0,0,0,5,2,31,1,Derrota,0
+Ivan Toney,Brentford,Atacante,23,77,0,0,0,1,1,18,0,Vitória,1
+Ivan Toney,Brentford,Atacante,24,69,0,0,0,2,0,25,0,Vitória,1
+Ivan Toney,Brentford,Atacante,25,62,0,0,0,8,2,24,0,Derrota,0
+Ivan Toney,Brentford,Atacante,26,81,0,0,0,3,2,34,0,Vitória,1
+Ivan Toney,Brentford,Atacante,27,66,1,0,1,3,3,17,0,Empate,0
+Ivan Toney,Brentford,Atacante,28,75,0,0,0,1,0,18,0,Derrota,0
+Ivan Toney,Brentford,Atacante,29,88,0,0,0,3,1,27,0,Derrota,0
+Ivan Toney,Brentford,Atacante,30,79,0,0,0,3,0,26,1,Vitória,1
+Ivan Toney,Brentford,Atacante,31,90,0,0,0,3,2,17,0,Empate,0
+Ivan Toney,Brentford,Atacante,32,90,1,1,0,1,1,13,0,Vitória,1
+Ivan Toney,Brentford,Atacante,33,75,0,0,0,5,2,24,0,Derrota,0
+Ivan Toney,Brentford,Atacante,34,74,0,0,0,2,1,20,0,Vitória,1
+Ivan Toney,Brentford,Atacante,35,90,0,0,0,0,0,13,0,Empate,0
+Ivan Toney,Brentford,Atacante,36,69,0,0,0,1,1,24,0,Derrota,0
+Ivan Toney,Brentford,Atacante,37,76,1,0,1,1,1,19,0,Empate,0
+Ivan Toney,Brentford,Atacante,38,71,0,0,0,2,1,24,0,Derrota,0
+Bryan Mbeumo,Brentford,Atacante,1,77,2,0,2,3,3,31,0,Vitória,1
+Bryan Mbeumo,Brentford,Atacante,3,73,1,0,1,3,1,14,0,Empate,0
+Bryan Mbeumo,Brentford,Atacante,4,82,1,0,1,3,3,49,0,Vitória,1
+Bryan Mbeumo,Brentford,Atacante,6,76,1,0,1,1,1,27,0,Vitória,1
+Bryan Mbeumo,Brentford,Atacante,7,82,0,0,0,4,1,44,0,Empate,0
+Bryan Mbeumo,Brentford,Atacante,8,89,0,0,0,5,3,37,0,Derrota,0
+Bryan Mbeumo,Brentford,Atacante,9,70,0,0,0,1,0,34,0,Vitória,1
+Bryan Mbeumo,Brentford,Atacante,10,70,1,0,1,5,5,27,0,Vitória,1
+Bryan Mbeumo,Brentford,Atacante,11,75,0,0,0,4,0,33,0,Derrota,0
+Bryan Mbeumo,Brentford,Atacante,12,69,0,0,0,3,2,31,0,Derrota,0
+Bryan Mbeumo,Brentford,Atacante,13,90,0,0,0,8,3,19,1,Empate,0
+Bryan Mbeumo,Brentford,Atacante,14,75,0,0,0,2,2,21,0,Vitória,1
+Bryan Mbeumo,Brentford,Atacante,15,90,0,0,0,2,2,19,0,Derrota,0
+Bryan Mbeumo,Brentford,Atacante,16,74,0,0,0,1,0,16,0,Vitória,1
+Bryan Mbeumo,Brentford,Atacante,17,75,0,0,0,2,1,26,0,Vitória,1
+Bryan Mbeumo,Brentford,Atacante,18,85,0,0,0,1,0,42,0,Empate,0
+Bryan Mbeumo,Brentford,Atacante,19,83,0,0,0,3,3,38,0,Derrota,0
+Bryan Mbeumo,Brentford,Atacante,20,65,0,0,0,3,1,30,0,Empate,0
+Bryan Mbeumo,Brentford,Atacante,21,69,1,1,0,3,2,43,0,Vitória,1
+Bryan Mbeumo,Brentford,Atacante,24,90,0,0,0,1,0,25,0,Empate,0
+Bryan Mbeumo,Brentford,Atacante,26,79,0,0,0,2,0,34,0,Vitória,1
+Bryan Mbeumo,Brentford,Atacante,27,67,1,1,0,4,3,32,0,Vitória,1
+Bryan Mbeumo,Brentford,Atacante,28,82,0,0,0,2,1,41,0,Derrota,0
+Bryan Mbeumo,Brentford,Atacante,29,71,0,0,0,3,2,34,0,Vitória,1
+Bryan Mbeumo,Brentford,Atacante,30,87,0,0,0,3,1,26,0,Derrota,0
+Bryan Mbeumo,Brentford,Atacante,31,88,0,0,0,3,0,37,0,Vitória,1
+Bryan Mbeumo,Brentford,Atacante,32,85,0,0,0,0,0,33,0,Vitória,1
+Bryan Mbeumo,Brentford,Atacante,33,85,0,0,0,2,2,25,0,Derrota,0
+Bryan Mbeumo,Brentford,Atacante,34,63,1,0,1,2,2,45,0,Vitória,1
+Bryan Mbeumo,Brentford,Atacante,35,79,2,1,1,3,3,29,0,Empate,0
+Bryan Mbeumo,Brentford,Atacante,36,86,0,0,0,3,1,35,0,Derrota,0
+Bryan Mbeumo,Brentford,Atacante,37,90,0,0,0,4,3,37,0,Empate,0
+Bryan Mbeumo,Brentford,Atacante,38,90,3,3,0,3,3,38,0,Empate,0
+Jean-Philippe Mateta,Crystal Palace,Atacante,1,75,1,0,1,1,1,20,1,Vitória,1
+Jean-Philippe Mateta,Crystal Palace,Atacante,2,90,1,0,1,3,3,19,0,Empate,0
+Jean-Philippe Mateta,Crystal Palace,Atacante,3,80,0,0,0,5,4,18,0,Vitória,1
+Jean-Philippe Mateta,Crystal Palace,Atacante,4,77,0,0,0,5,1,18,1,Vitória,1
+Jean-Philippe Mateta,Crystal Palace,Atacante,5,90,1,1,0,3,3,18,0,Vitória,1
+Jean-Philippe Mateta,Crystal Palace,Atacante,6,88,0,0,0,2,1,15,0,Vitória,1
+Jean-Philippe Mateta,Crystal Palace,Atacante,7,90,0,0,0,2,2,22,0,Empate,0
+Jean-Philippe Mateta,Crystal Palace,Atacante,8,90,0,0,0,4,1,20,0,Derrota,0
+Jean-Philippe Mateta,Crystal Palace,Atacante,9,65,0,0,0,3,2,17,0,Empate,0
+Jean-Philippe Mateta,Crystal Palace,Atacante,10,90,1,1,0,7,3,21,0,Derrota,0
+Jean-Philippe Mateta,Crystal Palace,Atacante,11,87,0,0,0,0,0,18,1,Vitória,1
+Jean-Philippe Mateta,Crystal Palace,Atacante,12,78,1,0,1,8,3,16,0,Vitória,1
+Jean-Philippe Mateta,Crystal Palace,Atacante,14,88,0,0,0,9,7,17,1,Vitória,1
+Jean-Philippe Mateta,Crystal Palace,Atacante,15,90,0,0,0,3,1,15,1,Vitória,1
+Jean-Philippe Mateta,Crystal Palace,Atacante,16,75,1,0,1,1,1,14,0,Vitória,1
+Jean-Philippe Mateta,Crystal Palace,Atacante,17,90,0,0,0,5,1,12,0,Empate,0
+Jean-Philippe Mateta,Crystal Palace,Atacante,18,90,1,0,1,2,2,12,0,Vitória,1
+Jean-Philippe Mateta,Crystal Palace,Atacante,19,88,0,0,0,2,2,20,0,Derrota,0
+Jean-Philippe Mateta,Crystal Palace,Atacante,20,90,0,0,0,2,1,15,1,Vitória,1
+Jean-Philippe Mateta,Crystal Palace,Atacante,21,81,0,0,0,4,1,25,0,Derrota,0
+Jean-Philippe Mateta,Crystal Palace,Atacante,23,90,0,0,0,4,2,15,0,Empate,0
+Jean-Philippe Mateta,Crystal Palace,Atacante,25,85,0,0,0,5,1,20,0,Vitória,1
+Jean-Philippe Mateta,Crystal Palace,Atacante,26,84,0,0,0,2,1,11,0,Derrota,0
+Jean-Philippe Mateta,Crystal Palace,Atacante,27,69,0,0,0,2,1,22,0,Empate,0
+Jean-Philippe Mateta,Crystal Palace,Atacante,28,79,0,0,0,1,1,13,0,Derrota,0
+Jean-Philippe Mateta,Crystal Palace,Atacante,29,73,0,0,0,2,0,14,1,Derrota,0
+Jean-Philippe Mateta,Crystal Palace,Atacante,30,90,0,0,0,2,1,23,1,Vitória,1
+Jean-Philippe Mateta,Crystal Palace,Atacante,31,70,0,0,0,5,2,17,1,Vitória,1
+Jean-Philippe Mateta,Crystal Palace,Atacante,33,79,0,0,0,4,2,20,0,Vitória,1
+Jean-Philippe Mateta,Crystal Palace,Atacante,34,68,0,0,0,2,0,18,1,Derrota,0
+Jean-Philippe Mateta,Crystal Palace,Atacante,36,84,2,0,2,2,2,21,0,Vitória,1
+Jean-Philippe Mateta,Crystal Palace,Atacante,37,58,0,0,0,3,0,14,0,Empate,0
+Jean-Philippe Mateta,Crystal Palace,Atacante,38,88,1,0,1,3,3,15,1,Vitória,1
+Eberechi Eze,Crystal Palace,Meio-campo,1,90,0,0,0,3,1,29,0,Empate,0
+Eberechi Eze,Crystal Palace,Meio-campo,2,79,1,0,1,3,2,41,0,Vitória,1
+Eberechi Eze,Crystal Palace,Meio-campo,3,79,0,0,0,5,4,44,0,Vitória,1
+Eberechi Eze,Crystal Palace,Meio-campo,4,90,0,0,0,2,2,27,0,Derrota,0
+Eberechi Eze,Crystal Palace,Meio-campo,5,89,0,0,0,1,1,61,0,Derrota,0
+Eberechi Eze,Crystal Palace,Meio-campo,6,74,0,0,0,3,0,45,0,Empate,0
+Eberechi Eze,Crystal Palace,Meio-campo,7,69,1,0,1,1,1,43,0,Empate,0
+Eberechi Eze,Crystal Palace,Meio-campo,8,66,0,0,0,1,1,40,0,Derrota,0
+Eberechi Eze,Crystal Palace,Meio-campo,9,85,0,0,0,5,4,55,0,Vitória,1
+Eberechi Eze,Crystal Palace,Meio-campo,10,90,0,0,0,6,3,37,0,Vitória,1
+Eberechi Eze,Crystal Palace,Meio-campo,11,90,0,0,0,4,1,26,0,Empate,0
+Eberechi Eze,Crystal Palace,Meio-campo,12,72,0,0,0,4,1,56,0,Derrota,0
+Eberechi Eze,Crystal Palace,Meio-campo,13,82,0,0,0,3,3,38,0,Derrota,0
+Eberechi Eze,Crystal Palace,Meio-campo,14,77,0,0,0,2,0,21,0,Vitória,1
+Eberechi Eze,Crystal Palace,Meio-campo,16,90,1,1,0,1,1,54,0,Vitória,1
+Eberechi Eze,Crystal Palace,Meio-campo,18,80,0,0,0,6,4,36,0,Derrota,0
+Eberechi Eze,Crystal Palace,Meio-campo,20,81,0,0,0,5,3,29,0,Vitória,1
+Eberechi Eze,Crystal Palace,Meio-campo,21,84,1,0,1,3,3,51,0,Derrota,0
+Eberechi Eze,Crystal Palace,Meio-campo,22,80,0,0,0,2,1,46,1,Vitória,1
+Eberechi Eze,Crystal Palace,Meio-campo,23,85,1,1,0,5,4,53,0,Vitória,1
+Eberechi Eze,Crystal Palace,Meio-campo,24,86,0,0,0,1,0,28,1,Vitória,1
+Eberechi Eze,Crystal Palace,Meio-campo,25,87,1,0,1,1,1,49,0,Vitória,1
+Eberechi Eze,Crystal Palace,Meio-campo,26,73,0,0,0,5,2,52,0,Derrota,0
+Eberechi Eze,Crystal Palace,Meio-campo,27,90,1,0,1,4,3,43,0,Vitória,1
+Eberechi Eze,Crystal Palace,Meio-campo,28,73,0,0,0,5,1,54,0,Empate,0
+Eberechi Eze,Crystal Palace,Meio-campo,29,74,0,0,0,3,2,43,0,Derrota,0
+Eberechi Eze,Crystal Palace,Meio-campo,31,45,0,0,0,4,1,37,0,Empate,0
+Eberechi Eze,Crystal Palace,Meio-campo,32,76,1,0,1,2,1,41,0,Empate,0
+Eberechi Eze,Crystal Palace,Meio-campo,33,74,0,0,0,4,0,33,1,Vitória,1
+Eberechi Eze,Crystal Palace,Meio-campo,34,90,1,1,0,3,2,34,1,Derrota,0
+Eberechi Eze,Crystal Palace,Meio-campo,35,66,0,0,0,1,0,30,0,Vitória,1
+Eberechi Eze,Crystal Palace,Meio-campo,36,72,1,0,1,5,2,32,0,Empate,0
+Eberechi Eze,Crystal Palace,Meio-campo,37,70,0,0,0,3,2,46,0,Derrota,0
+Eberechi Eze,Crystal Palace,Meio-campo,38,61,1,1,0,2,1,45,0,Empate,0
+Dominic Solanke,Bournemouth,Atacante,1,60,1,1,0,4,2,14,0,Vitória,1
+Dominic Solanke,Bournemouth,Atacante,2,90,0,0,0,3,0,19,0,Vitória,1
+Dominic Solanke,Bournemouth,Atacante,3,90,1,0,1,5,4,19,0,Vitória,1
+Dominic Solanke,Bournemouth,Atacante,4,78,0,0,0,3,1,18,0,Derrota,0
+Dominic Solanke,Bournemouth,Atacante,5,90,0,0,0,1,0,18,0,Derrota,0
+Dominic Solanke,Bournemouth,Atacante,6,83,0,0,0,6,1,28,1,Vitória,1
+Dominic Solanke,Bournemouth,Atacante,7,90,0,0,0,1,1,25,0,Vitória,1
+Dominic Solanke,Bournemouth,Atacante,8,90,1,0,1,1,1,15,0,Vitória,1
+Dominic Solanke,Bournemouth,Atacante,9,90,2,0,2,2,2,16,0,Vitória,1
+Dominic Solanke,Bournemouth,Atacante,10,71,1,0,1,2,2,19,0,Vitória,1
+Dominic Solanke,Bournemouth,Atacante,11,63,2,2,0,2,2,34,0,Vitória,1
+Dominic Solanke,Bournemouth,Atacante,12,75,2,2,0,2,2,29,0,Vitória,1
+Dominic Solanke,Bournemouth,Atacante,13,81,2,1,1,3,3,19,1,Empate,0
+Dominic Solanke,Bournemouth,Atacante,14,90,1,0,1,4,1,12,1,Vitória,1
+Dominic Solanke,Bournemouth,Atacante,15,88,1,1,0,5,3,14,0,Vitória,1
+Dominic Solanke,Bournemouth,Atacante,16,72,0,0,0,0,0,18,1,Vitória,1
+Dominic Solanke,Bournemouth,Atacante,17,60,0,0,0,3,0,21,0,Empate,0
+Dominic Solanke,Bournemouth,Atacante,18,78,0,0,0,5,2,5,0,Empate,0
+Dominic Solanke,Bournemouth,Atacante,19,85,3,3,0,3,3,23,0,Vitória,1
+Dominic Solanke,Bournemouth,Atacante,20,90,0,0,0,5,2,21,1,Derrota,0
+Dominic Solanke,Bournemouth,Atacante,21,84,0,0,0,3,1,29,0,Vitória,1
+Dominic Solanke,Bournemouth,Atacante,22,61,0,0,0,3,1,29,1,Empate,0
+Dominic Solanke,Bournemouth,Atacante,23,72,1,1,0,1,1,23,0,Empate,0
+Dominic Solanke,Bournemouth,Atacante,24,82,0,0,0,4,1,18,0,Derrota,0
+Dominic Solanke,Bournemouth,Atacante,25,81,0,0,0,4,1,27,0,Derrota,0
+Dominic Solanke,Bournemouth,Atacante,26,85,1,0,1,2,2,11,0,Vitória,1
+Dominic Solanke,Bournemouth,Atacante,27,87,0,0,0,1,0,23,0,Vitória,1
+Dominic Solanke,Bournemouth,Atacante,28,82,0,0,0,1,1,16,0,Derrota,0
+Dominic Solanke,Bournemouth,Atacante,29,72,0,0,0,3,1,26,0,Vitória,1
+Dominic Solanke,Bournemouth,Atacante,30,77,0,0,0,2,1,15,0,Empate,0
+Dominic Solanke,Bournemouth,Atacante,31,90,0,0,0,0,0,21,1,Vitória,1
+Dominic Solanke,Bournemouth,Atacante,32,90,1,0,1,1,1,13,1,Vitória,1
+Dominic Solanke,Bournemouth,Atacante,33,90,1,0,1,2,2,21,0,Vitória,1
+Dominic Solanke,Bournemouth,Atacante,34,78,0,0,0,2,1,23,0,Vitória,1
+Dominic Solanke,Bournemouth,Atacante,37,72,1,0,1,3,1,23,0,Derrota,0
+Dominic Solanke,Bournemouth,Atacante,38,90,0,0,0,2,1,7,0,Empate,0
+Chris Wood,Nott'm Forest,Atacante,1,87,0,0,0,2,1,16,0,Vitória,1
+Chris Wood,Nott'm Forest,Atacante,2,71,1,0,1,5,2,18,1,Vitória,1
+Chris Wood,Nott'm Forest,Atacante,3,90,0,0,0,2,1,14,0,Derrota,0
+Chris Wood,Nott'm Forest,Atacante,4,78,0,0,0,2,0,15,0,Vitória,1
+Chris Wood,Nott'm Forest,Atacante,5,75,1,1,0,1,1,10,0,Vitória,1
+Chris Wood,Nott'm Forest,Atacante,6,77,0,0,0,4,1,11,0,Vitória,1
+Chris Wood,Nott'm Forest,Atacante,7,54,0,0,0,0,0,17,0,Derrota,0
+Chris Wood,Nott'm Forest,Atacante,8,72,0,0,0,2,2,20,1,Vitória,1
+Chris Wood,Nott'm Forest,Atacante,9,69,0,0,0,2,1,18,0,Vitória,1
+Chris Wood,Nott'm Forest,Atacante,10,60,2,0,2,4,4,21,0,Vitória,1
+Chris Wood,Nott'm Forest,Atacante,11,68,0,0,0,1,0,21,0,Derrota,0
+Chris Wood,Nott'm Forest,Atacante,12,78,1,1,0,1,1,10,1,Vitória,1
+Chris Wood,Nott'm Forest,Atacante,13,82,0,0,0,4,2,12,0,Empate,0
+Chris Wood,Nott'm Forest,Atacante,15,68,1,1,0,5,4,11,0,Vitória,1
+Chris Wood,Nott'm Forest,Atacante,16,72,0,0,0,5,3,14,1,Vitória,1
+Chris Wood,Nott'm Forest,Atacante,17,78,1,0,1,1,1,14,0,Empate,0
+Chris Wood,Nott'm Forest,Atacante,18,76,0,0,0,4,2,16,0,Vitória,1
+Chris Wood,Nott'm Forest,Atacante,19,89,0,0,0,1,1,10,0,Vitória,1
+Chris Wood,Nott'm Forest,Atacante,20,83,1,0,1,5,1,16,0,Vitória,1
+Chris Wood,Nott'm Forest,Atacante,21,70,2,2,0,2,2,12,0,Vitória,1
+Chris Wood,Nott'm Forest,Atacante,22,83,1,0,1,2,2,12,0,Vitória,1
+Chris Wood,Nott'm Forest,Atacante,23,67,1,1,0,2,1,14,1,Vitória,1
+Chris Wood,Nott'm Forest,Atacante,24,76,1,1,0,3,3,19,0,Vitória,1
+Chris Wood,Nott'm Forest,Atacante,25,82,2,2,0,2,2,12,0,Empate,0
+Chris Wood,Nott'm Forest,Atacante,26,90,2,0,2,2,2,12,0,Empate,0
+Chris Wood,Nott'm Forest,Atacante,27,75,0,0,0,1,1,18,0,Empate,0
+Chris Wood,Nott'm Forest,Atacante,28,82,1,0,1,2,1,19,0,Empate,0
+Chris Wood,Nott'm Forest,Atacante,29,70,0,0,0,1,0,11,0,Empate,0
+Chris Wood,Nott'm Forest,Atacante,30,87,1,0,1,5,2,13,0,Vitória,1
+Chris Wood,Nott'm Forest,Atacante,31,90,0,0,0,3,1,10,0,Vitória,1
+Chris Wood,Nott'm Forest,Atacante,32,90,0,0,0,3,2,18,0,Vitória,1
+Chris Wood,Nott'm Forest,Atacante,33,88,0,0,0,2,0,20,0,Vitória,1
+Chris Wood,Nott'm Forest,Atacante,34,82,2,1,1,2,2,13,0,Vitória,1
+Chris Wood,Nott'm Forest,Atacante,35,82,0,0,0,1,1,17,0,Derrota,0
+Chris Wood,Nott'm Forest,Atacante,36,78,0,0,0,2,2,19,0,Derrota,0
+Chris Wood,Nott'm Forest,Atacante,38,79,1,0,1,3,3,11,0,Vitória,1
+Morgan Gibbs-White,Nott'm Forest,Meio-campo,1,90,0,0,0,3,1,27,1,Vitória,1
+Morgan Gibbs-White,Nott'm Forest,Meio-campo,2,81,0,0,0,4,3,38,0,Empate,0
+Morgan Gibbs-White,Nott'm Forest,Meio-campo,3,83,0,0,0,1,1,52,0,Empate,0
+Morgan Gibbs-White,Nott'm Forest,Meio-campo,4,89,1,0,1,3,3,37,0,Vitória,1
+Morgan Gibbs-White,Nott'm Forest,Meio-campo,5,79,0,0,0,3,2,52,1,Vitória,1
+Morgan Gibbs-White,Nott'm Forest,Meio-campo,6,70,0,0,0,1,0,33,1,Empate,0
+Morgan Gibbs-White,Nott'm Forest,Meio-campo,8,82,0,0,0,2,1,46,0,Empate,0
+Morgan Gibbs-White,Nott'm Forest,Meio-campo,9,77,0,0,0,1,0,34,0,Empate,0
+Morgan Gibbs-White,Nott'm Forest,Meio-campo,10,71,0,0,0,0,0,41,0,Empate,0
+Morgan Gibbs-White,Nott'm Forest,Meio-campo,11,75,0,0,0,0,0,31,0,Derrota,0
+Morgan Gibbs-White,Nott'm Forest,Meio-campo,12,90,0,0,0,2,0,35,0,Derrota,0
+Morgan Gibbs-White,Nott'm Forest,Meio-campo,14,82,0,0,0,2,1,40,0,Derrota,0
+Morgan Gibbs-White,Nott'm Forest,Meio-campo,15,75,0,0,0,1,1,37,0,Empate,0
+Morgan Gibbs-White,Nott'm Forest,Meio-campo,16,88,1,0,1,1,1,41,0,Vitória,1
+Morgan Gibbs-White,Nott'm Forest,Meio-campo,20,87,0,0,0,1,1,27,1,Vitória,1
+Morgan Gibbs-White,Nott'm Forest,Meio-campo,21,90,0,0,0,1,0,58,0,Derrota,0
+Morgan Gibbs-White,Nott'm Forest,Meio-campo,22,72,0,0,0,3,2,74,1,Vitória,1
+Morgan Gibbs-White,Nott'm Forest,Meio-campo,23,82,0,0,0,3,1,37,0,Derrota,0
+Morgan Gibbs-White,Nott'm Forest,Meio-campo,24,82,1,1,0,4,2,42,1,Vitória,1
+Morgan Gibbs-White,Nott'm Forest,Meio-campo,25,67,1,0,1,3,1,27,0,Vitória,1
+Morgan Gibbs-White,Nott'm Forest,Meio-campo,28,82,0,0,0,2,0,43,0,Empate,0
+Morgan Gibbs-White,Nott'm Forest,Meio-campo,29,90,0,0,0,1,0,44,0,Empate,0
+Morgan Gibbs-White,Nott'm Forest,Meio-campo,30,90,0,0,0,2,2,43,0,Derrota,0
+Morgan Gibbs-White,Nott'm Forest,Meio-campo,32,90,0,0,0,0,0,49,0,Vitória,1
+Morgan Gibbs-White,Nott'm Forest,Meio-campo,33,78,0,0,0,0,0,36,1,Derrota,0
+Morgan Gibbs-White,Nott'm Forest,Meio-campo,34,90,0,0,0,1,1,60,0,Vitória,1
+Morgan Gibbs-White,Nott'm Forest,Meio-campo,35,73,0,0,0,1,0,38,0,Derrota,0
+Morgan Gibbs-White,Nott'm Forest,Meio-campo,36,90,0,0,0,0,0,36,0,Vitória,1
+Morgan Gibbs-White,Nott'm Forest,Meio-campo,37,77,0,0,0,1,0,32,0,Empate,0
+Morgan Gibbs-White,Nott'm Forest,Meio-campo,38,84,0,0,0,2,0,24,0,Derrota,0
+Elijah Adebayo,Luton,Atacante,2,64,0,0,0,4,3,12,0,Derrota,0
+Elijah Adebayo,Luton,Atacante,3,90,1,0,1,2,2,6,1,Vitória,1
+Elijah Adebayo,Luton,Atacante,4,90,0,0,0,2,2,15,0,Vitória,1
+Elijah Adebayo,Luton,Atacante,6,82,0,0,0,1,0,18,0,Vitória,1
+Elijah Adebayo,Luton,Atacante,7,87,0,0,0,4,1,14,0,Empate,0
+Elijah Adebayo,Luton,Atacante,8,60,1,0,1,4,1,18,0,Empate,0
+Elijah Adebayo,Luton,Atacante,9,87,0,0,0,0,0,20,0,Vitória,1
+Elijah Adebayo,Luton,Atacante,10,90,2,0,2,2,2,14,0,Vitória,1
+Elijah Adebayo,Luton,Atacante,11,63,1,1,0,2,2,19,0,Vitória,1
+Elijah Adebayo,Luton,Atacante,12,66,1,0,1,3,2,16,0,Vitória,1
+Elijah Adebayo,Luton,Atacante,13,78,0,0,0,1,1,8,0,Empate,0
+Elijah Adebayo,Luton,Atacante,14,83,2,1,1,2,2,20,0,Vitória,1
+Elijah Adebayo,Luton,Atacante,15,75,0,0,0,1,1,18,1,Derrota,0
+Elijah Adebayo,Luton,Atacante,17,46,1,0,1,3,1,21,0,Empate,0
+Elijah Adebayo,Luton,Atacante,18,90,0,0,0,0,0,16,1,Vitória,1
+Elijah Adebayo,Luton,Atacante,20,90,1,1,0,1,1,10,0,Empate,0
+Elijah Adebayo,Luton,Atacante,21,87,0,0,0,2,1,19,1,Vitória,1
+Elijah Adebayo,Luton,Atacante,22,78,0,0,0,5,1,17,0,Derrota,0
+Elijah Adebayo,Luton,Atacante,23,81,0,0,0,3,3,14,0,Vitória,1
+Elijah Adebayo,Luton,Atacante,24,76,0,0,0,2,1,15,0,Vitória,1
+Elijah Adebayo,Luton,Atacante,25,69,0,0,0,5,1,14,0,Vitória,1
+Elijah Adebayo,Luton,Atacante,26,86,1,1,0,1,1,25,0,Empate,0
+Elijah Adebayo,Luton,Atacante,27,79,1,1,0,3,3,18,0,Vitória,1
+Elijah Adebayo,Luton,Atacante,28,78,0,0,0,2,1,18,0,Vitória,1
+Elijah Adebayo,Luton,Atacante,29,90,0,0,0,1,1,18,1,Empate,0
+Elijah Adebayo,Luton,Atacante,30,75,0,0,0,2,1,19,1,Vitória,1
+Elijah Adebayo,Luton,Atacante,31,67,1,0,1,2,1,22,0,Vitória,1
+Elijah Adebayo,Luton,Atacante,32,63,2,1,1,2,2,16,0,Vitória,1
+Elijah Adebayo,Luton,Atacante,33,82,0,0,0,2,1,10,0,Derrota,0
+Elijah Adebayo,Luton,Atacante,34,74,2,1,1,2,2,21,0,Vitória,1
+Elijah Adebayo,Luton,Atacante,36,76,0,0,0,1,0,19,0,Empate,0
+Elijah Adebayo,Luton,Atacante,37,65,0,0,0,0,0,11,1,Vitória,1
+Elijah Adebayo,Luton,Atacante,38,75,0,0,0,4,0,16,0,Derrota,0
+Carlton Morris,Luton,Atacante,1,90,0,0,0,1,1,28,1,Derrota,0
+Carlton Morris,Luton,Atacante,2,90,0,0,0,0,0,20,0,Vitória,1
+Carlton Morris,Luton,Atacante,3,85,0,0,0,2,1,33,1,Vitória,1
+Carlton Morris,Luton,Atacante,4,90,0,0,0,2,1,20,0,Derrota,0
+Carlton Morris,Luton,Atacante,5,90,0,0,0,2,1,18,0,Derrota,0
+Carlton Morris,Luton,Atacante,6,82,0,0,0,0,0,23,1,Vitória,1
+Carlton Morris,Luton,Atacante,7,90,0,0,0,5,2,26,0,Empate,0
+Carlton Morris,Luton,Atacante,8,83,0,0,0,2,0,20,0,Empate,0
+Carlton Morris,Luton,Atacante,10,81,2,1,1,2,2,21,1,Vitória,1
+Carlton Morris,Luton,Atacante,11,82,0,0,0,2,1,15,0,Empate,0
+Carlton Morris,Luton,Atacante,12,85,1,0,1,1,1,20,0,Vitória,1
+Carlton Morris,Luton,Atacante,13,85,1,0,1,4,1,18,0,Derrota,0
+Carlton Morris,Luton,Atacante,15,90,1,0,1,2,1,17,0,Vitória,1
+Carlton Morris,Luton,Atacante,16,90,1,1,0,1,1,25,0,Empate,0
+Carlton Morris,Luton,Atacante,17,89,1,0,1,2,1,21,0,Vitória,1
+Carlton Morris,Luton,Atacante,18,65,0,0,0,1,0,17,0,Derrota,0
+Carlton Morris,Luton,Atacante,19,75,1,0,1,1,1,23,0,Vitória,1
+Carlton Morris,Luton,Atacante,20,90,0,0,0,1,1,28,0,Derrota,0
+Carlton Morris,Luton,Atacante,21,84,0,0,0,0,0,23,0,Vitória,1
+Carlton Morris,Luton,Atacante,22,88,0,0,0,2,1,19,0,Derrota,0
+Carlton Morris,Luton,Atacante,23,80,1,0,1,7,3,22,1,Empate,0
+Carlton Morris,Luton,Atacante,24,77,0,0,0,7,2,17,0,Empate,0
+Carlton Morris,Luton,Atacante,25,90,0,0,0,0,0,28,1,Empate,0
+Carlton Morris,Luton,Atacante,26,61,0,0,0,4,2,26,0,Vitória,1
+Carlton Morris,Luton,Atacante,27,87,0,0,0,0,0,18,0,Vitória,1
+Carlton Morris,Luton,Atacante,28,77,0,0,0,3,1,12,0,Vitória,1
+Carlton Morris,Luton,Atacante,29,90,0,0,0,3,2,26,1,Empate,0
+Carlton Morris,Luton,Atacante,30,90,0,0,0,1,1,20,1,Derrota,0
+Carlton Morris,Luton,Atacante,31,78,0,0,0,0,0,23,0,Empate,0
+Carlton Morris,Luton,Atacante,32,82,0,0,0,6,3,17,0,Vitória,1
+Carlton Morris,Luton,Atacante,33,83,1,0,1,1,1,16,0,Vitória,1
+Carlton Morris,Luton,Atacante,34,90,1,0,1,1,1,21,0,Vitória,1
+Carlton Morris,Luton,Atacante,35,72,0,0,0,2,2,21,1,Derrota,0
+Carlton Morris,Luton,Atacante,36,86,0,0,0,2,0,25,0,Empate,0
+Carlton Morris,Luton,Atacante,37,90,1,0,1,1,1,28,0,Vitória,1
+Carlton Morris,Luton,Atacante,38,84,1,0,1,1,1,18,0,Vitória,1
+Lyle Foster,Burnley,Atacante,1,84,2,0,2,2,2,15,0,Empate,0
+Lyle Foster,Burnley,Atacante,3,68,1,1,0,1,1,21,1,Empate,0
+Lyle Foster,Burnley,Atacante,4,86,0,0,0,1,1,21,0,Vitória,1
+Lyle Foster,Burnley,Atacante,5,64,0,0,0,0,0,17,1,Derrota,0
+Lyle Foster,Burnley,Atacante,6,84,0,0,0,2,1,13,0,Vitória,1
+Lyle Foster,Burnley,Atacante,7,83,0,0,0,3,2,22,1,Derrota,0
+Lyle Foster,Burnley,Atacante,8,90,0,0,0,2,1,20,0,Empate,0
+Lyle Foster,Burnley,Atacante,9,77,1,1,0,1,1,14,1,Vitória,1
+Lyle Foster,Burnley,Atacante,10,66,0,0,0,1,0,20,0,Vitória,1
+Lyle Foster,Burnley,Atacante,12,51,0,0,0,0,0,13,0,Vitória,1
+Lyle Foster,Burnley,Atacante,13,90,0,0,0,0,0,23,1,Empate,0
+Lyle Foster,Burnley,Atacante,14,90,3,3,0,3,3,19,0,Vitória,1
+Lyle Foster,Burnley,Atacante,15,71,0,0,0,1,1,10,0,Vitória,1
+Lyle Foster,Burnley,Atacante,16,71,0,0,0,3,2,17,0,Empate,0
+Lyle Foster,Burnley,Atacante,18,90,0,0,0,1,0,22,0,Derrota,0
+Lyle Foster,Burnley,Atacante,19,82,0,0,0,1,1,19,0,Vitória,1
+Lyle Foster,Burnley,Atacante,21,84,0,0,0,1,0,15,0,Vitória,1
+Lyle Foster,Burnley,Atacante,23,76,0,0,0,1,1,13,0,Derrota,0
+Lyle Foster,Burnley,Atacante,24,77,0,0,0,2,2,8,1,Empate,0
+Lyle Foster,Burnley,Atacante,25,83,1,0,1,1,1,16,0,Empate,0
+Lyle Foster,Burnley,Atacante,26,86,0,0,0,1,0,17,0,Empate,0
+Lyle Foster,Burnley,Atacante,27,90,0,0,0,4,3,16,0,Empate,0
+Lyle Foster,Burnley,Atacante,28,75,1,1,0,1,1,24,0,Vitória,1
+Lyle Foster,Burnley,Atacante,29,70,0,0,0,2,2,15,0,Vitória,1
+Lyle Foster,Burnley,Atacante,30,81,1,0,1,2,1,19,1,Vitória,1
+Lyle Foster,Burnley,Atacante,31,60,1,0,1,1,1,20,1,Vitória,1
+Lyle Foster,Burnley,Atacante,32,75,0,0,0,2,1,12,0,Vitória,1
+Lyle Foster,Burnley,Atacante,33,90,2,1,1,2,2,10,0,Vitória,1
+Lyle Foster,Burnley,Atacante,34,86,0,0,0,0,0,18,0,Derrota,0
+Lyle Foster,Burnley,Atacante,37,90,0,0,0,2,0,24,0,Derrota,0
+Zeki Amdouni,Burnley,Atacante,1,73,0,0,0,3,0,34,1,Vitória,1
+Zeki Amdouni,Burnley,Atacante,2,73,0,0,0,2,1,17,0,Derrota,0
+Zeki Amdouni,Burnley,Atacante,3,75,0,0,0,1,0,30,0,Derrota,0
+Zeki Amdouni,Burnley,Atacante,4,67,0,0,0,5,2,17,0,Derrota,0
+Zeki Amdouni,Burnley,Atacante,5,90,1,1,0,1,1,19,1,Vitória,1
+Zeki Amdouni,Burnley,Atacante,6,90,1,1,0,1,1,18,0,Vitória,1
+Zeki Amdouni,Burnley,Atacante,8,82,0,0,0,1,0,25,0,Empate,0
+Zeki Amdouni,Burnley,Atacante,9,71,0,0,0,2,1,23,0,Derrota,0
+Zeki Amdouni,Burnley,Atacante,10,79,0,0,0,2,2,17,1,Derrota,0
+Zeki Amdouni,Burnley,Atacante,11,90,0,0,0,0,0,29,1,Empate,0
+Zeki Amdouni,Burnley,Atacante,12,79,0,0,0,2,0,30,0,Empate,0
+Zeki Amdouni,Burnley,Atacante,13,75,0,0,0,3,2,34,0,Vitória,1
+Zeki Amdouni,Burnley,Atacante,14,80,1,0,1,2,2,23,0,Vitória,1
+Zeki Amdouni,Burnley,Atacante,15,84,1,1,0,3,3,21,0,Vitória,1
+Zeki Amdouni,Burnley,Atacante,16,90,0,0,0,2,2,25,0,Derrota,0
+Zeki Amdouni,Burnley,Atacante,18,63,0,0,0,6,3,21,0,Derrota,0
+Zeki Amdouni,Burnley,Atacante,19,79,0,0,0,1,0,25,0,Empate,0
+Zeki Amdouni,Burnley,Atacante,20,87,1,0,1,3,2,22,0,Vitória,1
+Zeki Amdouni,Burnley,Atacante,21,90,0,0,0,1,0,28,0,Empate,0
+Zeki Amdouni,Burnley,Atacante,22,90,0,0,0,4,1,25,0,Derrota,0
+Zeki Amdouni,Burnley,Atacante,23,75,0,0,0,2,1,33,0,Derrota,0
+Zeki Amdouni,Burnley,Atacante,25,90,2,1,1,2,2,29,0,Vitória,1
+Zeki Amdouni,Burnley,Atacante,26,90,0,0,0,1,1,20,1,Derrota,0
+Zeki Amdouni,Burnley,Atacante,27,90,0,0,0,1,1,23,0,Empate,0
+Zeki Amdouni,Burnley,Atacante,28,66,0,0,0,3,2,20,0,Vitória,1
+Zeki Amdouni,Burnley,Atacante,29,77,0,0,0,2,2,28,0,Empate,0
+Zeki Amdouni,Burnley,Atacante,30,89,0,0,0,3,2,15,0,Vitória,1
+Zeki Amdouni,Burnley,Atacante,31,90,0,0,0,2,1,34,0,Derrota,0
+Zeki Amdouni,Burnley,Atacante,32,74,0,0,0,1,0,22,0,Empate,0
+Zeki Amdouni,Burnley,Atacante,33,78,1,1,0,1,1,27,0,Empate,0
+Zeki Amdouni,Burnley,Atacante,34,51,1,0,1,1,1,24,0,Vitória,1
+Zeki Amdouni,Burnley,Atacante,35,82,0,0,0,1,1,29,0,Vitória,1
+Zeki Amdouni,Burnley,Atacante,36,79,0,0,0,2,2,33,0,Derrota,0
+Zeki Amdouni,Burnley,Atacante,37,90,0,0,0,0,0,23,0,Vitória,1
+Cameron Archer,Sheffield United,Atacante,1,68,0,0,0,1,0,14,1,Derrota,0
+Cameron Archer,Sheffield United,Atacante,2,77,1,1,0,1,1,15,0,Vitória,1
+Cameron Archer,Sheffield United,Atacante,3,90,0,0,0,1,0,15,0,Vitória,1
+Cameron Archer,Sheffield United,Atacante,4,78,0,0,0,1,0,12,0,Derrota,0
+Cameron Archer,Sheffield United,Atacante,5,80,0,0,0,2,0,13,0,Derrota,0
+Cameron Archer,Sheffield United,Atacante,6,90,1,1,0,1,1,19,0,Empate,0
+Cameron Archer,Sheffield United,Atacante,7,87,0,0,0,1,0,7,0,Vitória,1
+Cameron Archer,Sheffield United,Atacante,8,75,0,0,0,2,1,17,1,Empate,0
+Cameron Archer,Sheffield United,Atacante,9,90,0,0,0,0,0,19,0,Vitória,1
+Cameron Archer,Sheffield United,Atacante,10,85,0,0,0,0,0,20,0,Empate,0
+Cameron Archer,Sheffield United,Atacante,11,69,1,1,0,3,3,15,0,Vitória,1
+Cameron Archer,Sheffield United,Atacante,12,90,0,0,0,5,1,15,0,Empate,0
+Cameron Archer,Sheffield United,Atacante,13,90,0,0,0,3,2,19,0,Vitória,1
+Cameron Archer,Sheffield United,Atacante,14,71,0,0,0,0,0,23,0,Vitória,1
+Cameron Archer,Sheffield United,Atacante,15,90,0,0,0,2,1,12,0,Empate,0
+Cameron Archer,Sheffield United,Atacante,16,77,1,0,1,5,5,16,0,Vitória,1
+Cameron Archer,Sheffield United,Atacante,17,90,0,0,0,0,0,13,0,Vitória,1
+Cameron Archer,Sheffield United,Atacante,18,76,0,0,0,0,0,17,0,Empate,0
+Cameron Archer,Sheffield United,Atacante,19,83,0,0,0,2,2,16,0,Vitória,1
+Cameron Archer,Sheffield United,Atacante,21,88,1,0,1,1,1,14,0,Vitória,1
+Cameron Archer,Sheffield United,Atacante,22,45,0,0,0,2,0,21,0,Empate,0
+Cameron Archer,Sheffield United,Atacante,23,82,0,0,0,1,1,13,0,Vitória,1
+Cameron Archer,Sheffield United,Atacante,24,84,1,1,0,3,3,19,0,Vitória,1
+Cameron Archer,Sheffield United,Atacante,25,83,0,0,0,1,0,13,0,Vitória,1
+Cameron Archer,Sheffield United,Atacante,26,90,0,0,0,1,1,14,0,Vitória,1
+Cameron Archer,Sheffield United,Atacante,27,71,0,0,0,3,1,19,0,Empate,0
+Cameron Archer,Sheffield United,Atacante,29,87,0,0,0,1,1,17,0,Vitória,1
+Cameron Archer,Sheffield United,Atacante,30,90,1,1,0,1,1,17,0,Vitória,1
+Cameron Archer,Sheffield United,Atacante,31,90,0,0,0,6,2,14,0,Derrota,0
+Cameron Archer,Sheffield United,Atacante,32,90,2,1,1,2,2,17,0,Vitória,1
+Cameron Archer,Sheffield United,Atacante,33,90,0,0,0,1,0,18,0,Derrota,0
+Cameron Archer,Sheffield United,Atacante,34,77,0,0,0,1,0,19,0,Vitória,1
+Cameron Archer,Sheffield United,Atacante,35,79,0,0,0,3,1,16,0,Empate,0
+Cameron Archer,Sheffield United,Atacante,36,71,0,0,0,1,1,20,0,Empate,0
+Cameron Archer,Sheffield United,Atacante,37,81,0,0,0,1,0,18,0,Empate,0
+Cameron Archer,Sheffield United,Atacante,38,70,0,0,0,4,2,24,1,Vitória,1
+Gustavo Hamer,Sheffield United,Meio-campo,1,63,1,1,0,1,1,38,0,Vitória,1
+Gustavo Hamer,Sheffield United,Meio-campo,2,90,0,0,0,3,1,47,1,Derrota,0
+Gustavo Hamer,Sheffield United,Meio-campo,3,81,0,0,0,1,1,43,0,Derrota,0
+Gustavo Hamer,Sheffield United,Meio-campo,4,90,0,0,0,4,2,34,0,Derrota,0
+Gustavo Hamer,Sheffield United,Meio-campo,5,62,1,1,0,1,1,42,1,Vitória,1
+Gustavo Hamer,Sheffield United,Meio-campo,6,90,0,0,0,1,1,42,0,Derrota,0
+Gustavo Hamer,Sheffield United,Meio-campo,8,90,0,0,0,1,0,35,0,Vitória,1
+Gustavo Hamer,Sheffield United,Meio-campo,9,72,0,0,0,3,0,61,1,Vitória,1
+Gustavo Hamer,Sheffield United,Meio-campo,10,85,0,0,0,3,2,41,0,Vitória,1
+Gustavo Hamer,Sheffield United,Meio-campo,11,88,0,0,0,2,1,24,0,Derrota,0
+Gustavo Hamer,Sheffield United,Meio-campo,12,75,0,0,0,2,0,49,0,Derrota,0
+Gustavo Hamer,Sheffield United,Meio-campo,14,86,1,1,0,2,2,47,0,Derrota,0
+Gustavo Hamer,Sheffield United,Meio-campo,15,90,0,0,0,1,0,20,0,Derrota,0
+Gustavo Hamer,Sheffield United,Meio-campo,17,80,0,0,0,0,0,39,0,Empate,0
+Gustavo Hamer,Sheffield United,Meio-campo,18,90,0,0,0,1,0,31,1,Empate,0
+Gustavo Hamer,Sheffield United,Meio-campo,19,63,0,0,0,0,0,39,1,Vitória,1
+Gustavo Hamer,Sheffield United,Meio-campo,20,73,0,0,0,2,2,45,1,Vitória,1
+Gustavo Hamer,Sheffield United,Meio-campo,21,83,0,0,0,5,2,42,0,Derrota,0
+Gustavo Hamer,Sheffield United,Meio-campo,22,79,0,0,0,2,1,42,0,Vitória,1
+Gustavo Hamer,Sheffield United,Meio-campo,23,81,0,0,0,3,1,51,1,Vitória,1
+Gustavo Hamer,Sheffield United,Meio-campo,24,87,0,0,0,4,3,43,0,Empate,0
+Gustavo Hamer,Sheffield United,Meio-campo,25,73,0,0,0,4,2,51,1,Vitória,1
+Gustavo Hamer,Sheffield United,Meio-campo,26,67,0,0,0,2,1,40,1,Empate,0
+Gustavo Hamer,Sheffield United,Meio-campo,28,90,0,0,0,0,0,59,0,Derrota,0
+Gustavo Hamer,Sheffield United,Meio-campo,29,90,0,0,0,2,1,49,1,Vitória,1
+Gustavo Hamer,Sheffield United,Meio-campo,30,85,0,0,0,3,1,51,0,Derrota,0
+Gustavo Hamer,Sheffield United,Meio-campo,31,90,0,0,0,2,0,25,0,Empate,0
+Gustavo Hamer,Sheffield United,Meio-campo,32,67,0,0,0,4,1,30,0,Derrota,0
+Gustavo Hamer,Sheffield United,Meio-campo,33,90,0,0,0,5,3,55,0,Derrota,0
+Gustavo Hamer,Sheffield United,Meio-campo,34,84,0,0,0,1,1,38,1,Derrota,0
+Gustavo Hamer,Sheffield United,Meio-campo,35,68,0,0,0,1,1,52,0,Derrota,0
+Gustavo Hamer,Sheffield United,Meio-campo,36,75,1,0,1,1,1,53,0,Vitória,1
+Gustavo Hamer,Sheffield United,Meio-campo,37,90,0,0,0,1,0,36,1,Empate,0
+Gustavo Hamer,Sheffield United,Meio-campo,38,90,0,0,0,1,1,41,0,Empate,0
