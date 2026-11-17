@@ -1,0 +1,2097 @@
+partida_id,rodata,clube,cartao,atleta,num_camisa,posicao,minuto
+8406,1,Internacional,Amarelo,Gabriel Mercado,25.0,Zagueiro,90+4
+8406,1,Internacional,Amarelo,Lucas Alario,31.0,Atacante,88
+8406,1,Internacional,Amarelo,Maurício,27.0,Meio-campo,29
+8406,1,Bahia,Amarelo,Everaldo Stum,9.0,Atacante,90+4
+8406,1,Internacional,Amarelo,Fabricio Bustos,16.0,Zagueiro,90+3
+8406,1,Internacional,Amarelo,Fernando Reges,5.0,Zagueiro,41
+8406,1,Bahia,Amarelo,Carlos de Pena,14.0,Meio-campo,90+6
+8406,1,Bahia,Amarelo,Jean Lucas Oliveira,6.0,Meio-campo,13
+8407,1,Criciuma,Amarelo,Yannick Bolasie,11.0,Atacante,90+6
+8407,1,Criciuma,Amarelo,Marquinhos,10.0,Meio-campo,67
+8407,1,Juventude,Amarelo,Rodrigo Sam,34.0,Zagueiro,90+6
+8407,1,Juventude,Amarelo,Caique de Jesus Gonçalves,95.0,Meio-campo,64
+8407,1,Juventude,Amarelo,Zé Marcos,3.0,Zagueiro,33
+8407,1,Criciuma,Amarelo,Miguel Trauco,14.0,Zagueiro,90+2
+8407,1,Criciuma,Amarelo,Fellipe Mateus,7.0,Meio-campo,59
+8407,1,Juventude,Amarelo,Gabriel Vasconcellos Ferreira,1.0,Goleiro,90+4
+8407,1,Juventude,Amarelo,Jean Carlos,20.0,Atacante,45+7
+8407,1,Juventude,Amarelo,João Lucas,2.0,Zagueiro,32
+8408,1,Fluminense,Amarelo,André,7.0,Meio-campo,90+2
+8408,1,Fluminense,Amarelo,Marcus Vinicius Oliveira Alencar,77.0,Meio-campo,29
+8408,1,Bragantino,Amarelo,Vitor Hugo Naum dos Santos,28.0,Atacante,81
+8408,1,Bragantino,Amarelo,Luan Cândido,36.0,Zagueiro,9
+8408,1,Fluminense,Amarelo,Guga,23.0,Zagueiro,64
+8408,1,Bragantino,Amarelo,Jadsom,5.0,Meio-campo,83
+8408,1,Bragantino,Amarelo,Juninho Capixaba,29.0,Zagueiro,44
+8409,1,Sao Paulo,Amarelo,Luciano da Rocha Neves,10.0,Atacante,75
+8409,1,Fortaleza,Amarelo,Emanuel Brítez,19.0,Zagueiro,51
+8409,1,Sao Paulo,Amarelo,Rodrigo Nestor,11.0,Meio-campo,90+8
+8409,1,Fortaleza,Amarelo,Juan Martín Lucero,9.0,Atacante,54
+8409,1,Fortaleza,Amarelo,Tomás Pochettino,7.0,Meio-campo,23
+8411,1,Cuiaba,Amarelo,Alan Empereur,33.0,Zagueiro,45+1
+8411,1,Cuiaba,Amarelo,Filipe Augusto Carvalho Souza,5.0,Meio-campo,81
+8411,1,Cuiaba,Amarelo,Derik Lacerda,22.0,Meio-campo,41
+8410,1,Vasco,Amarelo,Lucas Piton,6.0,Zagueiro,90+8
+8410,1,Vasco,Amarelo,Juan Sforza,20.0,Meio-campo,65
+8410,1,Gremio,Amarelo,João Pedro,11.0,Atacante,90+1
+8410,1,Vasco,Amarelo,João Victor,38.0,Zagueiro,90+6
+8410,1,Vasco,Amarelo,Rossicley Pereira da Silva,31.0,Atacante,17
+8412,1,Atletico-GO,Amarelo,Vágner Love,20.0,Atacante,90+14
+8412,1,Atletico-GO,Amarelo,Guilherme Romão,6.0,Zagueiro,45+4
+8412,1,Atletico-GO,Amarelo,Rhaldney,8.0,Meio-campo,6
+8412,1,Flamengo,Amarelo,Léo Pereira,4.0,Zagueiro,68
+8412,1,Atletico-GO,Vermelho,Alix Vinicius,4.0,Zagueiro,45+2
+8412,1,Atletico-GO,Amarelo,Adriano Martins,3.0,Zagueiro,45+6
+8412,1,Atletico-GO,Amarelo,Alejo Cruz,7.0,Meio-campo,36
+8412,1,Flamengo,Amarelo,Giorgian De Arrascaeta,14.0,Meio-campo,90+17
+8412,1,Flamengo,Amarelo,Fabrício Bruno,15.0,Zagueiro,44
+8412,1,Atletico-GO,Vermelho,Magno Jose da Silva,2.0,Zagueiro,90+11
+8413,1,Corinthians,Amarelo,Maycon de Andrade Barberan,7.0,Meio-campo,90+10
+8413,1,Corinthians,Amarelo,Hugo,46.0,Zagueiro,90+1
+8413,1,Corinthians,Amarelo,Yuri Alberto,9.0,Atacante,45+6
+8413,1,Corinthians,Amarelo,Raniele,14.0,Meio-campo,31
+8413,1,Atletico-MG,Amarelo,Renzo Saravia,26.0,Meio-campo,68
+8413,1,Atletico-MG,Amarelo,Hulk,7.0,Atacante,51
+8413,1,Atletico-MG,Amarelo,Rodrigo Battaglia,21.0,Zagueiro,1
+8413,1,Corinthians,Amarelo,Carlos Miguel,22.0,Goleiro,90+6
+8413,1,Atletico-MG,Vermelho,Rodrigo Battaglia,21.0,Zagueiro,45+4
+8413,1,Corinthians,Amarelo,Matheuzinho,2.0,Zagueiro,82
+8413,1,Corinthians,Amarelo,Fagner,23.0,Zagueiro,32
+8413,1,Corinthians,Amarelo,Ángel Romero,11.0,Meio-campo,28
+8413,1,Atletico-MG,Amarelo,Éverson,22.0,Goleiro,64
+8413,1,Atletico-MG,Amarelo,Jemerson de Jesus Nascimento,34.0,Zagueiro,22
+8414,1,Botafogo-RJ,Vermelho,Alexander Barboza,20.0,Zagueiro,72
+8414,1,Cruzeiro,Amarelo,Rafael da Silva,8.0,Atacante,66
+8414,1,Cruzeiro,Amarelo,Arthur Gomes,11.0,Atacante,31
+8414,1,Botafogo-RJ,Amarelo,Júnior Santos,11.0,Atacante,36
+8414,1,Botafogo-RJ,Amarelo,Gregore,26.0,Meio-campo,27
+8414,1,Cruzeiro,Amarelo,Rafael Elias,19.0,Atacante,90+2
+8414,1,Cruzeiro,Amarelo,Ivaldo,5.0,Zagueiro,36
+8414,1,Botafogo-RJ,Amarelo,Danilo Barbosa da Silva,5.0,Meio-campo,84
+8415,1,Vitoria,Amarelo,Camutanga,13.0,Zagueiro,53
+8415,1,Vitoria,Amarelo,Alerrandro Barra Mansa Realino de Souza,9.0,Atacante,15
+8415,1,Palmeiras,Amarelo,Mayke,12.0,Zagueiro,85
+8415,1,Palmeiras,Amarelo,Endrick,9.0,Atacante,45+1
+8415,1,Vitoria,Amarelo,Lucas Esteves,16.0,Zagueiro,45+1
+8415,1,Palmeiras,Amarelo,José Manuel Alberto López,42.0,Atacante,90+3
+8415,1,Palmeiras,Amarelo,Gabriel Menino,25.0,Meio-campo,57
+8415,1,Palmeiras,Amarelo,Richard Ríos,27.0,Meio-campo,16
+8416,2,Bahia,Amarelo,Everaldo Stum,9.0,Atacante,89
+8416,2,Bahia,Amarelo,Thaciano,16.0,Atacante,40
+8416,2,Fluminense,Amarelo,Paulo Henrique Ganso,10.0,Meio-campo,88
+8416,2,Fluminense,Amarelo,John Kennedy,9.0,Atacante,70
+8416,2,Fluminense,Amarelo,Lima,45.0,Meio-campo,47
+8416,2,Bahia,Amarelo,Éverton Ribeiro,10.0,Meio-campo,54
+8416,2,Bahia,Amarelo,Caio Alexandre,19.0,Meio-campo,20
+8416,2,Fluminense,Amarelo,Alexsander,5.0,Meio-campo,77
+8416,2,Fluminense,Amarelo,Martinelli,8.0,Zagueiro,51
+8418,2,Gremio,Amarelo,Gustavo Nunes,39.0,Atacante,71
+8418,2,Athletico-PR,Amarelo,Zé Vitor,30.0,Meio-campo,59
+8418,2,Athletico-PR,Amarelo,Lucas Esquivel,37.0,Zagueiro,71
+8418,2,Athletico-PR,Amarelo,Alex Paulo Menezes Santana,80.0,Meio-campo,33
+8417,2,Bragantino,Amarelo,Vitor Hugo Naum dos Santos,28.0,Atacante,88
+8417,2,Bragantino,Amarelo,Luan Cândido,36.0,Zagueiro,89
+8417,2,Vasco,Amarelo,Mateus Carvalho,85.0,Meio-campo,9
+8421,2,Atletico-MG,Amarelo,Alan Franco Palma,23.0,Meio-campo,83
+8421,2,Criciuma,Amarelo,Alisson Machado dos Santos,25.0,Goleiro,90+8
+8421,2,Criciuma,Amarelo,Marcelo Hermes,22.0,Meio-campo,45+8
+8421,2,Atletico-MG,Amarelo,Guilherme Arana,13.0,Zagueiro,56
+8421,2,Criciuma,Amarelo,Higor Meritão,5.0,Meio-campo,82
+8421,2,Criciuma,Amarelo,Rodrigo Fagundes de Freitas,3.0,Zagueiro,36
+8419,2,Fortaleza,Amarelo,Renato Kayzer,79.0,Atacante,90+3
+8419,2,Cruzeiro,Amarelo,Matheus Pereira,10.0,Atacante,83
+8419,2,Fortaleza,Amarelo,Pedro Augusto,28.0,Meio-campo,88
+8419,2,Cruzeiro,Amarelo,Lucas Romero,29.0,Meio-campo,71
+8419,2,Cruzeiro,Vermelho,Lucas Romero,29.0,Meio-campo,87
+8422,2,Juventude,Amarelo,Jadson,16.0,Meio-campo,90
+8422,2,Corinthians,Amarelo,Rodrigo Garro,10.0,Meio-campo,82
+8422,2,Juventude,Vermelho,Jadson,16.0,Meio-campo,90+6
+8422,2,Juventude,Amarelo,Caique de Jesus Gonçalves,95.0,Meio-campo,70
+8420,2,Palmeiras,Amarelo,Aníbal Moreno,5.0,Meio-campo,59
+8420,2,Internacional,Amarelo,Renê Rodrigues Martins,6.0,Zagueiro,81
+8420,2,Internacional,Amarelo,Gabriel Mercado,25.0,Zagueiro,53
+8420,2,Palmeiras,Amarelo,José Manuel Alberto López,42.0,Atacante,58
+8420,2,Internacional,Amarelo,Wesley Ribeiro Silva,21.0,Meio-campo,66
+8420,2,Internacional,Amarelo,Rafael Santos Borré,19.0,Atacante,43
+8423,2,Sao Paulo,Amarelo,Luciano da Rocha Neves,10.0,Meio-campo,88
+8423,2,Sao Paulo,Amarelo,Igor Vinícius,2.0,Meio-campo,3
+8423,2,Flamengo,Amarelo,Fabrício Bruno,15.0,Zagueiro,26
+8423,2,Sao Paulo,Amarelo,Michel Araújo,15.0,Meio-campo,40
+8424,2,Botafogo-RJ,Amarelo,Tiquinho Soares,9.0,Atacante,30
+8424,2,Atletico-GO,Amarelo,Rhaldney,5.0,Meio-campo,63
+8424,2,Atletico-GO,Amarelo,Luiz Felipe,3.0,Zagueiro,21
+8424,2,Botafogo-RJ,Amarelo,Patrick de Paula,8.0,Meio-campo,90
+8424,2,Botafogo-RJ,Amarelo,Lucas Halter,3.0,Zagueiro,15
+8424,2,Atletico-GO,Amarelo,Bruno Tubarão,2.0,Zagueiro,43
+8424,2,Atletico-GO,Amarelo,Pedro Henrique Pereira da Silva,4.0,Zagueiro,2
+8426,3,Fluminense,Amarelo,André,7.0,Meio-campo,66
+8426,3,Fluminense,Amarelo,Felipe Melo,30.0,Zagueiro,7
+8426,3,Vasco,Amarelo,Hugo Moura,25.0,Meio-campo,68
+8426,3,Vasco,Amarelo,Mateus Carvalho,85.0,Meio-campo,27
+8426,3,Fluminense,Amarelo,Lima,45.0,Meio-campo,89
+8426,3,Fluminense,Amarelo,Paulo Henrique Ganso,10.0,Meio-campo,27
+8426,3,Vasco,Amarelo,Zé Gabriel,23.0,Meio-campo,77
+8426,3,Vasco,Amarelo,Pablo Vegetti,99.0,Atacante,66
+8426,3,Vasco,Amarelo,Pablo Galdames Millán,27.0,Meio-campo,27
+8428,3,Gremio,Amarelo,Walter Kannemann,4.0,Zagueiro,90+5
+8428,3,Gremio,Amarelo,Everton,13.0,Atacante,78
+8428,3,Cuiaba,Amarelo,Fernando Sobral,88.0,Meio-campo,15
+8428,3,Gremio,Amarelo,Nathan Fernandes,32.0,Atacante,89
+8428,3,Gremio,Amarelo,Du Queiroz,37.0,Meio-campo,42
+8428,3,Cuiaba,Amarelo,Denilson,27.0,Meio-campo,12
+8427,3,Bragantino,Amarelo,Henry Mosquera,30.0,Atacante,79
+8427,3,Bragantino,Amarelo,Eduardo Sasha,19.0,Atacante,38
+8427,3,Corinthians,Amarelo,Raniele,14.0,Meio-campo,71
+8427,3,Bragantino,Amarelo,Eric dos Santos Rodrigues,7.0,Meio-campo,40
+8427,3,Bragantino,Amarelo,Douglas Mendes,39.0,Zagueiro,27
+8427,3,Corinthians,Amarelo,Pedro Henrique Konzen,16.0,Meio-campo,45+2
+8429,3,Atletico-MG,Amarelo,Mauricio Lemos,4.0,Zagueiro,89
+8429,3,Cruzeiro,Amarelo,Lucas Silva Borges,16.0,Meio-campo,72
+8429,3,Atletico-MG,Amarelo,Paulinho,10.0,Atacante,68
+8429,3,Cruzeiro,Amarelo,João Marcelo,43.0,Zagueiro,65
+8430,3,Palmeiras,Amarelo,Rony,10.0,Atacante,84
+8430,3,Palmeiras,Amarelo,Weverton Pereira da Silva,21.0,Goleiro,45+3
+8430,3,Palmeiras,Amarelo,Mayke,12.0,Meio-campo,21
+8430,3,Flamengo,Amarelo,Bruno Henrique,27.0,Meio-campo,45+3
+8430,3,Flamengo,Amarelo,Allan,21.0,Meio-campo,15
+8430,3,Palmeiras,Amarelo,Gustavo Gómez,15.0,Zagueiro,69
+8430,3,Palmeiras,Amarelo,Murilo Cerqueira,26.0,Zagueiro,42
+8430,3,Flamengo,Amarelo,Erick Pulgar,5.0,Meio-campo,70
+8430,3,Flamengo,Amarelo,Léo Pereira,4.0,Zagueiro,35
+8431,3,Vitoria,Amarelo,Matheus Martins Fogaça de Paulo,30.0,Meio-campo,42
+8431,3,Bahia,Amarelo,Carlos de Pena,14.0,Meio-campo,90+3
+8431,3,Bahia,Amarelo,Santiago Arias,13.0,Zagueiro,48
+8431,3,Vitoria,Amarelo,José Carlos Cracco Neto,2.0,Zagueiro,66
+8431,3,Vitoria,Amarelo,Léo Naldi,5.0,Meio-campo,23
+8431,3,Bahia,Amarelo,Víctor Cuesta,15.0,Zagueiro,51
+8432,3,Athletico-PR,Amarelo,Thiago Heleno,44.0,Zagueiro,82
+8432,3,Athletico-PR,Amarelo,Leonardo Godoy,29.0,Zagueiro,9
+8432,3,Internacional,Amarelo,Vitão,44.0,Zagueiro,45
+8432,3,Internacional,Amarelo,Robert Renan,4.0,Zagueiro,29
+8432,3,Athletico-PR,Amarelo,Agustín Canobbio,14.0,Atacante,87
+8432,3,Athletico-PR,Amarelo,Fernandinho,5.0,Meio-campo,79
+8432,3,Internacional,Amarelo,Wesley Ribeiro Silva,21.0,Meio-campo,86
+8432,3,Internacional,Amarelo,Rômulo Zwarg,40.0,Meio-campo,36
+8432,3,Internacional,Amarelo,Hugo Mallo,2.0,Zagueiro,8
+8432,3,Athletico-PR,Vermelho,Agustín Canobbio,14.0,Atacante,87
+8434,3,Atletico-GO,Amarelo,Luiz Fernando Moraes dos Santos,11.0,Atacante,84
+8434,3,Atletico-GO,Amarelo,Roni,5.0,Meio-campo,39
+8434,3,Atletico-GO,Vermelho,Luiz Felipe,3.0,Zagueiro,51
+8434,3,Atletico-GO,Amarelo,Gabriel Barros,19.0,Atacante,47
+8434,3,Atletico-GO,Amarelo,Gabriel Baralhas,8.0,Meio-campo,33
+8434,3,Atletico-GO,Vermelho,Gabriel Barros,19.0,Atacante,63
+8433,3,Botafogo-RJ,Amarelo,Diego Hernández,77.0,Atacante,90+1
+8433,3,Botafogo-RJ,Amarelo,Jefferson Ruan Pereira dos Santos,47.0,Meio-campo,35
+8433,3,Juventude,Amarelo,Gabriel Inocêncio,12.0,Zagueiro,18
+8433,3,Juventude,Vermelho,Lucas Freitas,43.0,Zagueiro,38
+8433,3,Botafogo-RJ,Amarelo,Marlon Freitas,17.0,Meio-campo,77
+8433,3,Juventude,Amarelo,Gabriel Vasconcellos Ferreira,1.0,Goleiro,38
+8433,3,Juventude,Amarelo,Lucas Freitas,43.0,Zagueiro,8
+8436,4,Vasco,Amarelo,Lucas Piton,6.0,Zagueiro,45+1
+8437,4,Cuiaba,Amarelo,Marllon Borges,4.0,Zagueiro,77
+8437,4,Cuiaba,Amarelo,Matheus Alexandre Anastácio de Souza,2.0,Zagueiro,58
+8437,4,Atletico-MG,Amarelo,Igor Gomes,17.0,Meio-campo,88
+8437,4,Atletico-MG,Amarelo,Alan Franco Palma,23.0,Meio-campo,37
+8437,4,Cuiaba,Amarelo,Alan Empereur,33.0,Zagueiro,64
+8437,4,Cuiaba,Amarelo,Denilson,27.0,Meio-campo,45+8
+8437,4,Atletico-MG,Amarelo,Bruno Fuchs,3.0,Zagueiro,81
+8437,4,Atletico-MG,Amarelo,Mauricio Lemos,4.0,Zagueiro,3
+8437,4,Atletico-MG,Vermelho,Bruno Fuchs,3.0,Zagueiro,86
+8438,4,Bahia,Amarelo,Éverton Ribeiro,10.0,Meio-campo,56
+8438,4,Gremio,Amarelo,Rodrigo Ely,5.0,Zagueiro,90+6
+8438,4,Gremio,Amarelo,Douglas Moreira,17.0,Meio-campo,67
+8438,4,Gremio,Vermelho,Nathan Fernandes,32.0,Atacante,90+8
+8438,4,Bahia,Amarelo,Gabriel Xavier,3.0,Zagueiro,47
+8438,4,Gremio,Amarelo,Gustavo Nunes,39.0,Atacante,78
+8438,4,Gremio,Amarelo,Walter Kannemann,4.0,Zagueiro,45
+8438,4,Gremio,Vermelho,Diego Costa,19.0,Atacante,90+2
+8439,4,Flamengo,Amarelo,Nicolás de la Cruz,18.0,Meio-campo,59
+8439,4,Botafogo-RJ,Amarelo,Luiz Henrique,7.0,Meio-campo,57
+8439,4,Botafogo-RJ,Amarelo,Jefferson Savarino,10.0,Meio-campo,15
+8439,4,Botafogo-RJ,Amarelo,Jefferson Ruan Pereira dos Santos,47.0,Atacante,79
+8439,4,Botafogo-RJ,Amarelo,Danilo Barbosa da Silva,5.0,Meio-campo,43
+8441,4,Cruzeiro,Amarelo,Ivaldo,5.0,Zagueiro,78
+8441,4,Cruzeiro,Amarelo,Rafael Elias,19.0,Atacante,90+1
+8440,4,Corinthians,Amarelo,Gustavo Mosquito,19.0,Atacante,42
+8440,4,Corinthians,Amarelo,Wesley Gassova Ribeiro Teixeira,36.0,Atacante,36
+8440,4,Fluminense,Amarelo,Guga,23.0,Zagueiro,30
+8440,4,Corinthians,Amarelo,Breno Bidon,27.0,Meio-campo,44
+8440,4,Corinthians,Amarelo,Rodrigo Garro,10.0,Meio-campo,39
+8440,4,Fluminense,Amarelo,Marcus Vinicius Oliveira Alencar,77.0,Meio-campo,36
+8442,4,Bragantino,Amarelo,Juninho Capixaba,29.0,Zagueiro,16
+8442,4,Fortaleza,Amarelo,Pedro Augusto,28.0,Meio-campo,58
+8443,4,Juventude,Amarelo,Caique de Jesus Gonçalves,95.0,Meio-campo,49
+8443,4,Athletico-PR,Amarelo,Julimar,20.0,Atacante,76
+8443,4,Juventude,Amarelo,Lucas Barbosa,21.0,Meio-campo,63
+8443,4,Athletico-PR,Amarelo,Bento,1.0,Goleiro,90+3
+8444,4,Atletico-GO,Amarelo,Rhaldney,8.0,Meio-campo,88
+8444,4,Atletico-GO,Amarelo,Ronaldo,1.0,Goleiro,60
+8444,4,Atletico-GO,Amarelo,Derek,17.0,Atacante,90+5
+8444,4,Atletico-GO,Amarelo,Roni,5.0,Meio-campo,85
+8445,4,Sao Paulo,Amarelo,Jonathan Calleri,9.0,Atacante,59
+8445,4,Sao Paulo,Amarelo,Diego Costa,4.0,Zagueiro,29
+8445,4,Palmeiras,Amarelo,Endrick,9.0,Meio-campo,45
+8445,4,Sao Paulo,Amarelo,Michel Araújo,15.0,Meio-campo,69
+8445,4,Sao Paulo,Amarelo,Igor Vinícius,2.0,Meio-campo,43
+8445,4,Palmeiras,Amarelo,Murilo Cerqueira,26.0,Zagueiro,59
+8445,4,Palmeiras,Amarelo,Gustavo Gómez,15.0,Zagueiro,40
+8446,5,Fluminense,Amarelo,Diogo Barbosa,6.0,Zagueiro,12
+8446,5,Atletico-MG,Amarelo,Jemerson de Jesus Nascimento,34.0,Zagueiro,45+5
+8446,5,Fluminense,Amarelo,Paulo Henrique Ganso,10.0,Meio-campo,45+5
+8446,5,Fluminense,Amarelo,Germán Cano,14.0,Atacante,31
+8446,5,Atletico-MG,Amarelo,Paulinho,10.0,Atacante,51
+8446,5,Fluminense,Amarelo,Felipe Melo,30.0,Zagueiro,43
+8446,5,Fluminense,Amarelo,Jhon Arias,21.0,Meio-campo,20
+8447,5,Bragantino,Amarelo,Nathan,45.0,Zagueiro,10
+8447,5,Flamengo,Amarelo,Igor Jesus,48.0,Meio-campo,17
+8447,5,Bragantino,Amarelo,Thiago Borbas,18.0,Atacante,90+5
+8447,5,Flamengo,Amarelo,Allan,21.0,Meio-campo,33
+8448,5,Fortaleza,Amarelo,Mário Sérgio Santos Costa,11.0,Atacante,90+5
+8448,5,Fortaleza,Amarelo,Pedro Augusto,28.0,Meio-campo,72
+8448,5,Fortaleza,Amarelo,Emanuel Brítez,19.0,Zagueiro,64
+8448,5,Fortaleza,Amarelo,Breno Lopes,26.0,Meio-campo,23
+8448,5,Corinthians,Amarelo,Raniele,14.0,Meio-campo,45
+8448,5,Fortaleza,Amarelo,Bruno Pacheco,6.0,Zagueiro,83
+8448,5,Fortaleza,Amarelo,Yago Pikachu,22.0,Meio-campo,71
+8448,5,Fortaleza,Amarelo,Tinga,2.0,Zagueiro,41
+8449,5,Vasco,Vermelho,Hugo Moura,25.0,Meio-campo,16
+8449,5,Athletico-PR,Amarelo,Fernandinho,5.0,Meio-campo,58
+8450,5,Vitoria,Amarelo,Dudu,21.0,Meio-campo,87
+8450,5,Vitoria,Amarelo,Bruno Uvini,25.0,Zagueiro,25
+8450,5,Sao Paulo,Amarelo,Alan Franco,28.0,Zagueiro,36
+8450,5,Sao Paulo,Amarelo,Damián Bobadilla,21.0,Meio-campo,14
+8450,5,Vitoria,Amarelo,Lucas Esteves,16.0,Zagueiro,60
+8450,5,Sao Paulo,Amarelo,Michel Araújo,15.0,Meio-campo,82
+8450,5,Sao Paulo,Amarelo,Giuliano Galoppo,8.0,Meio-campo,36
+8450,5,Vitoria,Vermelho,Wagner Leonardo,4.0,Zagueiro,7
+8451,5,Botafogo-RJ,Amarelo,Bastos,15.0,Zagueiro,81
+8451,5,Bahia,Amarelo,Kanu,4.0,Zagueiro,36
+8451,5,Botafogo-RJ,Amarelo,Alexander Barboza,20.0,Zagueiro,90+5
+8451,5,Bahia,Amarelo,Julio Cesar de Rezende Miranda,5.0,Meio-campo,76
+8452,5,Cuiaba,Amarelo,Derik Lacerda,22.0,Atacante,43
+8452,5,Palmeiras,Amarelo,Gabriel Menino,25.0,Meio-campo,75
+8452,5,Cuiaba,Amarelo,Matheus Alexandre Anastácio de Souza,2.0,Meio-campo,90+7
+8452,5,Palmeiras,Amarelo,José Rafael Vivian,8.0,Meio-campo,90+4
+8452,5,Palmeiras,Amarelo,Murilo Cerqueira,26.0,Zagueiro,50
+8456,6,Flamengo,Amarelo,Léo Pereira,4.0,Zagueiro,68
+8456,6,Corinthians,Amarelo,Ángel Romero,11.0,Atacante,45+3
+8459,6,Fortaleza,Amarelo,Juan Martín Lucero,9.0,Atacante,90+5
+8459,6,Fortaleza,Amarelo,Hércules,35.0,Meio-campo,49
+8459,6,Botafogo-RJ,Amarelo,Alexander Barboza,20.0,Zagueiro,88
+8459,6,Botafogo-RJ,Amarelo,Cuiabano,66.0,Zagueiro,74
+8459,6,Botafogo-RJ,Amarelo,Óscar Romero,70.0,Meio-campo,54
+8459,6,Fortaleza,Amarelo,Emanuel Brítez,19.0,Zagueiro,90+4
+8459,6,Fortaleza,Amarelo,Titi,4.0,Zagueiro,24
+8459,6,Botafogo-RJ,Amarelo,Diego Hernández,77.0,Atacante,81
+8459,6,Botafogo-RJ,Amarelo,Mateo Ponte,4.0,Zagueiro,60
+8459,6,Botafogo-RJ,Amarelo,John,12.0,Goleiro,1
+8457,6,Palmeiras,Amarelo,Raphael Veiga,23.0,Meio-campo,80
+8457,6,Palmeiras,Amarelo,Endrick,9.0,Atacante,45+8
+8457,6,Athletico-PR,Amarelo,Fernandinho,5.0,Meio-campo,80
+8457,6,Athletico-PR,Amarelo,Leonardo Godoy,29.0,Zagueiro,46
+8457,6,Athletico-PR,Amarelo,Pablo Felipe Teixeira,92.0,Atacante,26
+8457,6,Athletico-PR,Vermelho,Lucas Esquivel,37.0,Zagueiro,67
+8457,6,Palmeiras,Amarelo,José Manuel Alberto López,42.0,Atacante,66
+8457,6,Palmeiras,Amarelo,Mayke,12.0,Zagueiro,34
+8457,6,Athletico-PR,Amarelo,Mateo Gamarra,15.0,Zagueiro,56
+8457,6,Athletico-PR,Amarelo,Lucas Esquivel,37.0,Zagueiro,45+8
+8458,6,Cruzeiro,Amarelo,Matheus Pereira,10.0,Atacante,66
+8458,6,Atletico-GO,Amarelo,Luiz Fernando Moraes dos Santos,11.0,Meio-campo,63
+8458,6,Cruzeiro,Amarelo,William de Asevedo Furtado,12.0,Zagueiro,56
+8460,6,Vasco,Amarelo,Bruno Praxedes,21.0,Meio-campo,90+3
+8460,6,Vasco,Amarelo,Pablo Galdames Millán,27.0,Meio-campo,65
+8460,6,Vasco,Amarelo,Maicon Pereira Roque,4.0,Zagueiro,27
+8460,6,Vitoria,Amarelo,Dudu,21.0,Meio-campo,57
+8460,6,Vitoria,Vermelho,Camutanga,13.0,Zagueiro,90+2
+8460,6,Vasco,Amarelo,David Corrêa da Fonseca,7.0,Meio-campo,84
+8460,6,Vasco,Amarelo,Juan Sforza,20.0,Meio-campo,57
+8460,6,Vitoria,Amarelo,Iury Lirio Freitas de Castilho,7.0,Atacante,59
+8461,6,Bahia,Amarelo,Kanu,4.0,Zagueiro,15
+8461,6,Bragantino,Amarelo,Jadsom,5.0,Meio-campo,59
+8461,6,Bahia,Amarelo,Thaciano,16.0,Atacante,53
+8461,6,Bragantino,Amarelo,Henry Mosquera,30.0,Atacante,90+2
+8461,6,Bragantino,Amarelo,Lucas Evangelista,8.0,Meio-campo,20
+8462,6,Sao Paulo,Amarelo,Erick,33.0,Atacante,90+5
+8462,6,Sao Paulo,Amarelo,Luciano da Rocha Neves,10.0,Meio-campo,45+7
+8462,6,Sao Paulo,Amarelo,Rodrigo Nestor,11.0,Meio-campo,9
+8462,6,Fluminense,Amarelo,Manoel Messias Silva Carvalho,26.0,Zagueiro,24
+8462,6,Sao Paulo,Amarelo,Igor Vinícius,2.0,Zagueiro,59
+8462,6,Sao Paulo,Amarelo,Alisson Euler de Freitas Castro,25.0,Meio-campo,34
+8462,6,Fluminense,Amarelo,Alexsander,5.0,Meio-campo,56
+8462,6,Fluminense,Amarelo,Lima,45.0,Meio-campo,23
+8467,7,Vitoria,Vermelho,Patric,14.0,Zagueiro,39
+8467,7,Vitoria,Amarelo,Dudu,21.0,Meio-campo,49
+8467,7,Atletico-GO,Amarelo,Adriano Martins,3.0,Zagueiro,33
+8467,7,Vitoria,Vermelho,Dudu,21.0,Meio-campo,83
+8467,7,Vitoria,Amarelo,Lepu,97.0,Zagueiro,29
+8467,7,Atletico-GO,Amarelo,Shaylon,10.0,Atacante,24
+8466,7,Gremio,Amarelo,Mathías Villasanti,20.0,Meio-campo,62
+8466,7,Gremio,Amarelo,Fabio Pereira da Silva,2.0,Zagueiro,23
+8466,7,Bragantino,Amarelo,Nathan,45.0,Zagueiro,89
+8466,7,Gremio,Amarelo,Gustavo Nunes,39.0,Meio-campo,50
+8466,7,Gremio,Amarelo,Du Queiroz,37.0,Meio-campo,19
+8466,7,Bragantino,Amarelo,Vitor Hugo Naum dos Santos,28.0,Atacante,85
+8468,7,Fluminense,Amarelo,Martinelli,8.0,Meio-campo,65
+8468,7,Juventude,Amarelo,Jadson,16.0,Meio-campo,90+1
+8468,7,Juventude,Amarelo,Werik Popó,45.0,Atacante,76
+8468,7,Juventude,Vermelho,Werik Popó,45.0,Atacante,84
+8468,7,Fluminense,Amarelo,Paulo Henrique Ganso,10.0,Meio-campo,45+3
+8468,7,Juventude,Amarelo,Zé Marcos,3.0,Zagueiro,82
+8469,7,Cuiaba,Amarelo,Ramon Ramos Lima,23.0,Zagueiro,77
+8469,7,Cuiaba,Amarelo,Clayson,25.0,Atacante,40
+8469,7,Internacional,Amarelo,Sergio Rochet,1.0,Goleiro,90+3
+8469,7,Internacional,Amarelo,Rafael Santos Borré,19.0,Atacante,19
+8469,7,Cuiaba,Amarelo,Eliel,11.0,Atacante,82
+8469,7,Cuiaba,Amarelo,Denilson,27.0,Meio-campo,50
+8469,7,Internacional,Amarelo,Alan Patrick,10.0,Meio-campo,90+5
+8469,7,Internacional,Amarelo,Gabriel Mercado,25.0,Zagueiro,77
+8470,7,Corinthians,Amarelo,Wesley Gassova Ribeiro Teixeira,36.0,Atacante,34
+8470,7,Botafogo-RJ,Amarelo,Danilo Barbosa da Silva,5.0,Meio-campo,71
+8470,7,Botafogo-RJ,Amarelo,Luiz Henrique,7.0,Meio-campo,29
+8470,7,Corinthians,Amarelo,Félix Torres,3.0,Zagueiro,40
+8470,7,Botafogo-RJ,Amarelo,Marlon Freitas,17.0,Meio-campo,79
+8470,7,Botafogo-RJ,Amarelo,Óscar Romero,70.0,Meio-campo,64
+8471,7,Vasco,Vermelho,João Victor,38.0,Zagueiro,45+4
+8471,7,Vasco,Amarelo,Pablo Vegetti,99.0,Atacante,59
+8471,7,Vasco,Amarelo,Zé Gabriel,23.0,Meio-campo,71
+8472,7,Atletico-MG,Amarelo,Alan Franco Palma,23.0,Meio-campo,90+4
+8472,7,Atletico-MG,Amarelo,Pedrinho,38.0,Meio-campo,84
+8472,7,Atletico-MG,Amarelo,Guilherme Arana,13.0,Zagueiro,16
+8472,7,Bahia,Amarelo,Gabriel Teixeira,11.0,Atacante,80
+8472,7,Bahia,Amarelo,Thaciano,16.0,Atacante,45
+8472,7,Atletico-MG,Amarelo,Éverson,22.0,Goleiro,90+7
+8472,7,Atletico-MG,Amarelo,Rodrigo Battaglia,21.0,Meio-campo,90+3
+8472,7,Atletico-MG,Amarelo,Gustavo Scarpa,6.0,Meio-campo,77
+8472,7,Bahia,Amarelo,Óscar Estupiñán,29.0,Atacante,90+7
+8472,7,Bahia,Amarelo,Gabriel Xavier,3.0,Zagueiro,61
+8473,7,Criciuma,Amarelo,Gustavo Bonatto Barreto,88.0,Meio-campo,33
+8473,7,Palmeiras,Amarelo,Gustavo Gómez,15.0,Zagueiro,90+6
+8473,7,Palmeiras,Amarelo,Caio Paulista,16.0,Meio-campo,90+4
+8473,7,Criciuma,Amarelo,Ronald,6.0,Meio-campo,90+4
+8473,7,Criciuma,Amarelo,Rodrigo Fagundes de Freitas,150.0,Zagueiro,64
+8473,7,Criciuma,Amarelo,Matheus Leonardo Sales Cardoso,17.0,Atacante,19
+8473,7,Palmeiras,Amarelo,José Rafael Vivian,8.0,Meio-campo,90+4
+8473,7,Criciuma,Amarelo,Allano,2.0,Atacante,90+6
+8473,7,Criciuma,Amarelo,Luiz Gustavo de Almeida,1.0,Goleiro,88
+8473,7,Criciuma,Amarelo,Higor Meritão,5.0,Meio-campo,62
+8474,7,Sao Paulo,Amarelo,Alan Franco,28.0,Zagueiro,45+7
+8474,7,Cruzeiro,Amarelo,Álvaro Barreal,21.0,Meio-campo,13
+8474,7,Cruzeiro,Vermelho,Marlon Rodrigues Xavier,3.0,Zagueiro,38
+8474,7,Sao Paulo,Amarelo,Alisson Euler de Freitas Castro,25.0,Meio-campo,80
+8474,7,Cruzeiro,Amarelo,Kaiki Bruno,6.0,Zagueiro,63
+8475,7,Fortaleza,Amarelo,Emmanuel Martínez,8.0,Meio-campo,43
+8475,7,Athletico-PR,Amarelo,Zé Vitor,30.0,Meio-campo,69
+8475,7,Athletico-PR,Amarelo,Madson,22.0,Zagueiro,47
+8475,7,Fortaleza,Amarelo,Yago Pikachu,22.0,Meio-campo,90+7
+8475,7,Fortaleza,Amarelo,Pedro Augusto,28.0,Meio-campo,42
+8475,7,Athletico-PR,Amarelo,Christian Roberto Alves Cardoso,88.0,Meio-campo,49
+8475,7,Athletico-PR,Amarelo,Felipinho,23.0,Meio-campo,19
+8425,2,Cuiaba,Amarelo,Marllon Borges,4.0,Zagueiro,86
+8425,2,Cuiaba,Amarelo,Lucas Mineiro,30.0,Meio-campo,16
+8425,2,Vitoria,Amarelo,Luiz Adriano,12.0,Atacante,77
+8425,2,Vitoria,Amarelo,Wagner Leonardo,4.0,Zagueiro,7
+8425,2,Cuiaba,Amarelo,Raylan,21.0,Zagueiro,23
+8425,2,Vitoria,Amarelo,Lepu,97.0,Zagueiro,80
+8425,2,Vitoria,Amarelo,Caio Vinícius da Conceição,15.0,Meio-campo,11
+8453,5,Juventude,Amarelo,João Lucas,2.0,Zagueiro,90
+8453,5,Atletico-GO,Amarelo,Magno Jose da Silva,2.0,Zagueiro,64
+8453,5,Atletico-GO,Amarelo,Alix Vinicius,4.0,Zagueiro,46
+8453,5,Juventude,Vermelho,João Lucas,2.0,Zagueiro,90
+8453,5,Juventude,Amarelo,Jadson,16.0,Meio-campo,3
+8453,5,Atletico-GO,Amarelo,Rhaldney,7.0,Meio-campo,50
+8453,5,Atletico-GO,Amarelo,Guilherme Romão,6.0,Zagueiro,10
+8463,6,Criciuma,Vermelho,Miguel Trauco,14.0,Zagueiro,79
+8463,6,Criciuma,Amarelo,Rodrigo Fagundes de Freitas,3.0,Zagueiro,88
+8463,6,Criciuma,Amarelo,Ronald,6.0,Meio-campo,77
+8463,6,Criciuma,Amarelo,Eder Citadin Martins,23.0,Atacante,70
+8463,6,Cuiaba,Amarelo,Jonathan Cafú,7.0,Atacante,90+7
+8463,6,Cuiaba,Amarelo,Fernando Sobral,88.0,Meio-campo,86
+8463,6,Cuiaba,Amarelo,Matheus Alexandre Anastácio de Souza,2.0,Zagueiro,31
+8463,6,Criciuma,Amarelo,Tobias Figueiredo,29.0,Zagueiro,86
+8463,6,Criciuma,Amarelo,Marquinhos,10.0,Meio-campo,73
+8463,6,Cuiaba,Amarelo,André Luis,97.0,Atacante,90+8
+8463,6,Cuiaba,Amarelo,Guilherme Madruga,8.0,Zagueiro,90+1
+8463,6,Cuiaba,Amarelo,Walter Leandro Capeloza Artune,1.0,Goleiro,76
+8476,8,Corinthians,Vermelho,Gustavo Henrique Vernes,13.0,Zagueiro,34
+8476,8,Atletico-GO,Amarelo,Pedro Rangel,12.0,Goleiro,90+10
+8476,8,Atletico-GO,Amarelo,Gabriel Baralhas,8.0,Meio-campo,13
+8476,8,Corinthians,Amarelo,Yuri Alberto,9.0,Atacante,51
+8476,8,Corinthians,Amarelo,Rodrigo Garro,10.0,Meio-campo,21
+8476,8,Atletico-GO,Amarelo,Guilherme Romão,6.0,Zagueiro,56
+8476,8,Corinthians,Amarelo,Carlos Miguel,22.0,Goleiro,80
+8476,8,Corinthians,Amarelo,Gustavo Henrique Vernes,13.0,Zagueiro,25
+8477,8,Juventude,Amarelo,Lucas Barbosa,21.0,Meio-campo,77
+8477,8,Vitoria,Amarelo,Léo Naldi,5.0,Meio-campo,80
+8477,8,Vitoria,Amarelo,Willian,29.0,Meio-campo,40
+8477,8,Juventude,Amarelo,Jadson,16.0,Meio-campo,88
+8477,8,Juventude,Amarelo,Caique de Jesus Gonçalves,95.0,Meio-campo,45+3
+8477,8,Vitoria,Amarelo,Lucas Arcanjo,1.0,Goleiro,69
+8477,8,Vitoria,Amarelo,Caio Vinícius da Conceição,15.0,Meio-campo,28
+8478,8,Botafogo-RJ,Amarelo,Damián Suárez,22.0,Zagueiro,74
+8478,8,Botafogo-RJ,Amarelo,Tiquinho Soares,9.0,Atacante,15
+8478,8,Fluminense,Amarelo,Paulo Henrique Ganso,10.0,Meio-campo,45+5
+8478,8,Botafogo-RJ,Amarelo,Danilo Neves,6.0,Meio-campo,45+5
+8478,8,Fluminense,Amarelo,Marcelo Vieira da Silva Júnior,12.0,Zagueiro,74
+8478,8,Fluminense,Amarelo,Martinelli,8.0,Meio-campo,11
+8479,8,Atletico-MG,Vermelho,Rodrigo Battaglia,21.0,Meio-campo,90+10
+8479,8,Bragantino,Amarelo,Eduardo Santos,3.0,Zagueiro,90+8
+8479,8,Bragantino,Amarelo,Juninho Capixaba,29.0,Zagueiro,81
+8479,8,Bragantino,Amarelo,Lucas Evangelista,8.0,Meio-campo,33
+8479,8,Atletico-MG,Amarelo,Bruno Fuchs,3.0,Zagueiro,85
+8479,8,Atletico-MG,Amarelo,Éverson,22.0,Goleiro,21
+8479,8,Bragantino,Vermelho,Eduardo Sasha,19.0,Atacante,90
+8479,8,Bragantino,Amarelo,Nathan,45.0,Zagueiro,90+5
+8479,8,Bragantino,Amarelo,Thiago Borbas,18.0,Atacante,46
+8479,8,Atletico-MG,Amarelo,Mauricio Lemos,4.0,Zagueiro,89
+8479,8,Atletico-MG,Amarelo,Rodrigo Battaglia,21.0,Meio-campo,51
+8479,8,Atletico-MG,Amarelo,Renzo Saravia,26.0,Zagueiro,15
+8480,8,Cruzeiro,Amarelo,Matheus Pereira,10.0,Meio-campo,87
+8480,8,Cruzeiro,Amarelo,Rafael da Silva,8.0,Atacante,78
+8480,8,Cuiaba,Amarelo,Ramon Ramos Lima,23.0,Zagueiro,66
+8480,8,Cruzeiro,Amarelo,Anderson,98.0,Goleiro,82
+8480,8,Cuiaba,Amarelo,Marllon Borges,4.0,Zagueiro,90+7
+8481,8,Criciuma,Amarelo,Eder Citadin Martins,23.0,Atacante,22
+8483,8,Flamengo,Amarelo,Pedro,9.0,Atacante,32
+8483,8,Gremio,Amarelo,Felipe Carballo,8.0,Meio-campo,80
+8483,8,Gremio,Amarelo,João Pedro Maturano dos Santos,18.0,Zagueiro,46
+8483,8,Flamengo,Amarelo,Wesley França,43.0,Zagueiro,45+2
+8483,8,Gremio,Amarelo,Walter Kannemann,4.0,Zagueiro,90+3
+8483,8,Gremio,Amarelo,Everton,13.0,Meio-campo,56
+8482,8,Internacional,Amarelo,Bruno Gomes,15.0,Meio-campo,90+7
+8482,8,Internacional,Amarelo,Fabricio Bustos,16.0,Zagueiro,57
+8482,8,Internacional,Amarelo,Fernando Reges,5.0,Zagueiro,34
+8482,8,Sao Paulo,Amarelo,Jonathan Calleri,9.0,Atacante,84
+8482,8,Sao Paulo,Amarelo,Luiz Gustavo,16.0,Meio-campo,66
+8482,8,Internacional,Amarelo,Charles Aránguiz,20.0,Meio-campo,72
+8482,8,Internacional,Amarelo,Vitão,44.0,Zagueiro,57
+8482,8,Sao Paulo,Amarelo,Aldemir Ferreira,47.0,Atacante,90+7
+8482,8,Sao Paulo,Amarelo,Giuliano Galoppo,8.0,Meio-campo,82
+8485,8,Palmeiras,Amarelo,Rony,10.0,Atacante,72
+8485,8,Vasco,Amarelo,Juan Sforza,20.0,Meio-campo,51
+8485,8,Vasco,Amarelo,Victor Luis,12.0,Zagueiro,90+3
+8484,8,Bahia,Amarelo,Carlos de Pena,14.0,Meio-campo,90+4
+8484,8,Bahia,Amarelo,Marcos Felipe de Freitas Monteiro,22.0,Goleiro,86
+8484,8,Bahia,Amarelo,Kanu,4.0,Zagueiro,58
+8484,8,Bahia,Amarelo,Gabriel Teixeira,11.0,Atacante,90+6
+8484,8,Bahia,Amarelo,Yago Rocha,20.0,Meio-campo,88
+8484,8,Bahia,Amarelo,Caio Alexandre,19.0,Meio-campo,70
+8484,8,Fortaleza,Amarelo,Tomás Pochettino,7.0,Meio-campo,82
+8486,9,Bragantino,Amarelo,Luan Cândido,36.0,Zagueiro,85
+8486,9,Bragantino,Amarelo,Lucas Ferrugem,4.0,Zagueiro,14
+8486,9,Juventude,Amarelo,Rodrigo Sam,34.0,Zagueiro,54
+8486,9,Juventude,Amarelo,Luis Mandaca,44.0,Meio-campo,36
+8486,9,Bragantino,Vermelho,Jadsom,5.0,Zagueiro,12
+8486,9,Bragantino,Amarelo,Ignacio Laquintana,33.0,Meio-campo,90+6
+8486,9,Bragantino,Amarelo,Cleiton Schwengber,1.0,Goleiro,41
+8486,9,Juventude,Amarelo,Marcelo José de Lima Filho,11.0,Meio-campo,76
+8486,9,Juventude,Amarelo,Danilo Boza,4.0,Zagueiro,45+8
+8487,9,Fluminense,Vermelho,Felipe Melo,30.0,Zagueiro,90+6
+8487,9,Fluminense,Amarelo,Marlon,4.0,Zagueiro,90+3
+8487,9,Fluminense,Amarelo,Samuel Xavier,2.0,Zagueiro,67
+8487,9,Fluminense,Amarelo,Guga,23.0,Zagueiro,90+3
+8487,9,Fluminense,Amarelo,Paulo Henrique Ganso,10.0,Meio-campo,70
+8487,9,Atletico-GO,Amarelo,Adriano Martins,3.0,Zagueiro,70
+8490,9,Athletico-PR,Vermelho,Mycael,41.0,Goleiro,90+13
+8490,9,Athletico-PR,Amarelo,Madson,22.0,Zagueiro,90+12
+8490,9,Athletico-PR,Amarelo,Bruno Zapelli,10.0,Meio-campo,90+8
+8490,9,Flamengo,Amarelo,Fabrício Bruno,15.0,Zagueiro,90+8
+8490,9,Flamengo,Amarelo,Victor Hugo,29.0,Meio-campo,49
+8490,9,Athletico-PR,Amarelo,Léo Linck,24.0,Goleiro,90+9
+8490,9,Athletico-PR,Amarelo,Pablo Felipe Teixeira,92.0,Atacante,90+7
+8490,9,Flamengo,Amarelo,Evertton Araújo,52.0,Meio-campo,87
+8488,9,Corinthians,Amarelo,Breno Bidon,27.0,Meio-campo,82
+8488,9,Corinthians,Amarelo,Carlos Miguel,22.0,Goleiro,42
+8488,9,Sao Paulo,Amarelo,Lucas Moura,7.0,Meio-campo,83
+8488,9,Sao Paulo,Amarelo,Diego Costa,4.0,Zagueiro,21
+8488,9,Corinthians,Vermelho,João Victor Andrade Caetano,4.0,Zagueiro,77
+8488,9,Corinthians,Amarelo,João Victor Andrade Caetano,4.0,Zagueiro,69
+8488,9,Sao Paulo,Amarelo,Alan Franco,28.0,Zagueiro,90+1
+8488,9,Sao Paulo,Amarelo,Luciano da Rocha Neves,10.0,Meio-campo,44
+8488,9,Sao Paulo,Amarelo,Young Moraes,50.0,Goleiro,4
+8489,9,Vitoria,Amarelo,Lepu,97.0,Zagueiro,77
+8489,9,Internacional,Amarelo,Gabriel Mercado,25.0,Zagueiro,90+9
+8489,9,Internacional,Amarelo,Vitão,44.0,Zagueiro,30
+8489,9,Internacional,Amarelo,Lucas Alario,31.0,Atacante,90+10
+8489,9,Internacional,Amarelo,Bruno Henrique Corsini,8.0,Meio-campo,51
+8489,9,Internacional,Amarelo,Matheus Dias,41.0,Meio-campo,28
+8494,9,Fortaleza,Vermelho,Emanuel Brítez,19.0,Zagueiro,45+3
+8494,9,Fortaleza,Amarelo,José Welison,17.0,Meio-campo,63
+8494,9,Fortaleza,Amarelo,Breno Lopes,26.0,Meio-campo,34
+8494,9,Fortaleza,Vermelho,Renato Kayzer,79.0,Atacante,45+1
+8494,9,Cuiaba,Amarelo,Max Alves,10.0,Meio-campo,32
+8494,9,Fortaleza,Amarelo,Emanuel Brítez,19.0,Zagueiro,45+3
+8493,9,Gremio,Amarelo,Felipe Carballo,8.0,Meio-campo,78
+8493,9,Botafogo-RJ,Amarelo,Yarlen,67.0,Atacante,83
+8493,9,Botafogo-RJ,Amarelo,Gregore,26.0,Meio-campo,45
+8493,9,Gremio,Amarelo,Everton,13.0,Atacante,81
+8493,9,Gremio,Amarelo,Gustavo Nunes,39.0,Meio-campo,39
+8493,9,Botafogo-RJ,Amarelo,Damián Suárez,22.0,Zagueiro,81
+8491,9,Vasco,Amarelo,Pablo Vegetti,99.0,Atacante,38
+8491,9,Cruzeiro,Amarelo,Ramiro,17.0,Meio-campo,79
+8491,9,Cruzeiro,Amarelo,Lucas Romero,29.0,Meio-campo,62
+8491,9,Vasco,Amarelo,David Corrêa da Fonseca,7.0,Atacante,90+4
+8491,9,Cruzeiro,Amarelo,William de Asevedo Furtado,12.0,Zagueiro,82
+8491,9,Cruzeiro,Amarelo,Arthur Viana,68.0,Meio-campo,68
+8492,9,Criciuma,Amarelo,Luiz Gustavo de Almeida,1.0,Goleiro,57
+8492,9,Bahia,Amarelo,Thaciano,16.0,Atacante,88
+8492,9,Criciuma,Vermelho,Luiz Gustavo de Almeida,1.0,Goleiro,62
+8492,9,Criciuma,Amarelo,Eder Citadin Martins,23.0,Atacante,88
+8492,9,Criciuma,Amarelo,Tobias Figueiredo,29.0,Zagueiro,30
+8495,9,Atletico-MG,Vermelho,Paulinho,10.0,Atacante,90+8
+8495,9,Atletico-MG,Amarelo,Gustavo Scarpa,6.0,Meio-campo,36
+8495,9,Atletico-MG,Amarelo,Igor Rabello,16.0,Zagueiro,22
+8495,9,Palmeiras,Amarelo,Aníbal Moreno,5.0,Meio-campo,51
+8495,9,Atletico-MG,Vermelho,Hulk,7.0,Atacante,31
+8495,9,Atletico-MG,Amarelo,Matías Zaracho,15.0,Meio-campo,73
+8495,9,Atletico-MG,Amarelo,Hulk,7.0,Atacante,30
+8495,9,Palmeiras,Amarelo,Estêvão,41.0,Meio-campo,61
+8495,9,Palmeiras,Amarelo,Joaquín Piquerez,22.0,Zagueiro,45+2
+8496,10,Athletico-PR,Amarelo,Alex Paulo Menezes Santana,80.0,Meio-campo,90
+8496,10,Athletico-PR,Amarelo,Lucas Esquivel,37.0,Zagueiro,77
+8496,10,Athletico-PR,Amarelo,Erick Luis Conrado Carvalho,26.0,Meio-campo,42
+8496,10,Athletico-PR,Amarelo,Pablo Felipe Teixeira,92.0,Atacante,85
+8496,10,Athletico-PR,Amarelo,Christian Roberto Alves Cardoso,88.0,Meio-campo,76
+8497,10,Atletico-GO,Vermelho,Ronaldo,1.0,Goleiro,90+9
+8497,10,Criciuma,Amarelo,Yannick Bolasie,11.0,Atacante,40
+8497,10,Atletico-GO,Amarelo,Pedro Henrique Pereira da Silva,4.0,Zagueiro,90+5
+8500,10,Gremio,Vermelho,Pepê,23.0,Meio-campo,44
+8500,10,Fortaleza,Amarelo,Calebe,10.0,Meio-campo,90+2
+8500,10,Gremio,Amarelo,Reinaldo Manoel da Silva,6.0,Zagueiro,90+5
+8500,10,Gremio,Amarelo,Agustín Marchesín,1.0,Goleiro,45+8
+8500,10,Fortaleza,Amarelo,Juan Martín Lucero,9.0,Atacante,90+4
+8500,10,Fortaleza,Amarelo,Pedro Augusto,28.0,Meio-campo,33
+8500,10,Gremio,Amarelo,Edenílson Andrade dos Santos,15.0,Meio-campo,80
+8500,10,Gremio,Amarelo,Rodrigo Ely,5.0,Zagueiro,45+4
+8498,10,Sao Paulo,Amarelo,Alisson Euler de Freitas Castro,25.0,Meio-campo,36
+8498,10,Cuiaba,Amarelo,Raylan,21.0,Meio-campo,87
+8498,10,Sao Paulo,Amarelo,William Gomes,39.0,Atacante,77
+8498,10,Cuiaba,Amarelo,Ramon Ramos Lima,23.0,Zagueiro,88
+8498,10,Cuiaba,Amarelo,Mateus Pasinato,14.0,Goleiro,84
+8499,10,Juventude,Amarelo,Luis Mandaca,44.0,Meio-campo,90+1
+8499,10,Vasco,Amarelo,Sergio Antonio De Luiz Junior,70.0,Meio-campo,70
+8499,10,Vasco,Amarelo,Zé Gabriel,23.0,Meio-campo,3
+8499,10,Vasco,Vermelho,Victor Luis,12.0,Zagueiro,90+6
+8499,10,Juventude,Amarelo,Lucas Barbosa,21.0,Meio-campo,84
+8499,10,Vasco,Amarelo,Pablo Galdames Millán,27.0,Meio-campo,32
+8501,10,Cruzeiro,Amarelo,Robert,80.0,Meio-campo,49
+8501,10,Cruzeiro,Amarelo,Matheus Pereira,10.0,Atacante,26
+8501,10,Fluminense,Amarelo,Diogo Barbosa,6.0,Zagueiro,34
+8501,10,Cruzeiro,Amarelo,Machado,23.0,Meio-campo,45+4
+8501,10,Fluminense,Amarelo,Thiago dos Santos,29.0,Zagueiro,79
+8502,10,Corinthians,Amarelo,Yuri Alberto,9.0,Atacante,90+7
+8502,10,Internacional,Amarelo,Charles Aránguiz,20.0,Meio-campo,86
+8502,10,Corinthians,Amarelo,Rodrigo Garro,10.0,Meio-campo,84
+8503,10,Vitoria,Amarelo,Luan Vinícius da Silva Santos,8.0,Meio-campo,45+5
+8503,10,Atletico-MG,Amarelo,Igor Gomes,17.0,Meio-campo,90+3
+8503,10,Vitoria,Amarelo,Caio Vinícius da Conceição,15.0,Zagueiro,34
+8503,10,Atletico-MG,Amarelo,Rômulo,47.0,Zagueiro,36
+8504,10,Flamengo,Amarelo,Léo Ortiz,3.0,Meio-campo,34
+8504,10,Bahia,Amarelo,Jean Lucas Oliveira,6.0,Meio-campo,69
+8505,10,Bragantino,Amarelo,Vitor Hugo Naum dos Santos,28.0,Atacante,70
+8505,10,Bragantino,Amarelo,Eric dos Santos Rodrigues,7.0,Meio-campo,38
+8506,11,Criciuma,Amarelo,Luiz Gustavo de Almeida,1.0,Goleiro,90+7
+8506,11,Criciuma,Amarelo,Claudinho,27.0,Zagueiro,79
+8506,11,Botafogo-RJ,Amarelo,Óscar Romero,70.0,Meio-campo,70
+8506,11,Botafogo-RJ,Amarelo,Alexander Barboza,20.0,Zagueiro,21
+8506,11,Criciuma,Amarelo,Allano,2.0,Atacante,90+4
+8506,11,Criciuma,Amarelo,Tobias Figueiredo,29.0,Zagueiro,43
+8506,11,Botafogo-RJ,Amarelo,Gregore,26.0,Meio-campo,64
+8507,11,Gremio,Amarelo,Gustavo Nunes,39.0,Meio-campo,60
+8507,11,Internacional,Amarelo,Fabricio Bustos,16.0,Zagueiro,60
+8507,11,Gremio,Amarelo,Douglas Moreira,17.0,Meio-campo,61
+8507,11,Gremio,Amarelo,Pedro Geromel,3.0,Zagueiro,27
+8507,11,Internacional,Amarelo,Fernando Reges,5.0,Zagueiro,42
+8508,11,Cuiaba,Amarelo,Lucas Mineiro,30.0,Meio-campo,43
+8508,11,Cuiaba,Amarelo,Allyson Aires dos Santos,3.0,Zagueiro,27
+8508,11,Cuiaba,Amarelo,Clayson,25.0,Meio-campo,35
+8508,11,Atletico-GO,Amarelo,Rhaldney,7.0,Meio-campo,45+1
+8509,11,Vasco,Amarelo,Rossicley Pereira da Silva,31.0,Meio-campo,88
+8509,11,Vasco,Amarelo,Guilherme Estrella,14.0,Meio-campo,39
+8509,11,Vasco,Amarelo,Maicon Pereira Roque,4.0,Zagueiro,77
+8509,11,Sao Paulo,Amarelo,Patryck Lanza,36.0,Zagueiro,36
+8511,11,Athletico-PR,Amarelo,Fernandinho,5.0,Meio-campo,65
+8511,11,Athletico-PR,Amarelo,Lucas Di Yorio,7.0,Atacante,90+1
+8511,11,Corinthians,Amarelo,Pedro Raul,20.0,Atacante,39
+8512,11,Fluminense,Vermelho,Lima,45.0,Meio-campo,88
+8512,11,Fluminense,Amarelo,Lima,45.0,Meio-campo,85
+8512,11,Fluminense,Amarelo,Paulo Henrique Ganso,10.0,Meio-campo,45+4
+8512,11,Flamengo,Amarelo,Léo Ortiz,3.0,Meio-campo,62
+8512,11,Fluminense,Amarelo,David Terans,80.0,Meio-campo,77
+8512,11,Flamengo,Amarelo,Léo Pereira,4.0,Zagueiro,90+4
+8512,11,Flamengo,Amarelo,David Luiz,23.0,Zagueiro,45+2
+8510,11,Cruzeiro,Amarelo,Ramiro,17.0,Meio-campo,90
+8510,11,Cruzeiro,Amarelo,Lucas Silva Borges,16.0,Meio-campo,45+2
+8510,11,Cruzeiro,Vermelho,Marlon Rodrigues Xavier,3.0,Zagueiro,70
+8510,11,Cruzeiro,Amarelo,Gabriel Veron,30.0,Meio-campo,49
+8514,11,Atletico-MG,Amarelo,Bruno Fuchs,3.0,Zagueiro,84
+8514,11,Fortaleza,Amarelo,Emmanuel Martínez,8.0,Meio-campo,73
+8514,11,Atletico-MG,Amarelo,Rômulo,47.0,Zagueiro,90
+8514,11,Atletico-MG,Amarelo,Igor Gomes,17.0,Meio-campo,45
+8514,11,Fortaleza,Amarelo,Tomás Pochettino,7.0,Meio-campo,54
+8515,11,Palmeiras,Amarelo,Joaquín Piquerez,22.0,Zagueiro,86
+8515,11,Juventude,Amarelo,Zé Marcos,3.0,Zagueiro,87
+8515,11,Juventude,Amarelo,Gabriel Vasconcellos Ferreira,1.0,Goleiro,45+2
+8515,11,Palmeiras,Amarelo,José Manuel Alberto López,42.0,Atacante,57
+8515,11,Juventude,Amarelo,Jadson,16.0,Meio-campo,87
+8513,11,Bragantino,Amarelo,Henry Mosquera,30.0,Atacante,90+2
+8513,11,Bragantino,Amarelo,Hélio Junio Nunes de Castro,11.0,Atacante,44
+8513,11,Vitoria,Amarelo,Lucas Esteves,16.0,Zagueiro,32
+8513,11,Bragantino,Amarelo,Nathan,45.0,Zagueiro,80
+8513,11,Vitoria,Amarelo,Luan Vinícius da Silva Santos,8.0,Meio-campo,89
+8516,12,Botafogo-RJ,Amarelo,Fernando Marçal,21.0,Zagueiro,45
+8516,12,Bragantino,Amarelo,Lincoln Henrique Oliveira dos Santos,10.0,Meio-campo,52
+8516,12,Botafogo-RJ,Amarelo,Lucas Halter,3.0,Zagueiro,68
+8516,12,Bragantino,Amarelo,Pedro Henrique Ribeiro Gonçalves,14.0,Zagueiro,76
+8516,12,Bragantino,Amarelo,Hélio Junio Nunes de Castro,11.0,Atacante,45
+8517,12,Cruzeiro,Amarelo,Vitinho,22.0,Meio-campo,90+3
+8517,12,Athletico-PR,Amarelo,Fernandinho,5.0,Meio-campo,90+6
+8517,12,Cruzeiro,Amarelo,Ivaldo,5.0,Zagueiro,74
+8517,12,Athletico-PR,Amarelo,Thiago Heleno,44.0,Zagueiro,88
+8518,12,Atletico-GO,Amarelo,Bruno Tubarão,13.0,Atacante,88
+8518,12,Atletico-GO,Amarelo,Emiliano Rodríguez,9.0,Atacante,76
+8518,12,Atletico-GO,Amarelo,Alejo Cruz,18.0,Atacante,70
+8518,12,Atletico-GO,Amarelo,Shaylon,10.0,Atacante,45+2
+8518,12,Gremio,Amarelo,Walter Kannemann,4.0,Zagueiro,71
+8518,12,Gremio,Amarelo,Everton,13.0,Atacante,28
+8518,12,Atletico-GO,Amarelo,Max,21.0,Atacante,86
+8518,12,Atletico-GO,Amarelo,Gabriel Baralhas,8.0,Meio-campo,75
+8518,12,Atletico-GO,Amarelo,Lucas Kal,5.0,Meio-campo,49
+8518,12,Gremio,Amarelo,Edenílson Andrade dos Santos,15.0,Meio-campo,87
+8518,12,Gremio,Amarelo,Nathan Fernandes,32.0,Atacante,48
+8520,12,Juventude,Amarelo,Mateus Claus,77.0,Goleiro,90+1
+8520,12,Flamengo,Amarelo,Gerson Santos da Silva,8.0,Meio-campo,53
+8520,12,Juventude,Amarelo,Alan Ruschel,28.0,Zagueiro,59
+8519,12,Corinthians,Amarelo,Cacá,25.0,Zagueiro,54
+8519,12,Cuiaba,Amarelo,Lucas Fernandes da Silva,18.0,Meio-campo,90
+8519,12,Cuiaba,Amarelo,Filipe Augusto Carvalho Souza,5.0,Meio-campo,21
+8519,12,Corinthians,Amarelo,Matheuzinho,2.0,Zagueiro,64
+8519,12,Corinthians,Amarelo,Léo Mana,35.0,Zagueiro,32
+8519,12,Cuiaba,Amarelo,Clayson,25.0,Atacante,45+6
+8519,12,Cuiaba,Amarelo,Alan Empereur,33.0,Zagueiro,20
+8521,12,Vasco,Amarelo,Mateus Carvalho,85.0,Meio-campo,55
+8521,12,Vasco,Amarelo,Adson,28.0,Meio-campo,32
+8521,12,Vasco,Vermelho,David Corrêa da Fonseca,7.0,Meio-campo,59
+8521,12,Vasco,Amarelo,Paulo,96.0,Zagueiro,82
+8521,12,Vasco,Amarelo,David Corrêa da Fonseca,7.0,Meio-campo,38
+8523,12,Fortaleza,Amarelo,Pedro Augusto,28.0,Meio-campo,12
+8523,12,Palmeiras,Amarelo,Rony,10.0,Atacante,46
+8523,12,Fortaleza,Amarelo,Emanuel Brítez,19.0,Zagueiro,66
+8523,12,Palmeiras,Amarelo,Aníbal Moreno,5.0,Meio-campo,57
+8522,12,Internacional,Amarelo,Lucas Alario,31.0,Atacante,71
+8522,12,Internacional,Amarelo,Wesley Ribeiro Silva,21.0,Atacante,33
+8522,12,Atletico-MG,Amarelo,Gustavo Scarpa,6.0,Zagueiro,45+2
+8522,12,Atletico-MG,Amarelo,Igor Rabello,16.0,Zagueiro,28
+8522,12,Internacional,Amarelo,Hugo Mallo,2.0,Zagueiro,90+5
+8522,12,Internacional,Amarelo,Bruno Henrique Corsini,8.0,Meio-campo,61
+8522,12,Atletico-MG,Amarelo,Mariano,25.0,Zagueiro,90+3
+8522,12,Atletico-MG,Amarelo,Bruno Fuchs,3.0,Zagueiro,33
+8524,12,Fluminense,Amarelo,Samuel Xavier,2.0,Zagueiro,61
+8524,12,Vitoria,Amarelo,Caio Vinícius da Conceição,15.0,Zagueiro,34
+8524,12,Fluminense,Amarelo,Alexsander,5.0,Meio-campo,63
+8524,12,Fluminense,Amarelo,Gabriel Appelt Pires,22.0,Meio-campo,31
+8525,12,Sao Paulo,Amarelo,Robert Arboleda,5.0,Zagueiro,26
+8525,12,Criciuma,Amarelo,Newton,8.0,Meio-campo,34
+8525,12,Criciuma,Amarelo,Marquinhos,10.0,Meio-campo,14
+8525,12,Sao Paulo,Amarelo,Luciano da Rocha Neves,10.0,Meio-campo,60
+8525,12,Criciuma,Amarelo,Claudinho,27.0,Zagueiro,79
+8525,12,Criciuma,Amarelo,Ronald,6.0,Meio-campo,21
+8526,13,Vasco,Amarelo,João Victor,38.0,Zagueiro,77
+8526,13,Vasco,Amarelo,Victor Luis,12.0,Zagueiro,34
+8526,13,Botafogo-RJ,Amarelo,Damián Suárez,22.0,Zagueiro,89
+8526,13,Botafogo-RJ,Amarelo,Gatito Fernández,1.0,Goleiro,45+3
+8526,13,Vasco,Amarelo,Erick Marcus,16.0,Atacante,89
+8526,13,Vasco,Amarelo,Hugo Moura,25.0,Meio-campo,40
+8526,13,Botafogo-RJ,Amarelo,Patrick de Paula,8.0,Meio-campo,90+3
+8526,13,Botafogo-RJ,Amarelo,Júnior Santos,11.0,Atacante,59
+8526,13,Botafogo-RJ,Amarelo,Bastos,15.0,Zagueiro,45+1
+8527,13,Cuiaba,Vermelho,Luciano Giménez,19.0,Atacante,90+7
+8527,13,Cuiaba,Amarelo,Isidro Pitta,9.0,Atacante,90+7
+8527,13,Cuiaba,Amarelo,Derik Lacerda,22.0,Atacante,45+3
+8527,13,Bragantino,Amarelo,Everton Messias,55.0,Atacante,72
+8527,13,Cuiaba,Amarelo,André Luis,97.0,Atacante,80
+8527,13,Cuiaba,Amarelo,Lucas Mineiro,30.0,Meio-campo,19
+8527,13,Bragantino,Amarelo,Eric dos Santos Rodrigues,7.0,Meio-campo,45+3
+8528,13,Atletico-GO,Amarelo,Luiz Felipe,14.0,Zagueiro,73
+8529,13,Gremio,Amarelo,Pedro Geromel,3.0,Zagueiro,36
+8529,13,Fluminense,Amarelo,Germán Cano,14.0,Atacante,39
+8529,13,Fluminense,Vermelho,Jan Lucumí,17.0,Atacante,87
+8529,13,Gremio,Amarelo,Douglas Moreira,17.0,Meio-campo,55
+8529,13,Fluminense,Amarelo,Jan Lucumí,17.0,Atacante,52
+8531,13,Fortaleza,Amarelo,Lucas Sasha,88.0,Meio-campo,68
+8531,13,Fortaleza,Amarelo,Yago Pikachu,22.0,Meio-campo,55
+8530,13,Sao Paulo,Amarelo,Alisson Euler de Freitas Castro,25.0,Meio-campo,86
+8530,13,Sao Paulo,Amarelo,Aldemir Ferreira,47.0,Meio-campo,33
+8530,13,Sao Paulo,Amarelo,Luiz Gustavo,16.0,Meio-campo,89
+8530,13,Sao Paulo,Amarelo,Luciano da Rocha Neves,10.0,Meio-campo,65
+8530,13,Bahia,Amarelo,Kanu,4.0,Zagueiro,44
+8534,13,Flamengo,Amarelo,Luiz Araújo,7.0,Meio-campo,22
+8534,13,Cruzeiro,Amarelo,João Marcelo,43.0,Zagueiro,64
+8534,13,Cruzeiro,Amarelo,William de Asevedo Furtado,12.0,Zagueiro,90+6
+8534,13,Cruzeiro,Amarelo,Kaiki Bruno,6.0,Zagueiro,26
+8532,13,Criciuma,Amarelo,Eder Citadin Martins,23.0,Atacante,66
+8532,13,Internacional,Amarelo,Renê Rodrigues Martins,6.0,Zagueiro,86
+8532,13,Internacional,Amarelo,Wanderson,11.0,Meio-campo,60
+8532,13,Criciuma,Amarelo,Marcelo Hermes,22.0,Zagueiro,30
+8532,13,Internacional,Amarelo,Igor Gomes,3.0,Zagueiro,77
+8533,13,Vitoria,Amarelo,José Hugo,17.0,Atacante,60
+8533,13,Athletico-PR,Amarelo,Pablo Felipe Teixeira,92.0,Atacante,82
+8533,13,Vitoria,Amarelo,Caio Vinícius da Conceição,15.0,Zagueiro,90+3
+8533,13,Vitoria,Amarelo,Léo Naldi,5.0,Meio-campo,51
+8533,13,Athletico-PR,Amarelo,Bruno Zapelli,10.0,Meio-campo,12
+8535,13,Palmeiras,Vermelho,Raphael Veiga,23.0,Meio-campo,63
+8535,13,Palmeiras,Amarelo,Gabriel Menino,25.0,Meio-campo,70
+8535,13,Palmeiras,Amarelo,Fabinho,35.0,Meio-campo,36
+8535,13,Corinthians,Amarelo,Breno Bidon,27.0,Meio-campo,86
+8535,13,Corinthians,Amarelo,Raniele,14.0,Meio-campo,33
+8535,13,Palmeiras,Amarelo,José Rafael Vivian,8.0,Meio-campo,43
+8535,13,Corinthians,Amarelo,Gustavo Henrique Vernes,13.0,Zagueiro,90+3
+8535,13,Corinthians,Amarelo,Rodrigo Garro,10.0,Meio-campo,63
+8536,14,Cuiaba,Amarelo,André Luis,97.0,Atacante,85
+8536,14,Cuiaba,Amarelo,Alan Empereur,33.0,Zagueiro,26
+8536,14,Cuiaba,Amarelo,Raylan,21.0,Meio-campo,90
+8536,14,Cuiaba,Amarelo,Filipe Augusto Carvalho Souza,5.0,Meio-campo,54
+8536,14,Botafogo-RJ,Amarelo,Óscar Romero,70.0,Meio-campo,72
+8538,14,Fortaleza,Vermelho,Hércules,35.0,Meio-campo,39
+8538,14,Vasco,Amarelo,David Corrêa da Fonseca,7.0,Meio-campo,64
+8538,14,Vasco,Amarelo,Maicon Pereira Roque,4.0,Zagueiro,37
+8538,14,Fortaleza,Amarelo,Titi,4.0,Zagueiro,65
+8538,14,Vasco,Amarelo,Lucas Piton,6.0,Zagueiro,83
+8538,14,Vasco,Amarelo,Hugo Moura,25.0,Meio-campo,52
+8538,14,Fortaleza,Amarelo,Matheus Rossetto,16.0,Meio-campo,67
+8538,14,Fortaleza,Amarelo,Juan Martín Lucero,9.0,Atacante,35
+8537,14,Cruzeiro,Amarelo,Ivaldo,5.0,Zagueiro,17
+8537,14,Criciuma,Amarelo,Allano,2.0,Atacante,88
+8537,14,Criciuma,Amarelo,Matheus Leonardo Sales Cardoso,17.0,Meio-campo,51
+8537,14,Criciuma,Vermelho,Allano,2.0,Atacante,90+2
+8537,14,Criciuma,Amarelo,Rodrigo Fagundes de Freitas,3.0,Zagueiro,82
+8537,14,Cruzeiro,Amarelo,João Marcelo,43.0,Zagueiro,88
+8540,14,Atletico-MG,Vermelho,Rômulo,47.0,Zagueiro,63
+8540,14,Atletico-MG,Amarelo,Rodrigo Battaglia,21.0,Zagueiro,71
+8540,14,Atletico-MG,Amarelo,Rômulo,47.0,Zagueiro,49
+8540,14,Flamengo,Amarelo,Bruno Henrique,27.0,Meio-campo,41
+8540,14,Atletico-MG,Amarelo,Paulo Vitor,27.0,Meio-campo,62
+8540,14,Flamengo,Amarelo,Ayrton Lucas Dantas de Medeiros,6.0,Zagueiro,52
+8541,14,Bragantino,Amarelo,Pedro Henrique Ribeiro Gonçalves,14.0,Zagueiro,8
+8541,14,Atletico-GO,Amarelo,Guilherme Romão,6.0,Zagueiro,39
+8541,14,Bragantino,Amarelo,Hélio Junio Nunes de Castro,11.0,Meio-campo,32
+8541,14,Atletico-GO,Amarelo,Mateo Zuleta,19.0,Meio-campo,80
+8541,14,Atletico-GO,Amarelo,Magno Jose da Silva,2.0,Zagueiro,19
+8539,14,Athletico-PR,Amarelo,Kaique Rocha,4.0,Zagueiro,66
+8539,14,Sao Paulo,Amarelo,Welington,6.0,Zagueiro,75
+8539,14,Athletico-PR,Vermelho,Léo Linck,24.0,Goleiro,76
+8539,14,Sao Paulo,Amarelo,Aldemir Ferreira,47.0,Meio-campo,86
+8539,14,Sao Paulo,Amarelo,Jonathan Calleri,9.0,Atacante,66
+8542,14,Gremio,Amarelo,Natã Felipe,36.0,Zagueiro,82
+8542,14,Palmeiras,Amarelo,Aníbal Moreno,5.0,Meio-campo,54
+8542,14,Palmeiras,Amarelo,Vitor Reis,44.0,Zagueiro,37
+8542,14,Gremio,Amarelo,Rodrigo Ely,5.0,Zagueiro,71
+8542,14,Palmeiras,Amarelo,Kaiky Naves,34.0,Zagueiro,41
+8543,14,Juventude,Amarelo,Zé Marcos,3.0,Zagueiro,52
+8543,14,Juventude,Amarelo,Jadson,16.0,Meio-campo,24
+8543,14,Juventude,Amarelo,Daniel Peixoto,72.0,Meio-campo,90+5
+8543,14,Juventude,Amarelo,Gilberto Oliveira Souza Junior,9.0,Atacante,45+2
+8544,14,Fluminense,Amarelo,Douglas Costa,90.0,Meio-campo,90+3
+8544,14,Fluminense,Amarelo,Diogo Barbosa,6.0,Zagueiro,42
+8544,14,Fluminense,Amarelo,Martinelli,8.0,Meio-campo,35
+8544,14,Internacional,Amarelo,Alan Patrick,10.0,Meio-campo,77
+8544,14,Internacional,Amarelo,Gustavo Prado,47.0,Meio-campo,54
+8544,14,Fluminense,Amarelo,André,7.0,Meio-campo,90+4
+8544,14,Fluminense,Amarelo,Thiago dos Santos,29.0,Zagueiro,64
+8544,14,Fluminense,Amarelo,Antonio Carlos Capocasali,25.0,Zagueiro,39
+8544,14,Internacional,Amarelo,Robert Renan,4.0,Zagueiro,87
+8544,14,Internacional,Amarelo,Lucas Alario,31.0,Atacante,61
+8544,14,Internacional,Amarelo,Wanderson,11.0,Meio-campo,45+2
+8545,14,Corinthians,Amarelo,Gustavo Henrique Vernes,13.0,Zagueiro,73
+8545,14,Corinthians,Amarelo,Yuri Alberto,9.0,Atacante,45+7
+8545,14,Vitoria,Amarelo,Wagner Leonardo,4.0,Zagueiro,90
+8545,14,Vitoria,Amarelo,Caio Vinícius da Conceição,15.0,Zagueiro,86
+8545,14,Corinthians,Amarelo,Cacá,25.0,Zagueiro,59
+8545,14,Corinthians,Amarelo,Igor Coronado,77.0,Meio-campo,20
+8545,14,Vitoria,Amarelo,Dudu,21.0,Meio-campo,88
+8547,15,Cuiaba,Amarelo,Guilherme Madruga,8.0,Zagueiro,90+3
+8547,15,Cuiaba,Amarelo,Ramon Ramos Lima,23.0,Zagueiro,50
+8547,15,Flamengo,Amarelo,Pedro,9.0,Atacante,18
+8547,15,Cuiaba,Amarelo,Derik Lacerda,22.0,Meio-campo,55
+8546,15,Sao Paulo,Amarelo,Robert Arboleda,5.0,Zagueiro,68
+8546,15,Bragantino,Amarelo,Eduardo Sasha,19.0,Atacante,43
+8546,15,Sao Paulo,Amarelo,Welington,6.0,Zagueiro,90+6
+8546,15,Bragantino,Amarelo,Lincoln Henrique Oliveira dos Santos,10.0,Meio-campo,88
+8548,15,Fluminense,Amarelo,Germán Cano,14.0,Atacante,86
+8548,15,Fortaleza,Amarelo,Tomás Pochettino,7.0,Meio-campo,71
+8548,15,Fluminense,Amarelo,Kauã Elias,19.0,Atacante,73
+8549,15,Juventude,Amarelo,Lucas Barbosa,21.0,Meio-campo,49
+8549,15,Gremio,Amarelo,Reinaldo Manoel da Silva,6.0,Zagueiro,77
+8549,15,Gremio,Amarelo,Gustavo Martins,53.0,Zagueiro,90+2
+8549,15,Gremio,Amarelo,Cristian Pavón,21.0,Meio-campo,69
+8550,15,Cruzeiro,Amarelo,Lucas Silva Borges,16.0,Meio-campo,81
+8550,15,Corinthians,Amarelo,Rodrigo Garro,10.0,Meio-campo,89
+8550,15,Cruzeiro,Amarelo,Ivaldo,5.0,Zagueiro,27
+8551,15,Internacional,Amarelo,Wesley Ribeiro Silva,21.0,Atacante,78
+8551,15,Vasco,Amarelo,Paulo,96.0,Zagueiro,50
+8551,15,Internacional,Amarelo,Alan Patrick,10.0,Meio-campo,88
+8551,15,Vasco,Amarelo,Bruno Praxedes,21.0,Meio-campo,76
+8553,15,Atletico-GO,Amarelo,Luiz Fernando Moraes dos Santos,11.0,Atacante,63
+8553,15,Athletico-PR,Amarelo,Mateo Gamarra,15.0,Zagueiro,71
+8553,15,Atletico-GO,Vermelho,Derek,20.0,Atacante,74
+8553,15,Athletico-PR,Amarelo,Lucas Esquivel,37.0,Zagueiro,76
+8553,15,Athletico-PR,Amarelo,Fernando Augusto Pereira Bueno Júnior,6.0,Zagueiro,63
+8554,15,Palmeiras,Amarelo,Rony,10.0,Meio-campo,62
+8554,15,Bahia,Amarelo,Kanu,4.0,Zagueiro,18
+8552,15,Criciuma,Amarelo,Gustavo Bonatto Barreto,88.0,Meio-campo,51
+8552,15,Vitoria,Amarelo,Matheus Martins Fogaça de Paulo,30.0,Meio-campo,86
+8552,15,Criciuma,Amarelo,Walisson,33.0,Zagueiro,41
+8555,15,Atletico-MG,Vermelho,Igor Rabello,16.0,Zagueiro,24
+8555,15,Botafogo-RJ,Amarelo,Tiquinho Soares,9.0,Atacante,20
+8555,15,Atletico-MG,Amarelo,Brahian Palacios,30.0,Atacante,84
+8555,15,Botafogo-RJ,Amarelo,Bastos,15.0,Zagueiro,17
+8556,16,Cruzeiro,Amarelo,Machado,23.0,Meio-campo,81
+8556,16,Gremio,Vermelho,Walter Kannemann,4.0,Zagueiro,57
+8556,16,Gremio,Amarelo,Cristian Pavón,21.0,Meio-campo,45+2
+8558,16,Athletico-PR,Amarelo,Fernandinho,5.0,Meio-campo,36
+8558,16,Bahia,Amarelo,Marcos Victor,44.0,Zagueiro,79
+8558,16,Bahia,Amarelo,Everaldo Stum,9.0,Atacante,40
+8558,16,Athletico-PR,Amarelo,Thiago Heleno,44.0,Zagueiro,49
+8558,16,Bahia,Amarelo,Julio Cesar de Rezende Miranda,5.0,Meio-campo,90+5
+8558,16,Bahia,Amarelo,Danilo Fernandes,1.0,Goleiro,79
+8557,16,Vasco,Amarelo,Mateus Carvalho,85.0,Meio-campo,32
+8557,16,Corinthians,Amarelo,Pedro Raul,20.0,Atacante,90+4
+8557,16,Corinthians,Amarelo,Igor Coronado,77.0,Meio-campo,82
+8557,16,Corinthians,Amarelo,Raniele,14.0,Meio-campo,28
+8557,16,Vasco,Amarelo,Bruno Lopes,72.0,Atacante,84
+8557,16,Vasco,Amarelo,David Corrêa da Fonseca,7.0,Meio-campo,3
+8557,16,Corinthians,Amarelo,Giovane Santana do Nascimento,17.0,Atacante,83
+8557,16,Corinthians,Amarelo,Félix Torres,3.0,Zagueiro,45+1
+8559,16,Palmeiras,Amarelo,Estêvão,41.0,Meio-campo,38
+8559,16,Atletico-GO,Amarelo,Gabriel Baralhas,8.0,Meio-campo,50
+8559,16,Palmeiras,Amarelo,Gabriel Menino,25.0,Meio-campo,45+2
+8559,16,Atletico-GO,Amarelo,Max,19.0,Atacante,80
+8561,16,Flamengo,Amarelo,Allan,21.0,Meio-campo,57
+8561,16,Fortaleza,Amarelo,Tomás Cardona,25.0,Zagueiro,38
+8560,16,Criciuma,Amarelo,Newton,8.0,Meio-campo,90+5
+8560,16,Criciuma,Amarelo,Ronald,6.0,Meio-campo,90+6
+8560,16,Fluminense,Amarelo,André,7.0,Meio-campo,45
+8562,16,Sao Paulo,Vermelho,Alan Franco,28.0,Zagueiro,59
+8562,16,Atletico-MG,Amarelo,Hulk,7.0,Atacante,44
+8562,16,Sao Paulo,Amarelo,Luiz Gustavo,16.0,Meio-campo,83
+8562,16,Atletico-MG,Amarelo,Rodrigo Battaglia,21.0,Zagueiro,9
+8563,16,Vitoria,Amarelo,Muriel Becker,22.0,Goleiro,90+6
+8563,16,Botafogo-RJ,Amarelo,Mateo Ponte,4.0,Zagueiro,76
+8563,16,Vitoria,Amarelo,Janderson,39.0,Atacante,90+10
+8563,16,Botafogo-RJ,Amarelo,Diego Hernández,77.0,Atacante,90+7
+8563,16,Botafogo-RJ,Amarelo,Carlos Eduardo de Oliveira Alves,33.0,Atacante,37
+8567,17,Cruzeiro,Amarelo,Vitinho,22.0,Meio-campo,77
+8567,17,Bragantino,Amarelo,Eric dos Santos Rodrigues,7.0,Meio-campo,45+1
+8567,17,Cruzeiro,Amarelo,Álvaro Barreal,21.0,Meio-campo,40
+8567,17,Bragantino,Amarelo,Nathan,45.0,Zagueiro,45
+8566,17,Bahia,Amarelo,Carlos de Pena,14.0,Meio-campo,45
+8566,17,Cuiaba,Amarelo,Alan Empereur,33.0,Zagueiro,44
+8566,17,Bahia,Amarelo,Gabriel Xavier,3.0,Zagueiro,59
+8566,17,Cuiaba,Amarelo,Walter Leandro Capeloza Artune,1.0,Goleiro,90+1
+8566,17,Cuiaba,Amarelo,Denilson,27.0,Meio-campo,37
+8568,17,Juventude,Amarelo,Abner,23.0,Zagueiro,69
+8568,17,Atletico-MG,Amarelo,Guilherme Arana,13.0,Zagueiro,45+7
+8568,17,Juventude,Amarelo,Jean Carlos,20.0,Meio-campo,22
+8569,17,Corinthians,Amarelo,Raniele,14.0,Meio-campo,67
+8570,17,Atletico-GO,Amarelo,Janderson,7.0,Atacante,32
+8570,17,Vasco,Amarelo,Rayan,77.0,Atacante,74
+8570,17,Vasco,Amarelo,Hugo Moura,25.0,Meio-campo,30
+8570,17,Atletico-GO,Amarelo,Adriano Martins,3.0,Zagueiro,16
+8570,17,Vasco,Amarelo,Mateus Carvalho,85.0,Meio-campo,45
+8571,17,Sao Paulo,Amarelo,Welington,6.0,Zagueiro,90+1
+8571,17,Sao Paulo,Amarelo,Lucas Moura,7.0,Meio-campo,41
+8571,17,Gremio,Amarelo,Nathan Fernandes,32.0,Atacante,80
+8571,17,Gremio,Amarelo,Pepê,23.0,Meio-campo,23
+8571,17,Sao Paulo,Vermelho,Igor Vinícius,2.0,Zagueiro,90+9
+8571,17,Sao Paulo,Amarelo,Aldemir Ferreira,47.0,Meio-campo,90+13
+8571,17,Sao Paulo,Amarelo,Rafael Pires Monteiro,23.0,Goleiro,78
+8571,17,Sao Paulo,Amarelo,Igor Vinícius,2.0,Zagueiro,38
+8571,17,Gremio,Amarelo,Mathías Villasanti,20.0,Meio-campo,31
+8572,17,Botafogo-RJ,Amarelo,Alexander Barboza,20.0,Zagueiro,4
+8572,17,Botafogo-RJ,Amarelo,Damián Suárez,22.0,Zagueiro,73
+8573,17,Fortaleza,Amarelo,Juan Martín Lucero,9.0,Atacante,49
+8573,17,Fortaleza,Amarelo,Hércules,35.0,Meio-campo,36
+8573,17,Vitoria,Amarelo,Janderson,39.0,Meio-campo,34
+8573,17,Fortaleza,Amarelo,Titi,4.0,Zagueiro,62
+8573,17,Fortaleza,Amarelo,Emanuel Brítez,19.0,Zagueiro,45+6
+8573,17,Vitoria,Amarelo,Daniel Júnior,80.0,Meio-campo,60
+8573,17,Vitoria,Amarelo,Luan Vinícius da Silva Santos,8.0,Meio-campo,21
+8576,18,Criciuma,Vermelho,Allano,2.0,Meio-campo,90
+8576,18,Flamengo,Amarelo,Everton Cebolinha,11.0,Meio-campo,90+5
+8576,18,Flamengo,Amarelo,Matías Viña,17.0,Zagueiro,71
+8576,18,Criciuma,Amarelo,Arthur Caike do Nascimento Cruz,45.0,Atacante,90+12
+8576,18,Criciuma,Amarelo,Eder Citadin Martins,23.0,Atacante,87
+8576,18,Criciuma,Amarelo,Alisson Machado dos Santos,25.0,Goleiro,62
+8576,18,Criciuma,Amarelo,Claudinho,27.0,Zagueiro,47
+8576,18,Flamengo,Amarelo,Gabriel Barbosa,99.0,Atacante,90
+8576,18,Flamengo,Amarelo,David Luiz,23.0,Zagueiro,50
+8576,18,Criciuma,Amarelo,Fellipe Mateus,7.0,Atacante,90+3
+8576,18,Criciuma,Amarelo,Gustavo Bonatto Barreto,88.0,Meio-campo,86
+8576,18,Criciuma,Amarelo,Allano,2.0,Meio-campo,62
+8576,18,Criciuma,Amarelo,Rodrigo Fagundes de Freitas,3.0,Zagueiro,39
+8577,18,Botafogo-RJ,Amarelo,John,12.0,Goleiro,81
+8577,18,Botafogo-RJ,Amarelo,Damián Suárez,22.0,Zagueiro,51
+8577,18,Internacional,Amarelo,Igor Gomes,3.0,Zagueiro,77
+8577,18,Botafogo-RJ,Amarelo,Jefferson Savarino,10.0,Meio-campo,78
+8577,18,Botafogo-RJ,Amarelo,Cuiabano,66.0,Zagueiro,33
+8577,18,Internacional,Amarelo,Rômulo Zwarg,40.0,Meio-campo,49
+8578,18,Palmeiras,Amarelo,Maurício,18.0,Meio-campo,77
+8578,18,Palmeiras,Amarelo,Raphael Veiga,23.0,Meio-campo,61
+8578,18,Cruzeiro,Amarelo,João Marcelo,43.0,Zagueiro,90+4
+8578,18,Cruzeiro,Amarelo,Lucas Romero,29.0,Meio-campo,45+4
+8578,18,Palmeiras,Amarelo,José Rafael Vivian,8.0,Meio-campo,69
+8578,18,Palmeiras,Amarelo,José Manuel Alberto López,42.0,Atacante,59
+8578,18,Cruzeiro,Amarelo,Matheus Pereira,10.0,Atacante,69
+8578,18,Cruzeiro,Amarelo,Álvaro Barreal,21.0,Meio-campo,38
+8579,18,Gremio,Amarelo,Felipe Carballo,8.0,Meio-campo,45+1
+8579,18,Vitoria,Amarelo,Lucas Esteves,16.0,Meio-campo,90+2
+8579,18,Vitoria,Amarelo,Lawan,33.0,Atacante,52
+8579,18,Vitoria,Amarelo,Léo Naldi,5.0,Meio-campo,23
+8579,18,Vitoria,Amarelo,Reynaldo Cesar Moraes,40.0,Zagueiro,90+4
+8579,18,Vitoria,Amarelo,Willian,29.0,Meio-campo,60
+8579,18,Vitoria,Amarelo,Janderson,39.0,Atacante,36
+8579,18,Vitoria,Amarelo,Lucas Arcanjo,1.0,Goleiro,17
+8580,18,Atletico-MG,Amarelo,Junior Alonso,8.0,Zagueiro,46
+8580,18,Vasco,Amarelo,Hugo Moura,25.0,Meio-campo,23
+8581,18,Bahia,Amarelo,Kanu,4.0,Zagueiro,65
+8581,18,Bahia,Amarelo,Gabriel Teixeira,11.0,Atacante,36
+8581,18,Corinthians,Amarelo,Alex Paulo Menezes Santana,80.0,Meio-campo,90+4
+8581,18,Corinthians,Amarelo,Gustavo Henrique Vernes,13.0,Zagueiro,38
+8581,18,Bahia,Amarelo,Víctor Cuesta,15.0,Zagueiro,54
+8581,18,Bahia,Amarelo,Caio Alexandre,19.0,Meio-campo,27
+8581,18,Corinthians,Amarelo,André Ramalho,5.0,Zagueiro,90+2
+8581,18,Corinthians,Amarelo,Ryan,37.0,Meio-campo,36
+8584,18,Fortaleza,Vermelho,Benjamín Kuscevic,13.0,Zagueiro,55
+8584,18,Fortaleza,Amarelo,Breno Lopes,26.0,Meio-campo,56
+8584,18,Fortaleza,Amarelo,Hércules,35.0,Meio-campo,38
+8584,18,Atletico-GO,Amarelo,Rhaldney,7.0,Meio-campo,47
+8584,18,Atletico-GO,Vermelho,Jan Hurtado,9.0,Atacante,45+2
+8584,18,Fortaleza,Amarelo,Bruno Pacheco,6.0,Zagueiro,90+5
+8584,18,Fortaleza,Amarelo,Benjamín Kuscevic,13.0,Zagueiro,45+6
+8584,18,Atletico-GO,Amarelo,Ronaldo,1.0,Goleiro,57
+8584,18,Atletico-GO,Amarelo,Janderson,11.0,Meio-campo,28
+8582,18,Bragantino,Amarelo,Pedro Henrique Ribeiro Gonçalves,14.0,Zagueiro,88
+8582,18,Athletico-PR,Amarelo,Gabriel Girotto Franco,3.0,Meio-campo,90+5
+8582,18,Athletico-PR,Amarelo,Tomás Cuello,28.0,Atacante,88
+8582,18,Athletico-PR,Amarelo,Kaique Rocha,4.0,Zagueiro,86
+8582,18,Athletico-PR,Amarelo,Christian Roberto Alves Cardoso,88.0,Meio-campo,56
+8582,18,Bragantino,Vermelho,Cleiton Schwengber,1.0,Goleiro,45+6
+8582,18,Bragantino,Amarelo,Eduardo Santos,3.0,Zagueiro,18
+8582,18,Athletico-PR,Amarelo,Pablo Felipe Teixeira,92.0,Atacante,90+2
+8582,18,Athletico-PR,Amarelo,Mateo Gamarra,15.0,Zagueiro,87
+8582,18,Athletico-PR,Amarelo,Agustín Canobbio,14.0,Meio-campo,70
+8583,18,Juventude,Amarelo,João Lucas,2.0,Zagueiro,51
+8583,18,Juventude,Amarelo,Jadson,16.0,Meio-campo,28
+8583,18,Sao Paulo,Amarelo,Alan Franco,28.0,Zagueiro,12
+8583,18,Juventude,Amarelo,Caique de Jesus Gonçalves,95.0,Meio-campo,90+7
+8583,18,Juventude,Amarelo,Rodrigo Sam,34.0,Zagueiro,35
+8583,18,Sao Paulo,Amarelo,Luciano da Rocha Neves,10.0,Meio-campo,18
+8585,18,Fluminense,Vermelho,Guga,23.0,Zagueiro,90+6
+8585,18,Cuiaba,Amarelo,Ramon Ramos Lima,23.0,Zagueiro,67
+8585,18,Fluminense,Amarelo,Martinelli,8.0,Meio-campo,45+4
+8585,18,Fluminense,Amarelo,Jhon Arias,21.0,Meio-campo,89
+8435,3,Fortaleza,Amarelo,Titi,4.0,Zagueiro,6
+8586,19,Cruzeiro,Amarelo,João Marcelo,43.0,Zagueiro,72
+8586,19,Juventude,Amarelo,Nenê,10.0,Meio-campo,87
+8586,19,Juventude,Amarelo,Zé Marcos,3.0,Zagueiro,65
+8586,19,Juventude,Vermelho,Zé Marcos,3.0,Zagueiro,90+6
+8586,19,Cruzeiro,Amarelo,William de Asevedo Furtado,12.0,Zagueiro,78
+8586,19,Cruzeiro,Amarelo,Ivaldo,5.0,Zagueiro,69
+8586,19,Juventude,Amarelo,João Lucas,2.0,Zagueiro,72
+8586,19,Juventude,Amarelo,Gabriel Inocêncio,12.0,Zagueiro,44
+8587,19,Sao Paulo,Amarelo,Luciano da Rocha Neves,10.0,Meio-campo,76
+8587,19,Sao Paulo,Amarelo,Alan Franco,28.0,Zagueiro,45+5
+8587,19,Botafogo-RJ,Amarelo,Cuiabano,66.0,Zagueiro,63
+8587,19,Botafogo-RJ,Amarelo,Gregore,26.0,Meio-campo,39
+8587,19,Sao Paulo,Amarelo,Lucas Moura,7.0,Meio-campo,51
+8587,19,Sao Paulo,Amarelo,Rafinha,13.0,Zagueiro,24
+8587,19,Botafogo-RJ,Amarelo,Marlon Freitas,17.0,Meio-campo,62
+8588,19,Flamengo,Amarelo,Luiz Araújo,7.0,Atacante,79
+8588,19,Vitoria,Amarelo,Lucas Esteves,16.0,Zagueiro,58
+8589,19,Atletico-GO,Vermelho,Guilherme Romão,6.0,Zagueiro,90+11
+8589,19,Atletico-GO,Vermelho,Alix Vinicius,4.0,Zagueiro,90+8
+8589,19,Atletico-GO,Amarelo,Alix Vinicius,4.0,Zagueiro,81
+8589,19,Atletico-GO,Amarelo,Gonzalo Freitas,5.0,Meio-campo,35
+8589,19,Bahia,Amarelo,Julio Cesar de Rezende Miranda,5.0,Meio-campo,76
+8589,19,Bahia,Amarelo,Everaldo Stum,9.0,Atacante,37
+8589,19,Atletico-GO,Vermelho,Emiliano Rodríguez,9.0,Atacante,90+11
+8589,19,Atletico-GO,Amarelo,Max,22.0,Atacante,87
+8589,19,Atletico-GO,Amarelo,Alejo Cruz,11.0,Meio-campo,45+3
+8589,19,Bahia,Amarelo,Jean Lucas Oliveira,6.0,Meio-campo,90+11
+8589,19,Bahia,Amarelo,Víctor Cuesta,15.0,Zagueiro,39
+8590,19,Fluminense,Amarelo,Thiago dos Santos,29.0,Zagueiro,19
+8590,19,Palmeiras,Amarelo,Raphael Veiga,23.0,Meio-campo,43
+8590,19,Fluminense,Amarelo,Paulo Henrique Ganso,10.0,Meio-campo,42
+8590,19,Palmeiras,Amarelo,José Rafael Vivian,8.0,Meio-campo,57
+8590,19,Palmeiras,Amarelo,Gustavo Gómez,15.0,Zagueiro,31
+8591,19,Corinthians,Amarelo,Cacá,25.0,Zagueiro,40
+8591,19,Gremio,Amarelo,Pedro Geromel,3.0,Zagueiro,31
+8591,19,Gremio,Amarelo,Rodrigo Ely,5.0,Zagueiro,33
+8596,20,Vitoria,Vermelho,José Breno,50.0,Meio-campo,90+2
+8596,20,Palmeiras,Amarelo,Gabriel Menino,25.0,Meio-campo,50
+8596,20,Vitoria,Amarelo,Janderson,39.0,Atacante,80
+8596,20,Vitoria,Amarelo,Osvaldo Filho,11.0,Meio-campo,51
+8596,20,Vitoria,Amarelo,Muriel Becker,22.0,Goleiro,28
+8596,20,Palmeiras,Amarelo,José Manuel Alberto López,42.0,Atacante,90
+8596,20,Vitoria,Amarelo,Everaldo,37.0,Atacante,90+4
+8596,20,Vitoria,Amarelo,Lucas Eduardo Ribeiro de Souza,43.0,Zagueiro,73
+8596,20,Vitoria,Amarelo,Lucas Esteves,16.0,Zagueiro,36
+8597,20,Criciuma,Amarelo,Rodrigo Fagundes de Freitas,3.0,Zagueiro,68
+8597,20,Juventude,Amarelo,Lucas Barbosa,21.0,Meio-campo,59
+8597,20,Criciuma,Amarelo,Wilker Ángel,4.0,Zagueiro,30
+8598,20,Bahia,Amarelo,Gilberto Moraes Júnior,2.0,Zagueiro,87
+8598,20,Internacional,Amarelo,Sergio Rochet,1.0,Goleiro,65
+8598,20,Internacional,Amarelo,Gabriel Mercado,25.0,Zagueiro,80
+8598,20,Internacional,Amarelo,Fabricio Bustos,16.0,Zagueiro,61
+8599,20,Fortaleza,Amarelo,Hércules,35.0,Meio-campo,88
+8599,20,Fortaleza,Amarelo,Emanuel Brítez,19.0,Zagueiro,65
+8599,20,Sao Paulo,Amarelo,Welington,6.0,Zagueiro,57
+8599,20,Sao Paulo,Amarelo,Luciano da Rocha Neves,10.0,Atacante,12
+8599,20,Fortaleza,Vermelho,Hércules,35.0,Meio-campo,89
+8599,20,Fortaleza,Amarelo,Kervin Andrade,77.0,Atacante,80
+8599,20,Sao Paulo,Amarelo,Damián Bobadilla,21.0,Meio-campo,70
+8599,20,Sao Paulo,Amarelo,Rafinha,13.0,Zagueiro,45+5
+8600,20,Botafogo-RJ,Amarelo,Fernando Marçal,21.0,Zagueiro,4
+8600,20,Cruzeiro,Amarelo,Cássio Ramos,1.0,Goleiro,72
+8600,20,Cruzeiro,Amarelo,William de Asevedo Furtado,12.0,Zagueiro,31
+8600,20,Botafogo-RJ,Amarelo,Allan Marques Loureiro,28.0,Meio-campo,74
+8600,20,Cruzeiro,Amarelo,Marlon Rodrigues Xavier,3.0,Zagueiro,90+1
+8600,20,Cruzeiro,Amarelo,Matheus Henrique de Souza,97.0,Meio-campo,45+6
+8601,20,Fluminense,Amarelo,Gustavo Nonato,16.0,Meio-campo,90+8
+8601,20,Bragantino,Amarelo,Luan Cândido,36.0,Zagueiro,87
+8601,20,Fluminense,Amarelo,Diogo Barbosa,6.0,Zagueiro,45+2
+8602,20,Flamengo,Amarelo,Pedro,9.0,Atacante,80
+8602,20,Flamengo,Amarelo,Erick Pulgar,5.0,Meio-campo,36
+8602,20,Atletico-GO,Amarelo,Jan Hurtado,9.0,Atacante,15
+8602,20,Flamengo,Amarelo,Luiz Araújo,7.0,Meio-campo,73
+8602,20,Atletico-GO,Amarelo,Pedro Henrique Pereira da Silva,4.0,Zagueiro,36
+8603,20,Athletico-PR,Amarelo,Julimar,20.0,Atacante,58
+8603,20,Athletico-PR,Amarelo,Leonardo Godoy,29.0,Zagueiro,87
+8604,20,Gremio,Amarelo,Douglas Moreira,17.0,Meio-campo,68
+8604,20,Vasco,Amarelo,Paulo,96.0,Zagueiro,79
+8604,20,Vasco,Amarelo,Lucas Piton,6.0,Zagueiro,35
+8604,20,Vasco,Amarelo,Mateus Carvalho,85.0,Meio-campo,1
+8604,20,Gremio,Amarelo,Walter Kannemann,4.0,Zagueiro,69
+8604,20,Gremio,Amarelo,Cristian Pavón,21.0,Atacante,45+7
+8604,20,Vasco,Amarelo,David Corrêa da Fonseca,7.0,Meio-campo,69
+8605,20,Atletico-MG,Vermelho,Lyanco,2.0,Zagueiro,90+7
+8605,20,Atletico-MG,Amarelo,Lyanco,2.0,Zagueiro,90+4
+8605,20,Corinthians,Amarelo,Ángel Romero,11.0,Atacante,90+4
+8605,20,Corinthians,Amarelo,Hugo Souza,1.0,Goleiro,81
+8605,20,Atletico-MG,Amarelo,Bruno Fuchs,3.0,Zagueiro,23
+8605,20,Corinthians,Amarelo,Alex Paulo Menezes Santana,80.0,Meio-campo,90+3
+8606,21,Vitoria,Amarelo,Luan Vinícius da Silva Santos,8.0,Meio-campo,52
+8606,21,Cuiaba,Amarelo,Filipe Augusto Carvalho Souza,5.0,Meio-campo,80
+8606,21,Cuiaba,Amarelo,Ramon Ramos Lima,23.0,Zagueiro,66
+8606,21,Vitoria,Amarelo,Matheus Martins Fogaça de Paulo,30.0,Atacante,90+1
+8606,21,Vitoria,Amarelo,Janderson,39.0,Atacante,32
+8606,21,Cuiaba,Amarelo,Derik Lacerda,22.0,Atacante,73
+8607,21,Vasco,Amarelo,Adson,28.0,Meio-campo,61
+8607,21,Vasco,Amarelo,Josef de Souza Dias,5.0,Meio-campo,7
+8607,21,Vasco,Amarelo,Leonardo Pinheiro,3.0,Zagueiro,85
+8607,21,Vasco,Amarelo,Gabriel Souza da Silva,19.0,Atacante,44
+8607,21,Bragantino,Amarelo,Lucas Ferrugem,4.0,Zagueiro,78
+8609,21,Botafogo-RJ,Vermelho,Danilo Neves,6.0,Meio-campo,90+3
+8609,21,Atletico-GO,Amarelo,Adriano Martins,3.0,Zagueiro,60
+8609,21,Botafogo-RJ,Amarelo,Luiz Henrique,7.0,Meio-campo,79
+8609,21,Botafogo-RJ,Amarelo,Ígor Jesus,99.0,Atacante,44
+8609,21,Atletico-GO,Vermelho,Janderson,20.0,Atacante,90+3
+8609,21,Atletico-GO,Amarelo,Joel Campbell,7.0,Atacante,90+1
+8609,21,Atletico-GO,Amarelo,Guilherme Romão,6.0,Zagueiro,53
+8609,21,Botafogo-RJ,Amarelo,Allan Marques Loureiro,28.0,Meio-campo,66
+8608,21,Criciuma,Amarelo,Fellipe Mateus,7.0,Meio-campo,83
+8608,21,Atletico-MG,Amarelo,Otávio Henrique Passos Santos,5.0,Meio-campo,50
+8608,21,Atletico-MG,Amarelo,Junior Alonso,8.0,Zagueiro,64
+8610,21,Flamengo,Amarelo,Bruno Henrique,27.0,Meio-campo,79
+8610,21,Flamengo,Amarelo,Matheus Gonçalves,20.0,Meio-campo,70
+8610,21,Sao Paulo,Amarelo,Wellington Rato,27.0,Meio-campo,32
+8610,21,Flamengo,Amarelo,David Luiz,23.0,Zagueiro,74
+8611,21,Juventude,Vermelho,Alan Ruschel,28.0,Zagueiro,57
+8611,21,Corinthians,Amarelo,Igor Coronado,77.0,Meio-campo,30
+8611,21,Juventude,Amarelo,Luis Mandaca,44.0,Meio-campo,90+5
+8611,21,Juventude,Amarelo,Alan Ruschel,28.0,Zagueiro,52
+8611,21,Juventude,Amarelo,Thiaguinho,8.0,Meio-campo,45+13
+8611,21,Juventude,Vermelho,Lucas Barbosa,21.0,Meio-campo,82
+8611,21,Juventude,Vermelho,Gabriel Vasconcellos Ferreira,1.0,Goleiro,45+2
+8611,21,Corinthians,Amarelo,Rodrigo Garro,10.0,Meio-campo,56
+8611,21,Juventude,Amarelo,Mateus Claus,77.0,Goleiro,90+7
+8611,21,Juventude,Amarelo,Rodrigo Sam,34.0,Zagueiro,90+4
+8611,21,Juventude,Amarelo,Jadson,16.0,Meio-campo,47
+8612,21,Fluminense,Amarelo,Thiago dos Santos,29.0,Zagueiro,36
+8612,21,Bahia,Amarelo,Cauly,8.0,Meio-campo,90+2
+8612,21,Fluminense,Amarelo,Thiago Emiliano da Silva,3.0,Zagueiro,62
+8612,21,Fluminense,Amarelo,Diogo Barbosa,6.0,Zagueiro,25
+8612,21,Bahia,Amarelo,Carlos de Pena,14.0,Meio-campo,84
+8613,21,Athletico-PR,Amarelo,Tomás Cuello,28.0,Atacante,82
+8613,21,Athletico-PR,Amarelo,Mateo Gamarra,15.0,Zagueiro,16
+8614,21,Internacional,Amarelo,Rafael Santos Borré,19.0,Meio-campo,45+5
+8614,21,Internacional,Amarelo,Gabriel Carvalho,34.0,Meio-campo,45+1
+8615,21,Cruzeiro,Amarelo,João Marcelo,43.0,Zagueiro,90+7
+8615,21,Cruzeiro,Amarelo,Ivaldo,5.0,Zagueiro,58
+8615,21,Fortaleza,Amarelo,João Ricardo Riedi,1.0,Goleiro,90
+8615,21,Fortaleza,Amarelo,Breno Lopes,26.0,Meio-campo,32
+8615,21,Cruzeiro,Amarelo,Lautaro Díaz,26.0,Meio-campo,67
+8615,21,Cruzeiro,Amarelo,Juan Dinenno,19.0,Atacante,45+4
+8615,21,Fortaleza,Amarelo,Yago Pikachu,22.0,Meio-campo,45+4
+8615,21,Fortaleza,Amarelo,Mário Sérgio Santos Costa,11.0,Meio-campo,29
+8616,22,Fortaleza,Amarelo,Lucas Sasha,88.0,Meio-campo,69
+8616,22,Criciuma,Amarelo,Marcelo Hermes,22.0,Meio-campo,90+5
+8616,22,Criciuma,Amarelo,Marquinhos,10.0,Meio-campo,76
+8616,22,Fortaleza,Amarelo,Titi,4.0,Zagueiro,13
+8616,22,Criciuma,Amarelo,Arthur Caike do Nascimento Cruz,45.0,Atacante,90+4
+8616,22,Criciuma,Amarelo,Miguel Trauco,14.0,Zagueiro,44
+8617,22,Cuiaba,Amarelo,Matheus Alexandre Anastácio de Souza,2.0,Zagueiro,90+7
+8617,22,Gremio,Amarelo,Caíque Santos,97.0,Goleiro,71
+8617,22,Gremio,Amarelo,Edenílson Andrade dos Santos,15.0,Meio-campo,74
+8618,22,Cruzeiro,Amarelo,Álvaro Barreal,21.0,Meio-campo,58
+8618,22,Atletico-MG,Amarelo,Cadu,42.0,Atacante,58
+8618,22,Cruzeiro,Amarelo,Matheus Henrique de Souza,97.0,Meio-campo,86
+8618,22,Cruzeiro,Amarelo,Kaio Jorge,9.0,Atacante,42
+8619,22,Corinthians,Amarelo,Talles Magno,43.0,Atacante,90+8
+8619,22,Corinthians,Amarelo,Ángel Romero,11.0,Atacante,21
+8619,22,Bragantino,Amarelo,Nathan,45.0,Zagueiro,90+6
+8619,22,Bragantino,Amarelo,Lucão,40.0,Goleiro,60
+8619,22,Bragantino,Amarelo,Raul,23.0,Meio-campo,54
+8619,22,Corinthians,Amarelo,Hugo Souza,1.0,Goleiro,90+9
+8619,22,Corinthians,Amarelo,Hugo,46.0,Zagueiro,62
+8619,22,Bragantino,Amarelo,Vitor Hugo Naum dos Santos,28.0,Atacante,90+6
+8619,22,Bragantino,Amarelo,Jadsom,5.0,Meio-campo,88
+8619,22,Bragantino,Amarelo,Eduardo Sasha,19.0,Atacante,56
+8620,22,Vasco,Amarelo,Pablo Vegetti,99.0,Atacante,74
+8620,22,Fluminense,Amarelo,Jhon Arias,21.0,Meio-campo,79
+8620,22,Fluminense,Amarelo,Paulo Henrique Ganso,10.0,Meio-campo,42
+8620,22,Vasco,Amarelo,Rayan,77.0,Atacante,83
+8620,22,Vasco,Amarelo,Victor Luis,12.0,Zagueiro,40
+8620,22,Fluminense,Amarelo,Alexsander,5.0,Meio-campo,56
+8621,22,Juventude,Amarelo,Erick Farias,7.0,Meio-campo,41
+8621,22,Botafogo-RJ,Amarelo,Lucas Halter,3.0,Zagueiro,90+7
+8621,22,Botafogo-RJ,Amarelo,Marlon Freitas,17.0,Meio-campo,73
+8621,22,Botafogo-RJ,Amarelo,Óscar Romero,70.0,Meio-campo,29
+8621,22,Juventude,Amarelo,Mateus Claus,77.0,Goleiro,85
+8621,22,Juventude,Amarelo,Davi Goes,88.0,Meio-campo,14
+8621,22,Botafogo-RJ,Amarelo,Fernando Marçal,21.0,Zagueiro,82
+8621,22,Botafogo-RJ,Amarelo,Alexander Barboza,20.0,Zagueiro,42
+8623,22,Sao Paulo,Amarelo,Liziero,26.0,Meio-campo,58
+8623,22,Atletico-GO,Amarelo,Gabriel Baralhas,8.0,Meio-campo,53
+8623,22,Atletico-GO,Amarelo,Guilherme Romão,6.0,Zagueiro,69
+8624,22,Palmeiras,Vermelho,Murilo Cerqueira,26.0,Zagueiro,90+3
+8624,22,Palmeiras,Amarelo,Gustavo Gómez,15.0,Zagueiro,51
+8624,22,Palmeiras,Amarelo,Aníbal Moreno,5.0,Meio-campo,14
+8624,22,Flamengo,Amarelo,Erick Pulgar,5.0,Meio-campo,22
+8624,22,Palmeiras,Amarelo,Murilo Cerqueira,26.0,Zagueiro,42
+8622,22,Bahia,Amarelo,Caio Alexandre,19.0,Meio-campo,81
+8622,22,Vitoria,Amarelo,Willian,29.0,Meio-campo,87
+8622,22,Vitoria,Amarelo,Alerrandro Barra Mansa Realino de Souza,9.0,Atacante,49
+8622,22,Bahia,Amarelo,Yago Rocha,20.0,Meio-campo,90+1
+8622,22,Bahia,Amarelo,Kanu,4.0,Zagueiro,49
+8622,22,Vitoria,Amarelo,Pablo Baianinho,62.0,Meio-campo,82
+8622,22,Vitoria,Amarelo,Lucas Esteves,16.0,Zagueiro,45+3
+8625,22,Athletico-PR,Amarelo,Mateo Gamarra,15.0,Zagueiro,45+1
+8625,22,Internacional,Amarelo,Bruno Henrique Corsini,8.0,Meio-campo,54
+8625,22,Athletico-PR,Amarelo,Fernando Augusto Pereira Bueno Júnior,6.0,Zagueiro,31
+8464,6,Internacional,Amarelo,Bruno Gomes,15.0,Zagueiro,74
+8464,6,Juventude,Amarelo,Zé Marcos,3.0,Zagueiro,78
+8464,6,Juventude,Amarelo,Nenê,10.0,Atacante,59
+8464,6,Internacional,Amarelo,Ricardo Mathias,49.0,Atacante,84
+8464,6,Juventude,Amarelo,Jadson,16.0,Meio-campo,89
+8464,6,Juventude,Amarelo,Lucas Barbosa,21.0,Meio-campo,64
+8626,23,Gremio,Amarelo,Nathan,14.0,Meio-campo,90+2
+8626,23,Gremio,Amarelo,Yeferson Soteldo,7.0,Meio-campo,68
+8626,23,Gremio,Amarelo,Diego Costa,19.0,Atacante,72
+8626,23,Bahia,Amarelo,Gabriel Xavier,3.0,Zagueiro,65
+8627,23,Atletico-MG,Amarelo,Alan Franco Palma,23.0,Meio-campo,90
+8627,23,Atletico-MG,Amarelo,Mariano,25.0,Zagueiro,42
+8627,23,Cuiaba,Amarelo,Juan Tavares,63.0,Meio-campo,90
+8627,23,Cuiaba,Amarelo,Denilson,27.0,Meio-campo,71
+8627,23,Cuiaba,Amarelo,Lucas Mineiro,30.0,Meio-campo,30
+8627,23,Atletico-MG,Amarelo,Bruno Fuchs,3.0,Zagueiro,43
+8627,23,Cuiaba,Amarelo,Alan Empereur,33.0,Zagueiro,90+8
+8627,23,Cuiaba,Amarelo,Bruno Alves,34.0,Zagueiro,85
+8627,23,Cuiaba,Amarelo,Matheus Alexandre Anastácio de Souza,2.0,Meio-campo,50
+8628,23,Bragantino,Amarelo,Vitor Hugo Naum dos Santos,28.0,Atacante,90+5
+8628,23,Bragantino,Amarelo,Hélio Junio Nunes de Castro,11.0,Meio-campo,86
+8628,23,Fortaleza,Amarelo,Benjamín Kuscevic,13.0,Zagueiro,90+5
+8628,23,Fortaleza,Amarelo,Yago Pikachu,22.0,Meio-campo,45+3
+8628,23,Bragantino,Amarelo,Henry Mosquera,30.0,Atacante,90+6
+8628,23,Bragantino,Amarelo,Lucas Evangelista,8.0,Meio-campo,90+2
+8628,23,Fortaleza,Amarelo,Breno Lopes,26.0,Atacante,90+8
+8628,23,Fortaleza,Amarelo,Titi,4.0,Zagueiro,69
+8629,23,Fluminense,Amarelo,André,7.0,Meio-campo,45
+8629,23,Corinthians,Amarelo,Charles Rigon Matos,8.0,Meio-campo,15
+8629,23,Fluminense,Amarelo,Samuel Xavier,2.0,Zagueiro,89
+8629,23,Corinthians,Amarelo,Ryan,37.0,Meio-campo,90+3
+8630,23,Atletico-GO,Amarelo,Gonzalo Freitas,5.0,Meio-campo,54
+8630,23,Atletico-GO,Amarelo,Pedro Rangel,12.0,Goleiro,84
+8630,23,Atletico-GO,Amarelo,Magno Jose da Silva,2.0,Zagueiro,45+3
+8632,23,Sao Paulo,Vermelho,Rodrigo Nestor,11.0,Meio-campo,90+15
+8632,23,Palmeiras,Amarelo,Marcos Rocha,2.0,Zagueiro,90+2
+8632,23,Palmeiras,Amarelo,Vitor Reis,44.0,Zagueiro,45+2
+8632,23,Sao Paulo,Amarelo,Sabino,35.0,Zagueiro,43
+8632,23,Palmeiras,Vermelho,José Rafael Vivian,8.0,Meio-campo,90+15
+8632,23,Sao Paulo,Vermelho,Luciano da Rocha Neves,10.0,Atacante,90+6
+8632,23,Palmeiras,Amarelo,José Manuel Alberto López,42.0,Atacante,90+13
+8632,23,Palmeiras,Amarelo,Gustavo Gómez,15.0,Zagueiro,59
+8632,23,Sao Paulo,Amarelo,Luciano da Rocha Neves,10.0,Atacante,74
+8631,23,Criciuma,Amarelo,Wilker Ángel,4.0,Zagueiro,82
+8631,23,Criciuma,Amarelo,Allano,2.0,Meio-campo,21
+8631,23,Vasco,Amarelo,Paulo,96.0,Zagueiro,77
+8631,23,Criciuma,Amarelo,Rodrigo Fagundes de Freitas,3.0,Zagueiro,44
+8631,23,Vasco,Amarelo,Rossicley Pereira da Silva,31.0,Meio-campo,86
+8633,23,Athletico-PR,Amarelo,Christian Roberto Alves Cardoso,88.0,Meio-campo,86
+8633,23,Athletico-PR,Amarelo,Mateo Gamarra,15.0,Zagueiro,23
+8633,23,Juventude,Amarelo,Jadson,16.0,Meio-campo,19
+8633,23,Athletico-PR,Amarelo,Bruno Zapelli,10.0,Meio-campo,90
+8633,23,Athletico-PR,Amarelo,Gabriel Girotto Franco,3.0,Meio-campo,74
+8633,23,Juventude,Amarelo,Alan Ruschel,28.0,Zagueiro,82
+8634,23,Botafogo-RJ,Amarelo,Alexander Barboza,20.0,Zagueiro,56
+8634,23,Botafogo-RJ,Amarelo,Cuiabano,66.0,Zagueiro,33
+8634,23,Flamengo,Amarelo,Ayrton Lucas Dantas de Medeiros,6.0,Zagueiro,63
+8634,23,Botafogo-RJ,Amarelo,Jefferson Savarino,10.0,Meio-campo,86
+8634,23,Botafogo-RJ,Amarelo,Mateo Ponte,4.0,Zagueiro,52
+8634,23,Flamengo,Amarelo,Carlinhos,22.0,Atacante,70
+8635,23,Vitoria,Vermelho,Neris,77.0,Zagueiro,38
+8635,23,Cruzeiro,Amarelo,Walace,20.0,Meio-campo,90+6
+8635,23,Cruzeiro,Amarelo,Matheus Pereira,10.0,Meio-campo,83
+8635,23,Vitoria,Amarelo,Léo Naldi,5.0,Meio-campo,78
+8635,23,Cruzeiro,Amarelo,Lucas Villalba,25.0,Zagueiro,90+2
+8636,24,Juventude,Vermelho,Zé Marcos,3.0,Zagueiro,90+6
+8636,24,Juventude,Amarelo,Zé Marcos,3.0,Zagueiro,19
+8636,24,Atletico-GO,Amarelo,Janderson,7.0,Meio-campo,54
+8636,24,Atletico-GO,Amarelo,Rhaldney,8.0,Meio-campo,9
+8636,24,Juventude,Amarelo,Danilo Boza,4.0,Zagueiro,64
+8636,24,Atletico-GO,Vermelho,Bruno Tubarão,2.0,Zagueiro,80
+8636,24,Juventude,Amarelo,Dudu Vieira,30.0,Meio-campo,5
+8636,24,Atletico-GO,Amarelo,Jorginho,18.0,Meio-campo,89
+8636,24,Atletico-GO,Amarelo,Bruno Tubarão,2.0,Zagueiro,45
+8636,24,Juventude,Amarelo,Luís Felipe Oyama,5.0,Meio-campo,90+9
+8636,24,Juventude,Amarelo,Nenê,10.0,Meio-campo,45+1
+8637,24,Palmeiras,Amarelo,Richard Ríos,27.0,Meio-campo,53
+8637,24,Cuiaba,Amarelo,Clayson,25.0,Meio-campo,84
+8638,24,Atletico-MG,Amarelo,Paulinho,10.0,Atacante,81
+8638,24,Atletico-MG,Amarelo,Rubens,44.0,Zagueiro,63
+8638,24,Atletico-MG,Amarelo,Bruno Fuchs,3.0,Zagueiro,23
+8638,24,Fluminense,Amarelo,Martinelli,8.0,Meio-campo,71
+8638,24,Atletico-MG,Amarelo,Guilherme Arana,13.0,Meio-campo,78
+8638,24,Atletico-MG,Amarelo,Lyanco,2.0,Zagueiro,42
+8638,24,Fluminense,Amarelo,Fábio Deivson Lopes Maciel,1.0,Goleiro,90+3
+8638,24,Fluminense,Amarelo,Paulo Henrique Ganso,10.0,Meio-campo,43
+8639,24,Bahia,Amarelo,Santiago Arias,13.0,Zagueiro,71
+8639,24,Bahia,Amarelo,Caio Alexandre,19.0,Meio-campo,35
+8639,24,Botafogo-RJ,Amarelo,Fernando Marçal,21.0,Zagueiro,84
+8639,24,Botafogo-RJ,Amarelo,Marlon Freitas,17.0,Meio-campo,35
+8639,24,Bahia,Amarelo,Marcos Felipe de Freitas Monteiro,22.0,Goleiro,41
+8639,24,Bahia,Amarelo,Jean Lucas Oliveira,6.0,Meio-campo,25
+8639,24,Botafogo-RJ,Amarelo,Lucas Halter,3.0,Zagueiro,54
+8639,24,Botafogo-RJ,Amarelo,Gregore,26.0,Meio-campo,32
+8641,24,Fortaleza,Amarelo,Tomás Cardona,25.0,Zagueiro,55
+8641,24,Corinthians,Amarelo,André Ramalho,5.0,Zagueiro,73
+8641,24,Corinthians,Amarelo,Gustavo Henrique Vernes,13.0,Zagueiro,42
+8641,24,Fortaleza,Amarelo,Renato Kayzer,79.0,Atacante,82
+8641,24,Fortaleza,Amarelo,Hércules,35.0,Meio-campo,35
+8641,24,Corinthians,Amarelo,Charles Rigon Matos,8.0,Meio-campo,70
+8640,24,Criciuma,Amarelo,Marcelo Hermes,22.0,Meio-campo,56
+8640,24,Gremio,Amarelo,Franco Cristaldo,10.0,Meio-campo,41
+8640,24,Criciuma,Amarelo,Higor Meritão,5.0,Meio-campo,19
+8642,24,Vitoria,Amarelo,Willian,29.0,Meio-campo,86
+8642,24,Vitoria,Amarelo,José Hugo,17.0,Atacante,87
+8643,24,Internacional,Amarelo,Anthoni,24.0,Goleiro,45+3
+8643,24,Cruzeiro,Amarelo,William de Asevedo Furtado,12.0,Zagueiro,62
+8643,24,Internacional,Amarelo,Sergio Rochet,1.0,Goleiro,75
+8643,24,Internacional,Amarelo,Wesley Ribeiro Silva,21.0,Meio-campo,17
+8643,24,Cruzeiro,Amarelo,Lucas Romero,29.0,Meio-campo,49
+8644,24,Flamengo,Amarelo,Bruno Henrique,27.0,Atacante,67
+8644,24,Bragantino,Amarelo,Jadsom,5.0,Meio-campo,30
+8645,24,Vasco,Amarelo,Mateus Carvalho,85.0,Meio-campo,48
+8645,24,Athletico-PR,Amarelo,Thiago Heleno,44.0,Zagueiro,15
+8645,24,Athletico-PR,Vermelho,Fernando Augusto Pereira Bueno Júnior,6.0,Zagueiro,90+7
+8645,24,Athletico-PR,Amarelo,João Cruz,57.0,Meio-campo,28
+8454,5,Cruzeiro,Amarelo,João Marcelo,43.0,Zagueiro,56
+8454,5,Internacional,Amarelo,Enner Valencia,13.0,Atacante,79
+8454,5,Internacional,Amarelo,Fernando Reges,5.0,Meio-campo,72
+8454,5,Internacional,Amarelo,Gabriel Mercado,25.0,Zagueiro,51
+8454,5,Internacional,Amarelo,Agustín Rogel,18.0,Zagueiro,11
+8454,5,Cruzeiro,Amarelo,Japa,77.0,Meio-campo,28
+8454,5,Internacional,Amarelo,Rafael Santos Borré,19.0,Atacante,79
+8454,5,Internacional,Amarelo,Bruno Tabata,17.0,Meio-campo,58
+8454,5,Internacional,Amarelo,Gabriel Carvalho,34.0,Meio-campo,13
+8454,5,Internacional,Vermelho,Agustín Rogel,18.0,Zagueiro,32
+8592,19,Criciuma,Amarelo,Walisson,33.0,Zagueiro,44
+8592,19,Bragantino,Amarelo,Jhon Jhon,6.0,Meio-campo,90+6
+8592,19,Bragantino,Amarelo,Eduardo Santos,3.0,Zagueiro,90+2
+8592,19,Bragantino,Amarelo,Jadsom,5.0,Meio-campo,33
+8592,19,Criciuma,Amarelo,Ronald,6.0,Meio-campo,45+2
+8592,19,Criciuma,Amarelo,Patrick de Paula,85.0,Meio-campo,40
+8592,19,Bragantino,Amarelo,Thiago Borbas,18.0,Atacante,90+6
+8592,19,Bragantino,Amarelo,Gustavinho,22.0,Meio-campo,81
+8646,25,Cuiaba,Amarelo,Walter Leandro Capeloza Artune,1.0,Goleiro,90+8
+8646,25,Cuiaba,Amarelo,Fernando Sobral,88.0,Meio-campo,71
+8646,25,Cuiaba,Amarelo,Lucas Mineiro,30.0,Meio-campo,90+8
+8646,25,Cuiaba,Amarelo,Isidro Pitta,9.0,Atacante,80
+8647,25,Botafogo-RJ,Amarelo,Bastos,15.0,Zagueiro,72
+8647,25,Fortaleza,Amarelo,Kervin Andrade,77.0,Atacante,90+4
+8647,25,Fortaleza,Amarelo,Emanuel Brítez,19.0,Zagueiro,49
+8647,25,Botafogo-RJ,Amarelo,Fernando Marçal,21.0,Zagueiro,90+1
+8647,25,Botafogo-RJ,Amarelo,Gregore,26.0,Meio-campo,44
+8647,25,Fortaleza,Amarelo,Pedro Augusto,28.0,Meio-campo,90
+8647,25,Fortaleza,Amarelo,Tomás Cardona,25.0,Zagueiro,40
+8649,25,Cruzeiro,Amarelo,Matheus Pereira,10.0,Atacante,63
+8649,25,Atletico-GO,Amarelo,Roni,15.0,Meio-campo,66
+8649,25,Atletico-GO,Amarelo,Luiz Felipe,4.0,Zagueiro,49
+8649,25,Cruzeiro,Amarelo,Cássio Ramos,1.0,Goleiro,82
+8649,25,Atletico-GO,Amarelo,Emiliano Rodríguez,19.0,Atacante,83
+8649,25,Atletico-GO,Amarelo,Gabriel Baralhas,8.0,Meio-campo,60
+8649,25,Atletico-GO,Amarelo,Gonzalo Freitas,5.0,Meio-campo,45+5
+8648,25,Gremio,Vermelho,Gustavo Martins,53.0,Zagueiro,20
+8648,25,Gremio,Amarelo,Agustín Marchesín,1.0,Goleiro,90+9
+8648,25,Atletico-MG,Amarelo,Brahian Palacios,30.0,Atacante,78
+8648,25,Atletico-MG,Amarelo,Bernard,20.0,Atacante,29
+8648,25,Gremio,Amarelo,Walter Kannemann,4.0,Zagueiro,71
+8648,25,Atletico-MG,Amarelo,Deyverson,9.0,Atacante,39
+8650,25,Corinthians,Vermelho,Yuri Alberto,9.0,Atacante,90+5
+8650,25,Corinthians,Amarelo,Félix Torres,3.0,Zagueiro,90+3
+8650,25,Corinthians,Amarelo,Charles Rigon Matos,8.0,Meio-campo,48
+8650,25,Corinthians,Amarelo,Talles Magno,43.0,Meio-campo,20
+8650,25,Flamengo,Amarelo,Allan,21.0,Meio-campo,65
+8650,25,Flamengo,Amarelo,Erick Pulgar,5.0,Meio-campo,7
+8650,25,Corinthians,Vermelho,Cacá,25.0,Zagueiro,90+11
+8650,25,Flamengo,Vermelho,Carlos Alcaraz,37.0,Meio-campo,90+11
+8650,25,Corinthians,Amarelo,Ángel Romero,11.0,Atacante,62
+8650,25,Corinthians,Amarelo,José Andrés Martínez,70.0,Meio-campo,29
+8650,25,Flamengo,Amarelo,Carlinhos,22.0,Atacante,90+11
+8650,25,Flamengo,Amarelo,Ayrton Lucas Dantas de Medeiros,6.0,Zagueiro,16
+8651,25,Bragantino,Amarelo,Jhon Jhon,6.0,Meio-campo,20
+8651,25,Bahia,Amarelo,Luciano Juba,46.0,Zagueiro,33
+8651,25,Bragantino,Amarelo,Lincoln Henrique Oliveira dos Santos,10.0,Meio-campo,29
+8651,25,Bahia,Amarelo,Kanu,4.0,Zagueiro,77
+8651,25,Bahia,Amarelo,Thaciano,16.0,Atacante,28
+8652,25,Fluminense,Amarelo,Thiago Emiliano da Silva,3.0,Zagueiro,86
+8652,25,Fluminense,Amarelo,Facundo Bernal,5.0,Meio-campo,58
+8652,25,Sao Paulo,Amarelo,Welington,6.0,Zagueiro,90+6
+8652,25,Sao Paulo,Amarelo,Jonathan Calleri,9.0,Atacante,38
+8652,25,Fluminense,Amarelo,Keno,11.0,Atacante,80
+8652,25,Fluminense,Amarelo,Thiago dos Santos,29.0,Zagueiro,50
+8652,25,Sao Paulo,Amarelo,Damián Bobadilla,21.0,Meio-campo,42
+8652,25,Sao Paulo,Amarelo,Rafinha,13.0,Zagueiro,32
+8653,25,Athletico-PR,Amarelo,Agustín Canobbio,14.0,Meio-campo,45+1
+8653,25,Palmeiras,Amarelo,Marcos Rocha,2.0,Zagueiro,48
+8653,25,Athletico-PR,Amarelo,Christian Roberto Alves Cardoso,88.0,Meio-campo,31
+8655,25,Vitoria,Amarelo,Everaldo,37.0,Atacante,90+9
+8655,25,Vitoria,Amarelo,Neris,77.0,Zagueiro,74
+8655,25,Vasco,Amarelo,Mateus Carvalho,85.0,Meio-campo,90+1
+8655,25,Vitoria,Amarelo,Lepu,97.0,Zagueiro,84
+8655,25,Vasco,Amarelo,Maicon Pereira Roque,4.0,Zagueiro,90+8
+8655,25,Vasco,Amarelo,João Victor,38.0,Zagueiro,84
+8654,25,Juventude,Vermelho,Rodrigo Sam,34.0,Zagueiro,45
+8654,25,Internacional,Amarelo,Wesley Ribeiro Silva,21.0,Meio-campo,68
+8654,25,Juventude,Amarelo,Lucas Barbosa,21.0,Meio-campo,76
+8654,25,Internacional,Amarelo,Thiago Maia,29.0,Meio-campo,4
+8564,16,Cuiaba,Amarelo,Denilson,27.0,Meio-campo,90+1
+8564,16,Cuiaba,Amarelo,Alan Empereur,33.0,Zagueiro,57
+8564,16,Cuiaba,Amarelo,Lucas Fernandes da Silva,18.0,Meio-campo,84
+8564,16,Juventude,Amarelo,Lucas Barbosa,21.0,Meio-campo,61
+8593,19,Internacional,Amarelo,Fernando Reges,5.0,Meio-campo,45+1
+8593,19,Fortaleza,Amarelo,Emanuel Brítez,19.0,Zagueiro,76
+8593,19,Fortaleza,Amarelo,Tinga,2.0,Zagueiro,42
+8593,19,Fortaleza,Vermelho,Emanuel Brítez,19.0,Zagueiro,85
+8593,19,Internacional,Amarelo,Rômulo Zwarg,40.0,Meio-campo,90+7
+8593,19,Fortaleza,Amarelo,Titi,4.0,Zagueiro,83
+8593,19,Fortaleza,Amarelo,Emmanuel Martínez,8.0,Meio-campo,69
+8593,19,Fortaleza,Amarelo,Yago Pikachu,22.0,Meio-campo,33
+8656,26,Atletico-GO,Amarelo,Rhaldney,5.0,Meio-campo,64
+8656,26,Atletico-GO,Amarelo,Luiz Fernando Moraes dos Santos,11.0,Meio-campo,11
+8656,26,Vitoria,Amarelo,Matheus Martins Fogaça de Paulo,30.0,Meio-campo,86
+8656,26,Vitoria,Amarelo,Gustavo Mosquito,7.0,Meio-campo,16
+8656,26,Vitoria,Amarelo,Alerrandro Barra Mansa Realino de Souza,9.0,Atacante,11
+8656,26,Atletico-GO,Amarelo,Joel Campbell,8.0,Meio-campo,54
+8656,26,Vitoria,Amarelo,Willian,29.0,Meio-campo,90+1
+8656,26,Vitoria,Amarelo,Lucas Arcanjo,1.0,Goleiro,53
+8656,26,Vitoria,Amarelo,Lucas Esteves,16.0,Zagueiro,12
+8657,26,Athletico-PR,Amarelo,João Cruz,57.0,Meio-campo,61
+8657,26,Fortaleza,Amarelo,Benjamín Kuscevic,13.0,Zagueiro,39
+8657,26,Athletico-PR,Amarelo,Agustín Canobbio,14.0,Meio-campo,90+1
+8657,26,Fortaleza,Amarelo,João Ricardo Riedi,1.0,Goleiro,85
+8658,26,Corinthians,Amarelo,Rodrigo Garro,10.0,Meio-campo,90+9
+8658,26,Corinthians,Amarelo,Matheus Bidu,21.0,Meio-campo,89
+8658,26,Botafogo-RJ,Amarelo,Marlon Freitas,17.0,Meio-campo,61
+8658,26,Corinthians,Amarelo,André Ramalho,5.0,Zagueiro,90+8
+8659,26,Bragantino,Amarelo,José Hurtado,34.0,Zagueiro,68
+8659,26,Bragantino,Amarelo,Eduardo Sasha,19.0,Atacante,34
+8659,26,Gremio,Amarelo,Jemerson de Jesus Nascimento,28.0,Zagueiro,77
+8659,26,Bragantino,Amarelo,Thiago Borbas,18.0,Atacante,77
+8659,26,Bragantino,Amarelo,Guilherme Lopes de Almeida,31.0,Zagueiro,66
+8659,26,Bragantino,Amarelo,Jadsom,5.0,Zagueiro,9
+8660,26,Criciuma,Amarelo,Walisson,33.0,Zagueiro,60
+8660,26,Palmeiras,Vermelho,Caio Paulista,16.0,Zagueiro,67
+8660,26,Criciuma,Amarelo,Tobias Figueiredo,29.0,Zagueiro,63
+8660,26,Criciuma,Amarelo,Dudu,20.0,Zagueiro,59
+8661,26,Juventude,Amarelo,Marcelo José de Lima Filho,11.0,Atacante,90+6
+8661,26,Juventude,Amarelo,Gilberto Oliveira Souza Junior,9.0,Atacante,65
+8661,26,Juventude,Amarelo,Jadson,16.0,Meio-campo,8
+8661,26,Fluminense,Amarelo,Thiago dos Santos,29.0,Zagueiro,62
+8661,26,Fluminense,Amarelo,Facundo Bernal,5.0,Meio-campo,33
+8661,26,Juventude,Amarelo,Luis Mandaca,44.0,Meio-campo,90+3
+8661,26,Juventude,Amarelo,Nenê,10.0,Meio-campo,17
+8661,26,Fluminense,Amarelo,Fábio Deivson Lopes Maciel,1.0,Goleiro,77
+8661,26,Fluminense,Amarelo,Marcelo Vieira da Silva Júnior,12.0,Zagueiro,53
+8663,26,Vasco,Amarelo,Lucas Piton,6.0,Zagueiro,45
+8664,26,Cruzeiro,Amarelo,Gabriel Veron,30.0,Atacante,74
+8664,26,Cruzeiro,Amarelo,Matheus Henrique de Souza,97.0,Meio-campo,43
+8664,26,Sao Paulo,Amarelo,André Silva,17.0,Atacante,90+4
+8664,26,Sao Paulo,Amarelo,Nahuel Ferraresi,32.0,Zagueiro,5
+8664,26,Cruzeiro,Amarelo,Lucas Romero,29.0,Meio-campo,45+7
+8664,26,Cruzeiro,Amarelo,Kaio Jorge,9.0,Atacante,19
+8664,26,Sao Paulo,Amarelo,Michel Araújo,15.0,Meio-campo,43
+8662,26,Atletico-MG,Amarelo,Deyverson,9.0,Atacante,90+1
+8662,26,Atletico-MG,Amarelo,Igor Gomes,17.0,Meio-campo,23
+8662,26,Bahia,Amarelo,Kanu,4.0,Zagueiro,80
+8662,26,Atletico-MG,Amarelo,Éverson,22.0,Goleiro,82
+8665,26,Cuiaba,Amarelo,Clayson,25.0,Meio-campo,13
+8665,26,Internacional,Amarelo,Gabriel Carvalho,34.0,Meio-campo,35
+8665,26,Cuiaba,Amarelo,Isidro Pitta,9.0,Atacante,13
+8667,27,Vitoria,Amarelo,Janderson,39.0,Atacante,45+10
+8667,27,Juventude,Amarelo,Lucas Barbosa,21.0,Meio-campo,58
+8667,27,Juventude,Amarelo,Gabriel Vasconcellos Ferreira,1.0,Goleiro,45+1
+8667,27,Vitoria,Amarelo,Matheus Martins Fogaça de Paulo,30.0,Meio-campo,50
+8667,27,Vitoria,Amarelo,Carlos Eduardo Ferreira de Souza,96.0,Meio-campo,39
+8667,27,Juventude,Amarelo,Jadson,16.0,Meio-campo,45+12
+8667,27,Juventude,Amarelo,Zé Marcos,3.0,Zagueiro,21
+8666,27,Corinthians,Amarelo,Igor Coronado,77.0,Meio-campo,49
+8666,27,Corinthians,Amarelo,José Andrés Martínez,70.0,Meio-campo,4
+8666,27,Atletico-GO,Amarelo,Alix Vinicius,3.0,Zagueiro,45+2
+8666,27,Atletico-GO,Amarelo,Gonzalo Freitas,5.0,Meio-campo,29
+8666,27,Corinthians,Amarelo,Breno Bidon,27.0,Meio-campo,34
+8666,27,Atletico-GO,Amarelo,Luiz Fernando Moraes dos Santos,11.0,Meio-campo,59
+8666,27,Atletico-GO,Amarelo,Joel Campbell,10.0,Meio-campo,32
+8668,27,Fluminense,Amarelo,Felipe Melo,30.0,Zagueiro,82
+8668,27,Botafogo-RJ,Amarelo,Danilo Neves,6.0,Meio-campo,90+4
+8669,27,Fortaleza,Vermelho,José Welison,17.0,Meio-campo,83
+8669,27,Fortaleza,Amarelo,Juan Martín Lucero,197.0,Atacante,41
+8669,27,Bahia,Amarelo,Jean Lucas Oliveira,6.0,Meio-campo,20
+8669,27,Fortaleza,Amarelo,Matheus Rossetto,16.0,Meio-campo,18
+8670,27,Atletico-MG,Amarelo,Éverson,22.0,Goleiro,84
+8670,27,Bragantino,Amarelo,Eduardo Santos,3.0,Zagueiro,82
+8670,27,Bragantino,Amarelo,Matheus Fernandes,35.0,Meio-campo,85
+8670,27,Bragantino,Amarelo,Arthur Sousa,27.0,Atacante,70
+8670,27,Atletico-MG,Amarelo,Lyanco,2.0,Zagueiro,90+2
+8671,27,Vasco,Amarelo,Pablo Vegetti,99.0,Atacante,68
+8671,27,Palmeiras,Amarelo,José Rafael Vivian,8.0,Meio-campo,90+6
+8671,27,Palmeiras,Amarelo,Weverton Pereira da Silva,21.0,Goleiro,90+7
+8671,27,Palmeiras,Amarelo,Richard Ríos,27.0,Meio-campo,75
+8673,27,Cruzeiro,Vermelho,João Marcelo,43.0,Zagueiro,82
+8673,27,Cruzeiro,Amarelo,Fabrizio Peralta,33.0,Meio-campo,30
+8674,27,Sao Paulo,Amarelo,Rodrigo Nestor,11.0,Meio-campo,90
+8674,27,Sao Paulo,Amarelo,William Gomes,39.0,Atacante,80
+8674,27,Sao Paulo,Amarelo,André Silva,17.0,Atacante,45+6
+8674,27,Sao Paulo,Amarelo,Jonathan Calleri,9.0,Atacante,84
+8674,27,Sao Paulo,Amarelo,Erick,33.0,Meio-campo,59
+8674,27,Internacional,Amarelo,Wesley Ribeiro Silva,21.0,Meio-campo,45+3
+8672,27,Gremio,Amarelo,João Pedro Maturano dos Santos,18.0,Zagueiro,80
+8672,27,Flamengo,Vermelho,Carlinhos,22.0,Atacante,58
+8675,27,Criciuma,Amarelo,Tobias Figueiredo,29.0,Zagueiro,85
+8675,27,Athletico-PR,Amarelo,Felipinho,23.0,Zagueiro,90+3
+8675,27,Criciuma,Amarelo,Yannick Bolasie,11.0,Atacante,9
+8675,27,Athletico-PR,Amarelo,Gabriel Girotto Franco,3.0,Meio-campo,73
+8455,5,Gremio,Amarelo,Miguel Monsalve,11.0,Meio-campo,17
+8455,5,Criciuma,Amarelo,Walisson,33.0,Zagueiro,85
+8455,5,Criciuma,Amarelo,Fellipe Mateus,7.0,Meio-campo,56
+8455,5,Gremio,Amarelo,Diego Costa,19.0,Atacante,85
+8455,5,Criciuma,Amarelo,Ronald,6.0,Meio-campo,90+7
+8455,5,Criciuma,Amarelo,Matheus Leonardo Sales Cardoso,17.0,Meio-campo,72
+8455,5,Criciuma,Amarelo,Newton,8.0,Meio-campo,53
+8565,16,Bragantino,Amarelo,Luan Cândido,36.0,Zagueiro,87
+8565,16,Bragantino,Amarelo,Sergio Palacios,13.0,Zagueiro,72
+8565,16,Internacional,Amarelo,Rafael Santos Borré,19.0,Atacante,68
+8565,16,Bragantino,Amarelo,Vinicinho,54.0,Atacante,72
+8565,16,Internacional,Amarelo,Vitão,44.0,Zagueiro,79
+8676,28,Palmeiras,Amarelo,Murilo Cerqueira,26.0,Zagueiro,45+6
+8676,28,Atletico-MG,Amarelo,Igor Gomes,17.0,Meio-campo,45
+8676,28,Palmeiras,Amarelo,Fabinho,35.0,Meio-campo,25
+8676,28,Atletico-MG,Amarelo,Rubens,44.0,Meio-campo,26
+8677,28,Botafogo-RJ,Amarelo,Marlon Freitas,17.0,Meio-campo,90+10
+8677,28,Botafogo-RJ,Amarelo,Luiz Henrique,7.0,Meio-campo,87
+8677,28,Gremio,Amarelo,Agustín Marchesín,1.0,Goleiro,87
+8677,28,Gremio,Amarelo,Mathías Villasanti,20.0,Meio-campo,66
+8677,28,Gremio,Vermelho,Miguel Monsalve,11.0,Meio-campo,89
+8677,28,Botafogo-RJ,Amarelo,Ígor Jesus,99.0,Atacante,90+5
+8677,28,Botafogo-RJ,Amarelo,Bastos,15.0,Zagueiro,12
+8677,28,Gremio,Amarelo,Walter Kannemann,4.0,Zagueiro,83
+8678,28,Bragantino,Amarelo,Fabrício,37.0,Goleiro,90+2
+8678,28,Bragantino,Amarelo,Douglas Mendes,39.0,Zagueiro,79
+8678,28,Bragantino,Amarelo,Eduardo Sasha,19.0,Atacante,50
+8678,28,Juventude,Amarelo,Luís Felipe Oyama,5.0,Meio-campo,21
+8678,28,Bragantino,Amarelo,Cleiton Schwengber,1.0,Goleiro,89
+8678,28,Bragantino,Amarelo,Matheus Fernandes,35.0,Meio-campo,56
+8678,28,Bragantino,Amarelo,Jhon Jhon,6.0,Meio-campo,23
+8681,28,Fluminense,Vermelho,Germán Cano,14.0,Atacante,90+10
+8681,28,Fluminense,Amarelo,Diogo Barbosa,6.0,Zagueiro,45+3
+8681,28,Atletico-GO,Amarelo,Ronaldo,1.0,Goleiro,90+7
+8681,28,Fluminense,Amarelo,Keno,11.0,Meio-campo,31
+8680,28,Fortaleza,Amarelo,Mário Sérgio Santos Costa,11.0,Meio-campo,55
+8680,28,Cuiaba,Amarelo,Denilson,27.0,Meio-campo,62
+8680,28,Cuiaba,Amarelo,Fernando Sobral,88.0,Meio-campo,16
+8680,28,Fortaleza,Amarelo,Emanuel Brítez,19.0,Zagueiro,71
+8680,28,Cuiaba,Amarelo,Alan Empereur,33.0,Zagueiro,87
+8680,28,Cuiaba,Amarelo,Isidro Pitta,9.0,Atacante,45+6
+8679,28,Corinthians,Vermelho,André Ramalho,5.0,Zagueiro,63
+8679,28,Sao Paulo,Amarelo,Erick,33.0,Atacante,90+7
+8679,28,Sao Paulo,Amarelo,Nahuel Ferraresi,32.0,Zagueiro,88
+8679,28,Sao Paulo,Amarelo,Rafinha,13.0,Zagueiro,52
+8679,28,Corinthians,Amarelo,Pedro Henrique Konzen,16.0,Atacante,85
+8679,28,Corinthians,Amarelo,Igor Coronado,77.0,Meio-campo,48
+8679,28,Corinthians,Amarelo,Fagner,23.0,Zagueiro,28
+8679,28,Corinthians,Vermelho,Fagner,23.0,Zagueiro,45+5
+8679,28,Sao Paulo,Amarelo,Jonathan Calleri,9.0,Atacante,90+5
+8679,28,Sao Paulo,Amarelo,Alan Franco,28.0,Zagueiro,69
+8679,28,Sao Paulo,Amarelo,Luciano da Rocha Neves,10.0,Meio-campo,38
+8679,28,Corinthians,Amarelo,Charles Rigon Matos,8.0,Meio-campo,63
+8679,28,Corinthians,Amarelo,Ángel Romero,11.0,Atacante,45+11
+8682,28,Vasco,Amarelo,Emerson Rodríguez,17.0,Meio-campo,83
+8682,28,Vasco,Amarelo,João Victor,38.0,Zagueiro,65
+8682,28,Vasco,Vermelho,Mateus Carvalho,85.0,Meio-campo,78
+8682,28,Vasco,Amarelo,Leonardo Pinheiro,3.0,Zagueiro,71
+8683,28,Internacional,Amarelo,Enner Valencia,13.0,Atacante,67
+8683,28,Vitoria,Amarelo,Machado,36.0,Meio-campo,36
+8683,28,Internacional,Amarelo,Fernando Reges,5.0,Meio-campo,71
+8683,28,Internacional,Amarelo,Thiago Maia,29.0,Meio-campo,54
+8684,28,Criciuma,Amarelo,Arthur Caike do Nascimento Cruz,45.0,Atacante,88
+8684,28,Bahia,Amarelo,Éverton Ribeiro,10.0,Meio-campo,81
+8684,28,Criciuma,Amarelo,Allano,2.0,Atacante,52
+8685,28,Flamengo,Amarelo,David Luiz,23.0,Zagueiro,36
+8685,28,Athletico-PR,Amarelo,Christian Roberto Alves Cardoso,88.0,Meio-campo,80
+8685,28,Flamengo,Amarelo,Gabriel Barbosa,99.0,Atacante,26
+8685,28,Athletico-PR,Amarelo,Mateo Gamarra,15.0,Zagueiro,26
+8686,29,Criciuma,Amarelo,Allano,2.0,Meio-campo,87
+8686,29,Atletico-GO,Amarelo,Alix Vinicius,3.0,Zagueiro,77
+8686,29,Atletico-GO,Amarelo,Pedro Rangel,1.0,Goleiro,30
+8686,29,Atletico-GO,Amarelo,Luiz Fernando Moraes dos Santos,18.0,Atacante,90
+8686,29,Atletico-GO,Amarelo,Alejo Cruz,6.0,Zagueiro,71
+8687,29,Fluminense,Amarelo,Thiago dos Santos,29.0,Zagueiro,90+2
+8687,29,Fluminense,Amarelo,Marcelo Vieira da Silva Júnior,12.0,Zagueiro,81
+8687,29,Fluminense,Amarelo,Jhon Arias,21.0,Meio-campo,63
+8687,29,Fluminense,Amarelo,Victor Hugo,20.0,Meio-campo,25
+8687,29,Cruzeiro,Amarelo,Walace,20.0,Meio-campo,67
+8687,29,Fluminense,Amarelo,Manoel Messias Silva Carvalho,26.0,Zagueiro,90+2
+8687,29,Fluminense,Amarelo,Gabriel Fuentes,31.0,Zagueiro,90
+8687,29,Fluminense,Amarelo,Kauã Elias,19.0,Atacante,66
+8687,29,Fluminense,Amarelo,Keno,11.0,Meio-campo,44
+8687,29,Cruzeiro,Amarelo,Álvaro Barreal,21.0,Meio-campo,82
+8687,29,Cruzeiro,Amarelo,Matheus Henrique de Souza,97.0,Meio-campo,45+3
+8688,29,Gremio,Vermelho,Fabio Pereira da Silva,2.0,Zagueiro,90
+8688,29,Gremio,Amarelo,Douglas Moreira,17.0,Meio-campo,88
+8688,29,Fortaleza,Amarelo,Benjamín Kuscevic,13.0,Zagueiro,90+4
+8688,29,Fortaleza,Amarelo,Eros Mancuso,33.0,Zagueiro,35
+8688,29,Fortaleza,Vermelho,Eros Mancuso,33.0,Zagueiro,80
+8688,29,Gremio,Amarelo,João Pedro Maturano dos Santos,18.0,Zagueiro,86
+8688,29,Fortaleza,Amarelo,Juan Martín Lucero,9.0,Atacante,69
+8690,29,Atletico-MG,Vermelho,Éverson,22.0,Goleiro,83
+8690,29,Atletico-MG,Amarelo,Bruno Fuchs,3.0,Zagueiro,26
+8691,29,Palmeiras,Vermelho,Gabriel Menino,25.0,Meio-campo,90+13
+8691,29,Bragantino,Amarelo,Cleiton Schwengber,1.0,Goleiro,90+8
+8691,29,Bragantino,Amarelo,Ivan Cavaleiro,9.0,Atacante,65
+8691,29,Palmeiras,Amarelo,Gabriel Menino,25.0,Meio-campo,90+10
+8691,29,Palmeiras,Amarelo,Agustín Giay,4.0,Zagueiro,27
+8691,29,Bragantino,Vermelho,Lucas Ferrugem,4.0,Zagueiro,90+13
+8691,29,Bragantino,Amarelo,Eduardo Sasha,19.0,Atacante,90+5
+8691,29,Bragantino,Amarelo,Jadsom,5.0,Meio-campo,45+3
+8691,29,Palmeiras,Amarelo,Richard Ríos,27.0,Meio-campo,41
+8689,29,Athletico-PR,Amarelo,Madson,22.0,Zagueiro,75
+8689,29,Botafogo-RJ,Amarelo,Tiquinho Soares,9.0,Atacante,90
+8689,29,Botafogo-RJ,Amarelo,Gregore,26.0,Meio-campo,43
+8689,29,Athletico-PR,Amarelo,Kaique Rocha,4.0,Zagueiro,76
+8689,29,Botafogo-RJ,Amarelo,Matheus Martins,37.0,Atacante,90+3
+8689,29,Botafogo-RJ,Amarelo,Danilo Barbosa da Silva,5.0,Meio-campo,84
+8693,29,Cuiaba,Amarelo,Matheus Alexandre Anastácio de Souza,2.0,Zagueiro,78
+8693,29,Sao Paulo,Amarelo,Robert Arboleda,5.0,Zagueiro,38
+8693,29,Cuiaba,Amarelo,Lucas Fernandes da Silva,18.0,Meio-campo,19
+8693,29,Sao Paulo,Amarelo,André Silva,17.0,Atacante,21
+8692,29,Bahia,Amarelo,Kanu,4.0,Zagueiro,88
+8692,29,Bahia,Amarelo,Neuciano Gusmão,40.0,Zagueiro,70
+8692,29,Flamengo,Amarelo,Allan,29.0,Meio-campo,90
+8692,29,Flamengo,Amarelo,Bruno Henrique,27.0,Meio-campo,67
+8692,29,Bahia,Vermelho,Santiago Arias,13.0,Zagueiro,90+11
+8692,29,Bahia,Amarelo,Ademir,7.0,Atacante,90+8
+8692,29,Bahia,Amarelo,Caio Alexandre,19.0,Meio-campo,73
+8692,29,Bahia,Amarelo,Everaldo Stum,9.0,Atacante,60
+8692,29,Flamengo,Amarelo,Léo Pereira,4.0,Zagueiro,73
+8692,29,Flamengo,Amarelo,Giorgian De Arrascaeta,14.0,Meio-campo,45+2
+8694,29,Corinthians,Amarelo,Yuri Alberto,9.0,Atacante,74
+8694,29,Corinthians,Amarelo,Cacá,25.0,Zagueiro,62
+8694,29,Corinthians,Amarelo,Matheus Bidu,21.0,Zagueiro,45+1
+8694,29,Internacional,Amarelo,Ricardo Mathias,49.0,Atacante,90+5
+8694,29,Internacional,Amarelo,Clayton Sampaio,20.0,Zagueiro,53
+8694,29,Corinthians,Amarelo,Memphis Depay,94.0,Atacante,73
+8694,29,Corinthians,Amarelo,Breno Bidon,27.0,Meio-campo,54
+8694,29,Corinthians,Amarelo,André Carrillo,19.0,Meio-campo,44
+8694,29,Internacional,Amarelo,Alexandro Bernabei,26.0,Zagueiro,69
+8694,29,Internacional,Amarelo,Thiago Maia,29.0,Meio-campo,41
+8695,29,Vasco,Vermelho,Josef de Souza Dias,5.0,Meio-campo,87
+8695,29,Vasco,Amarelo,Maxime Dominguez,26.0,Meio-campo,30
+8695,29,Juventude,Amarelo,Lucas Freitas,43.0,Zagueiro,45+4
+8695,29,Juventude,Amarelo,Zé Marcos,3.0,Zagueiro,76
+8695,29,Juventude,Amarelo,Gilberto Oliveira Souza Junior,9.0,Atacante,45+3
+8465,6,Atletico-MG,Amarelo,Fausto Vera,18.0,Meio-campo,55
+8465,6,Atletico-MG,Amarelo,Lyanco,2.0,Zagueiro,18
+8465,6,Gremio,Amarelo,Agustín Marchesín,1.0,Goleiro,35
+8465,6,Atletico-MG,Amarelo,Hulk,7.0,Atacante,90
+8465,6,Atletico-MG,Amarelo,Deyverson,9.0,Atacante,54
+8465,6,Gremio,Amarelo,Reinaldo Manoel da Silva,6.0,Zagueiro,54
+8465,6,Gremio,Amarelo,Jemerson de Jesus Nascimento,28.0,Zagueiro,33
+8696,30,Sao Paulo,Amarelo,Welington,6.0,Zagueiro,65
+8697,30,Fortaleza,Vermelho,Mário Sérgio Santos Costa,11.0,Meio-campo,59
+8697,30,Fortaleza,Amarelo,Bruno Pacheco,6.0,Zagueiro,53
+8697,30,Atletico-MG,Amarelo,Paulo Vitor,27.0,Meio-campo,82
+8697,30,Fortaleza,Vermelho,Tinga,2.0,Zagueiro,83
+8697,30,Fortaleza,Amarelo,Breno Lopes,26.0,Atacante,90+14
+8697,30,Atletico-MG,Amarelo,Caio Maia,39.0,Atacante,88
+8697,30,Atletico-MG,Amarelo,Brahian Palacios,30.0,Meio-campo,60
+8699,30,Fluminense,Amarelo,Paulo Henrique Ganso,10.0,Meio-campo,71
+8699,30,Fluminense,Amarelo,Samuel Xavier,2.0,Zagueiro,45
+8699,30,Flamengo,Amarelo,Bruno Henrique,27.0,Meio-campo,23
+8699,30,Fluminense,Amarelo,Martinelli,8.0,Meio-campo,62
+8698,30,Corinthians,Amarelo,Cacá,25.0,Zagueiro,90+2
+8698,30,Corinthians,Amarelo,José Andrés Martínez,70.0,Meio-campo,45+3
+8698,30,Athletico-PR,Amarelo,Lucas Belezi,45.0,Zagueiro,54
+8698,30,Athletico-PR,Amarelo,Thiago Heleno,44.0,Zagueiro,25
+8698,30,Corinthians,Amarelo,Yuri Alberto,9.0,Atacante,59
+8698,30,Corinthians,Amarelo,Memphis Depay,94.0,Atacante,25
+8698,30,Athletico-PR,Amarelo,Julimar,20.0,Atacante,44
+8700,30,Atletico-GO,Amarelo,Matías Lacava,10.0,Atacante,45+2
+8700,30,Cuiaba,Amarelo,Lucas Mineiro,30.0,Meio-campo,69
+8700,30,Atletico-GO,Amarelo,Gabriel Baralhas,8.0,Meio-campo,58
+8700,30,Cuiaba,Amarelo,Max Alves,10.0,Meio-campo,71
+8700,30,Cuiaba,Amarelo,Raylan,21.0,Meio-campo,35
+8701,30,Botafogo-RJ,Amarelo,Alexander Barboza,20.0,Zagueiro,90+13
+8701,30,Criciuma,Amarelo,Allano,2.0,Meio-campo,56
+8701,30,Criciuma,Amarelo,Felipe Vizeu,9.0,Atacante,90+5
+8702,30,Bahia,Amarelo,Luciano Juba,46.0,Zagueiro,59
+8702,30,Cruzeiro,Amarelo,Matheus Pereira,10.0,Meio-campo,74
+8702,30,Bahia,Amarelo,Éverton Ribeiro,10.0,Meio-campo,43
+8703,30,Internacional,Amarelo,Alexandro Bernabei,26.0,Zagueiro,44
+8703,30,Gremio,Amarelo,Rodrigo Ely,5.0,Zagueiro,70
+8703,30,Gremio,Amarelo,Diego Costa,19.0,Atacante,73
+8703,30,Gremio,Amarelo,Douglas Moreira,17.0,Meio-campo,38
+8704,30,Vitoria,Amarelo,Neris,77.0,Zagueiro,48
+8704,30,Bragantino,Amarelo,Jadsom,5.0,Meio-campo,41
+8704,30,Vitoria,Amarelo,Wagner Leonardo,4.0,Zagueiro,30
+8705,30,Juventude,Amarelo,Jadson,16.0,Meio-campo,79
+8705,30,Palmeiras,Amarelo,Richard Ríos,27.0,Meio-campo,73
+8705,30,Palmeiras,Amarelo,Aníbal Moreno,5.0,Meio-campo,52
+8705,30,Palmeiras,Amarelo,Mayke,12.0,Zagueiro,74
+8705,30,Palmeiras,Amarelo,Gustavo Gómez,15.0,Zagueiro,72
+8705,30,Palmeiras,Amarelo,Marcos Rocha,2.0,Zagueiro,30
+8705,30,Juventude,Amarelo,Jean Carlos,20.0,Meio-campo,90+4
+8574,17,Fluminense,Amarelo,Facundo Bernal,5.0,Meio-campo,90+6
+8574,17,Fluminense,Amarelo,Samuel Xavier,2.0,Zagueiro,14
+8574,17,Athletico-PR,Amarelo,Nikão,11.0,Meio-campo,27
+8574,17,Athletico-PR,Amarelo,Kaique Rocha,4.0,Zagueiro,7
+8574,17,Fluminense,Amarelo,Jhon Arias,21.0,Meio-campo,54
+8574,17,Athletico-PR,Amarelo,Mycael,41.0,Goleiro,71
+8574,17,Athletico-PR,Amarelo,Fernando Augusto Pereira Bueno Júnior,6.0,Meio-campo,16
+8594,19,Vasco,Amarelo,Pablo Vegetti,99.0,Atacante,90+1
+8594,19,Cuiaba,Amarelo,Derik Lacerda,22.0,Atacante,90
+8594,19,Vasco,Amarelo,Hugo Moura,25.0,Meio-campo,57
+8706,31,Palmeiras,Amarelo,Mayke,12.0,Zagueiro,18
+8706,31,Fortaleza,Amarelo,Pedro Augusto,28.0,Meio-campo,90+3
+8706,31,Fortaleza,Amarelo,Titi,4.0,Zagueiro,72
+8706,31,Fortaleza,Amarelo,Emanuel Brítez,19.0,Zagueiro,90+7
+8706,31,Fortaleza,Amarelo,Juan Martín Lucero,9.0,Atacante,75
+8706,31,Fortaleza,Amarelo,Eros Mancuso,33.0,Meio-campo,24
+8707,31,Flamengo,Amarelo,Léo Pereira,4.0,Zagueiro,90+7
+8707,31,Flamengo,Amarelo,Giorgian De Arrascaeta,14.0,Meio-campo,90+1
+8707,31,Juventude,Amarelo,Nenê,10.0,Meio-campo,75
+8707,31,Juventude,Amarelo,Edson Carioca,17.0,Meio-campo,45+5
+8707,31,Juventude,Vermelho,Nenê,10.0,Meio-campo,75
+8707,31,Flamengo,Amarelo,Carlos Alcaraz,37.0,Meio-campo,90+3
+8707,31,Juventude,Amarelo,Davi Goes,88.0,Meio-campo,87
+8707,31,Juventude,Amarelo,João Lucas,2.0,Zagueiro,51
+8709,31,Vitoria,Amarelo,Alerrandro Barra Mansa Realino de Souza,9.0,Atacante,90+3
+8709,31,Vitoria,Amarelo,Raúl Cáceres,27.0,Zagueiro,74
+8709,31,Fluminense,Amarelo,Lima,45.0,Meio-campo,89
+8709,31,Vitoria,Amarelo,Léo Naldi,5.0,Meio-campo,86
+8709,31,Vitoria,Amarelo,Gustavo Mosquito,7.0,Meio-campo,36
+8709,31,Fluminense,Amarelo,Thiago dos Santos,29.0,Zagueiro,26
+8708,31,Gremio,Amarelo,Jemerson de Jesus Nascimento,28.0,Zagueiro,18
+8708,31,Atletico-GO,Amarelo,Luiz Felipe,4.0,Zagueiro,66
+8708,31,Atletico-GO,Amarelo,Adriano Martins,3.0,Zagueiro,30
+8708,31,Gremio,Amarelo,Martin Braithwaite,22.0,Atacante,45+1
+8708,31,Atletico-GO,Amarelo,Janderson,17.0,Atacante,83
+8708,31,Atletico-GO,Amarelo,Derek,9.0,Atacante,34
+8708,31,Atletico-GO,Amarelo,Luiz Fernando Moraes dos Santos,10.0,Meio-campo,22
+8710,31,Cruzeiro,Vermelho,Rafael da Silva,8.0,Atacante,1
+8710,31,Cruzeiro,Amarelo,William de Asevedo Furtado,12.0,Zagueiro,90+1
+8710,31,Cruzeiro,Amarelo,Fabrizio Peralta,33.0,Meio-campo,23
+8710,31,Cruzeiro,Amarelo,Ivaldo,5.0,Zagueiro,50
+8711,31,Botafogo-RJ,Amarelo,Bastos,15.0,Zagueiro,90+4
+8711,31,Bragantino,Amarelo,Jadsom,5.0,Zagueiro,58
+8712,31,Atletico-MG,Amarelo,Alisson Santana,45.0,Meio-campo,69
+8712,31,Atletico-MG,Amarelo,Igor Gomes,17.0,Meio-campo,17
+8712,31,Internacional,Amarelo,Wesley Ribeiro Silva,21.0,Meio-campo,20
+8712,31,Atletico-MG,Vermelho,Gustavo Scarpa,6.0,Meio-campo,71
+8712,31,Atletico-MG,Amarelo,Mariano,25.0,Zagueiro,71
+8712,31,Atletico-MG,Amarelo,Gustavo Scarpa,6.0,Meio-campo,67
+8712,31,Atletico-MG,Amarelo,Eduardo Vargas,11.0,Meio-campo,13
+8712,31,Internacional,Amarelo,Thiago Maia,29.0,Meio-campo,5
+8713,31,Criciuma,Amarelo,Jonathan Francisco Lemos,13.0,Zagueiro,89
+8713,31,Criciuma,Amarelo,Newton,8.0,Meio-campo,40
+8714,31,Cuiaba,Amarelo,Marllon Borges,4.0,Zagueiro,83
+8714,31,Cuiaba,Amarelo,Filipe Augusto Carvalho Souza,5.0,Meio-campo,55
+8714,31,Cuiaba,Amarelo,Clayson,25.0,Meio-campo,45+3
+8714,31,Corinthians,Amarelo,Igor Coronado,77.0,Meio-campo,45+4
+8714,31,Cuiaba,Amarelo,Fernando Sobral,88.0,Meio-campo,64
+8714,31,Cuiaba,Amarelo,Ramon Ramos Lima,23.0,Zagueiro,48
+8714,31,Corinthians,Amarelo,Raniele,14.0,Meio-campo,69
+8715,31,Vasco,Amarelo,Maicon Pereira Roque,4.0,Zagueiro,53
+8715,31,Bahia,Amarelo,Thaciano,16.0,Atacante,51
+8715,31,Vasco,Amarelo,Dimitri Payet,10.0,Meio-campo,84
+8715,31,Vasco,Amarelo,Pablo Galdames Millán,27.0,Meio-campo,40
+8715,31,Bahia,Amarelo,Gabriel Xavier,3.0,Zagueiro,24
+8575,17,Flamengo,Amarelo,Gerson Santos da Silva,8.0,Meio-campo,58
+8575,17,Flamengo,Amarelo,Erick Pulgar,5.0,Meio-campo,40
+8575,17,Flamengo,Amarelo,Guillermo Varela,2.0,Zagueiro,4
+8575,17,Internacional,Amarelo,Agustín Rogel,18.0,Zagueiro,31
+8575,17,Flamengo,Amarelo,Fabrício Bruno,15.0,Zagueiro,51
+8716,32,Fluminense,Vermelho,Felipe Melo,30.0,Zagueiro,90+10
+8716,32,Fluminense,Amarelo,Thiago dos Santos,29.0,Zagueiro,90+8
+8716,32,Fluminense,Amarelo,Fábio Deivson Lopes Maciel,1.0,Goleiro,90+5
+8716,32,Fluminense,Amarelo,Paulo Henrique Ganso,10.0,Meio-campo,45+4
+8716,32,Gremio,Amarelo,Mathías Villasanti,20.0,Meio-campo,88
+8716,32,Gremio,Amarelo,Martin Braithwaite,22.0,Atacante,36
+8716,32,Fluminense,Amarelo,Jhon Arias,21.0,Meio-campo,90+7
+8716,32,Fluminense,Amarelo,Kauã Elias,19.0,Atacante,78
+8716,32,Fluminense,Amarelo,Martinelli,8.0,Meio-campo,45+3
+8716,32,Gremio,Amarelo,Reinaldo Manoel da Silva,6.0,Zagueiro,45
+8716,32,Gremio,Amarelo,Yeferson Soteldo,7.0,Meio-campo,31
+8717,32,Bragantino,Amarelo,Matheus Fernandes,35.0,Meio-campo,18
+8717,32,Cuiaba,Amarelo,Walter Leandro Capeloza Artune,1.0,Goleiro,68
+8717,32,Cuiaba,Amarelo,Fernando Sobral,88.0,Meio-campo,86
+8717,32,Cuiaba,Amarelo,Derik Lacerda,22.0,Meio-campo,57
+8719,32,Vitoria,Amarelo,Lucas Esteves,16.0,Zagueiro,68
+8719,32,Vitoria,Amarelo,Lucas Arcanjo,1.0,Goleiro,55
+8719,32,Athletico-PR,Amarelo,Tomás Cuello,28.0,Meio-campo,68
+8719,32,Vitoria,Amarelo,Machado,36.0,Meio-campo,66
+8719,32,Vitoria,Amarelo,Willian,29.0,Meio-campo,52
+8718,32,Juventude,Amarelo,Ronaldo da Silva Souza,96.0,Meio-campo,70
+8718,32,Juventude,Amarelo,Edson Carioca,17.0,Meio-campo,45+1
+8718,32,Fortaleza,Amarelo,Emanuel Brítez,19.0,Zagueiro,14
+8718,32,Juventude,Amarelo,Zé Marcos,3.0,Zagueiro,67
+8718,32,Fortaleza,Amarelo,Bruno Pacheco,6.0,Zagueiro,80
+8720,32,Corinthians,Amarelo,Matheuzinho,2.0,Meio-campo,60
+8720,32,Palmeiras,Amarelo,Marcos Rocha,2.0,Zagueiro,90+1
+8720,32,Palmeiras,Amarelo,Aníbal Moreno,5.0,Meio-campo,67
+8720,32,Corinthians,Amarelo,Hugo,46.0,Meio-campo,37
+8720,32,Palmeiras,Amarelo,Gabriel Menino,25.0,Meio-campo,81
+8723,32,Vasco,Vermelho,João Victor,38.0,Zagueiro,43
+8723,32,Vasco,Amarelo,João Victor,38.0,Zagueiro,38
+8723,32,Vasco,Amarelo,Paulo,96.0,Zagueiro,76
+8722,32,Internacional,Amarelo,Wesley Ribeiro Silva,21.0,Meio-campo,82
+8722,32,Criciuma,Amarelo,Jonathan Francisco Lemos,13.0,Zagueiro,45+2
+8722,32,Criciuma,Vermelho,Felipe Vizeu,9.0,Atacante,45+5
+8722,32,Criciuma,Amarelo,Newton,8.0,Meio-campo,83
+8721,32,Bahia,Amarelo,Kanu,4.0,Zagueiro,61
+8721,32,Sao Paulo,Amarelo,Sabino,35.0,Zagueiro,55
+8721,32,Bahia,Amarelo,Gabriel Xavier,3.0,Zagueiro,81
+8721,32,Bahia,Amarelo,Jean Lucas Oliveira,6.0,Meio-campo,51
+8721,32,Sao Paulo,Amarelo,Marcos Antônio,20.0,Meio-campo,36
+8725,32,Atletico-GO,Amarelo,Magno Jose da Silva,2.0,Zagueiro,7
+8725,32,Atletico-MG,Amarelo,Paulo Vitor,27.0,Meio-campo,4
+8725,32,Atletico-GO,Amarelo,Gonzalo Freitas,5.0,Meio-campo,45
+8725,32,Atletico-MG,Amarelo,Otávio Henrique Passos Santos,5.0,Meio-campo,65
+8724,32,Cruzeiro,Amarelo,Marlon Rodrigues Xavier,3.0,Zagueiro,51
+8724,32,Flamengo,Amarelo,Alex Sandro Lobo Silva,26.0,Zagueiro,86
+8724,32,Flamengo,Amarelo,Evertton Araújo,52.0,Meio-campo,69
+8724,32,Flamengo,Amarelo,Gonzalo Plata,45.0,Meio-campo,24
+8724,32,Flamengo,Vermelho,Allan,29.0,Meio-campo,90+4
+8724,32,Cruzeiro,Amarelo,Lucas Villalba,25.0,Zagueiro,73
+8724,32,Flamengo,Amarelo,Agustín Rossi,1.0,Goleiro,87
+8724,32,Flamengo,Amarelo,Allan,29.0,Meio-campo,80
+8724,32,Flamengo,Amarelo,David Luiz,23.0,Zagueiro,62
+8726,33,Internacional,Amarelo,Vitão,44.0,Zagueiro,81
+8726,33,Fluminense,Amarelo,Facundo Bernal,5.0,Meio-campo,47
+8726,33,Internacional,Amarelo,Bruno Gomes,15.0,Zagueiro,90+1
+8726,33,Internacional,Amarelo,Alexandro Bernabei,26.0,Zagueiro,63
+8727,33,Palmeiras,Amarelo,Richard Ríos,27.0,Meio-campo,86
+8727,33,Palmeiras,Amarelo,Gustavo Gómez,15.0,Zagueiro,32
+8727,33,Gremio,Amarelo,Miguel Monsalve,11.0,Meio-campo,90+3
+8727,33,Gremio,Amarelo,Jemerson de Jesus Nascimento,28.0,Zagueiro,26
+8727,33,Palmeiras,Amarelo,Mayke,12.0,Zagueiro,88
+8727,33,Palmeiras,Amarelo,Estêvão,41.0,Meio-campo,74
+8727,33,Palmeiras,Amarelo,Murilo Cerqueira,26.0,Zagueiro,16
+8727,33,Gremio,Amarelo,Mathías Villasanti,20.0,Meio-campo,28
+8729,33,Cuiaba,Amarelo,Walter Leandro Capeloza Artune,1.0,Goleiro,80
+8729,33,Cuiaba,Amarelo,Ramon Ramos Lima,23.0,Zagueiro,51
+8729,33,Cuiaba,Amarelo,Derik Lacerda,22.0,Meio-campo,45
+8729,33,Cuiaba,Amarelo,Gabriel,44.0,Zagueiro,90+3
+8729,33,Cuiaba,Amarelo,Bruno Alves,34.0,Zagueiro,56
+8729,33,Cuiaba,Amarelo,Denilson,27.0,Meio-campo,48
+8728,33,Vitoria,Amarelo,Everaldo,37.0,Atacante,77
+8728,33,Vitoria,Amarelo,Luan Vinícius da Silva Santos,8.0,Meio-campo,18
+8728,33,Corinthians,Amarelo,José Andrés Martínez,70.0,Meio-campo,13
+8728,33,Vitoria,Amarelo,Raúl Cáceres,27.0,Zagueiro,90+3
+8728,33,Vitoria,Amarelo,Carlos Eduardo Ferreira de Souza,96.0,Meio-campo,33
+8728,33,Corinthians,Amarelo,Fagner,23.0,Zagueiro,14
+8731,33,Juventude,Amarelo,Gabriel Pereira Taliari,19.0,Atacante,81
+8731,33,Bahia,Amarelo,Kanu,4.0,Zagueiro,54
+8731,33,Juventude,Amarelo,João Lucas,2.0,Zagueiro,82
+8731,33,Juventude,Amarelo,Alan Ruschel,28.0,Zagueiro,72
+8733,33,Atletico-GO,Amarelo,Matías Lacava,7.0,Meio-campo,43
+8733,33,Bragantino,Amarelo,Raul,23.0,Meio-campo,90+2
+8733,33,Atletico-GO,Amarelo,Rhaldney,16.0,Meio-campo,59
+8733,33,Atletico-GO,Amarelo,Gonzalo Freitas,5.0,Meio-campo,22
+8733,33,Bragantino,Amarelo,Lincoln Henrique Oliveira dos Santos,10.0,Meio-campo,43
+8732,33,Vasco,Amarelo,Jair Rodrigues Júnior,8.0,Meio-campo,58
+8732,33,Fortaleza,Amarelo,Matheus Rossetto,16.0,Meio-campo,82
+8730,33,Cruzeiro,Amarelo,Matheus Pereira,10.0,Meio-campo,86
+8730,33,Cruzeiro,Amarelo,Lucas Silva Borges,16.0,Meio-campo,60
+8730,33,Criciuma,Amarelo,Wilker Ángel,4.0,Zagueiro,85
+8730,33,Criciuma,Amarelo,Rodrigo Fagundes de Freitas,3.0,Zagueiro,46
+8730,33,Cruzeiro,Amarelo,Gabriel Veron,30.0,Meio-campo,90+3
+8730,33,Cruzeiro,Amarelo,Kaio Jorge,9.0,Atacante,65
+8730,33,Criciuma,Amarelo,Miguel Trauco,14.0,Zagueiro,90+4
+8730,33,Criciuma,Amarelo,Arthur Caike do Nascimento Cruz,45.0,Atacante,52
+8734,33,Sao Paulo,Amarelo,Igor Vinícius,2.0,Zagueiro,90+2
+8734,33,Athletico-PR,Amarelo,Lucas Belezi,45.0,Zagueiro,81
+8734,33,Athletico-PR,Amarelo,Felipinho,23.0,Meio-campo,62
+8734,33,Athletico-PR,Amarelo,Leonardo Godoy,29.0,Zagueiro,3
+8734,33,Sao Paulo,Amarelo,Lucas Moura,7.0,Meio-campo,74
+8734,33,Athletico-PR,Amarelo,Julimar,20.0,Meio-campo,75
+8734,33,Athletico-PR,Amarelo,Erick Luis Conrado Carvalho,26.0,Meio-campo,42
+8735,33,Atletico-MG,Amarelo,Gustavo Scarpa,6.0,Meio-campo,52
+8735,33,Flamengo,Amarelo,Fabrício Bruno,15.0,Zagueiro,11
+8595,19,Athletico-PR,Amarelo,Pablo Felipe Teixeira,92.0,Atacante,18
+8595,19,Atletico-MG,Amarelo,Gustavo Scarpa,6.0,Meio-campo,27
+8595,19,Athletico-PR,Amarelo,Nikão,11.0,Meio-campo,59
+8595,19,Atletico-MG,Amarelo,Lyanco,2.0,Zagueiro,71
+8736,34,Corinthians,Amarelo,André Carrillo,19.0,Meio-campo,60
+8736,34,Cruzeiro,Amarelo,Ramiro,17.0,Meio-campo,51
+8736,34,Cruzeiro,Amarelo,Kaiki Bruno,6.0,Zagueiro,45
+8736,34,Corinthians,Amarelo,Memphis Depay,94.0,Atacante,90+2
+8736,34,Corinthians,Amarelo,André Ramalho,5.0,Zagueiro,41
+8736,34,Cruzeiro,Amarelo,Lucas Silva Borges,16.0,Meio-campo,45+4
+8738,34,Athletico-PR,Vermelho,Thiago Heleno,44.0,Zagueiro,74
+8738,34,Athletico-PR,Amarelo,Leonardo Godoy,29.0,Zagueiro,41
+8738,34,Atletico-GO,Amarelo,Adriano Martins,3.0,Zagueiro,16
+8738,34,Atletico-GO,Amarelo,Shaylon,10.0,Meio-campo,36
+8737,34,Bragantino,Amarelo,Eduardo Santos,3.0,Zagueiro,44
+8737,34,Sao Paulo,Amarelo,Alisson Euler de Freitas Castro,25.0,Meio-campo,66
+8737,34,Bragantino,Amarelo,Matheus Fernandes,35.0,Meio-campo,41
+8737,34,Sao Paulo,Amarelo,Sabino,35.0,Zagueiro,50
+8737,34,Bragantino,Amarelo,José Hurtado,34.0,Zagueiro,62
+8739,34,Vitoria,Amarelo,Wagner Leonardo,4.0,Zagueiro,90+7
+8739,34,Vitoria,Amarelo,Willian,29.0,Meio-campo,17
+8739,34,Criciuma,Vermelho,Claudinho,27.0,Zagueiro,27
+8739,34,Criciuma,Amarelo,Yannick Bolasie,11.0,Atacante,45+5
+8739,34,Vitoria,Amarelo,Lepu,97.0,Zagueiro,80
+8740,34,Palmeiras,Amarelo,Marcos Rocha,2.0,Zagueiro,71
+8740,34,Bahia,Amarelo,Gilberto Moraes Júnior,2.0,Zagueiro,74
+8741,34,Gremio,Amarelo,Diego Costa,19.0,Atacante,27
+8741,34,Juventude,Amarelo,Jadson,16.0,Meio-campo,90+3
+8741,34,Juventude,Amarelo,Luis Mandaca,44.0,Meio-campo,38
+8741,34,Juventude,Amarelo,Lucas Barbosa,21.0,Meio-campo,14
+8741,34,Gremio,Amarelo,Pedro Geromel,3.0,Zagueiro,45+2
+8741,34,Gremio,Amarelo,Pepê,23.0,Meio-campo,8
+8741,34,Juventude,Amarelo,Ewerthon Diógenes da Silva,14.0,Zagueiro,61
+8741,34,Juventude,Amarelo,João Lucas,2.0,Zagueiro,28
+8742,34,Flamengo,Amarelo,Fabrício Bruno,15.0,Zagueiro,90+6
+8742,34,Cuiaba,Amarelo,Lucas Mineiro,30.0,Meio-campo,89
+8742,34,Flamengo,Amarelo,Evertton Araújo,52.0,Meio-campo,89
+8743,34,Atletico-MG,Vermelho,Rubens,44.0,Meio-campo,40
+8743,34,Botafogo-RJ,Vermelho,Alexander Barboza,20.0,Zagueiro,90+7
+8743,34,Atletico-MG,Amarelo,Igor Rabello,16.0,Zagueiro,90+7
+8743,34,Atletico-MG,Amarelo,Matheus Mendes,31.0,Goleiro,77
+8743,34,Atletico-MG,Amarelo,Deyverson,9.0,Atacante,45
+8743,34,Botafogo-RJ,Amarelo,Alexander Barboza,20.0,Zagueiro,90+3
+8743,34,Botafogo-RJ,Vermelho,Luiz Henrique,7.0,Meio-campo,90+10
+8743,34,Atletico-MG,Amarelo,Matías Zaracho,15.0,Atacante,82
+8743,34,Atletico-MG,Amarelo,Lyanco,2.0,Zagueiro,71
+8743,34,Atletico-MG,Amarelo,Rubens,44.0,Meio-campo,37
+8744,34,Vasco,Amarelo,Mateus Carvalho,85.0,Meio-campo,83
+8745,34,Fluminense,Amarelo,Germán Cano,14.0,Atacante,90+3
+8745,34,Fortaleza,Amarelo,Benjamín Kuscevic,13.0,Zagueiro,54
+8745,34,Fortaleza,Amarelo,Tomás Cardona,25.0,Zagueiro,90+7
+8745,34,Fortaleza,Amarelo,Eros Mancuso,33.0,Meio-campo,37
+8747,35,Botafogo-RJ,Amarelo,Mateo Ponte,4.0,Zagueiro,68
+8747,35,Vitoria,Amarelo,Carlos Eduardo Ferreira de Souza,96.0,Atacante,90+4
+8747,35,Vitoria,Amarelo,Patric,14.0,Zagueiro,82
+8747,35,Botafogo-RJ,Vermelho,Tiquinho Soares,9.0,Atacante,90+7
+8747,35,Botafogo-RJ,Amarelo,Cuiabano,66.0,Zagueiro,90+3
+8747,35,Botafogo-RJ,Amarelo,Gregore,26.0,Meio-campo,36
+8747,35,Vitoria,Amarelo,Lucas Esteves,16.0,Zagueiro,90+4
+8747,35,Vitoria,Amarelo,Willian,29.0,Meio-campo,63
+8748,35,Atletico-GO,Amarelo,Roni,5.0,Meio-campo,64
+8748,35,Atletico-GO,Amarelo,Gabriel Baralhas,8.0,Meio-campo,4
+8748,35,Palmeiras,Amarelo,José Rafael Vivian,8.0,Meio-campo,89
+8748,35,Atletico-GO,Amarelo,Luiz Fernando Moraes dos Santos,11.0,Meio-campo,39
+8748,35,Palmeiras,Amarelo,José Manuel Alberto López,42.0,Atacante,90+5
+8746,35,Cuiaba,Amarelo,Jonathan Cafú,7.0,Atacante,90
+8746,35,Cuiaba,Amarelo,Filipe Augusto Carvalho Souza,5.0,Meio-campo,4
+8746,35,Cuiaba,Amarelo,Bruno Alves,34.0,Zagueiro,85
+8749,35,Atletico-MG,Vermelho,Mariano,25.0,Zagueiro,45+6
+8749,35,Sao Paulo,Amarelo,Ruan Tressoldi Netto,22.0,Zagueiro,54
+8749,35,Atletico-MG,Amarelo,Paulo Vitor,27.0,Meio-campo,89
+8749,35,Atletico-MG,Amarelo,Renzo Saravia,26.0,Zagueiro,53
+8749,35,Sao Paulo,Amarelo,Igor Vinícius,2.0,Zagueiro,63
+8749,35,Sao Paulo,Amarelo,Luciano da Rocha Neves,10.0,Meio-campo,53
+8749,35,Atletico-MG,Amarelo,Lyanco,2.0,Zagueiro,56
+8749,35,Atletico-MG,Amarelo,Mariano,25.0,Zagueiro,45+6
+8751,35,Internacional,Amarelo,Rafael Santos Borré,19.0,Atacante,9
+8751,35,Bragantino,Amarelo,Juninho Capixaba,29.0,Zagueiro,45+1
+8751,35,Internacional,Amarelo,Bruno Henrique Corsini,8.0,Meio-campo,48
+8751,35,Bragantino,Amarelo,Pedro Henrique Ribeiro Gonçalves,14.0,Zagueiro,79
+8752,35,Athletico-PR,Amarelo,Fernando Augusto Pereira Bueno Júnior,6.0,Zagueiro,74
+8752,35,Bahia,Amarelo,Gabriel Xavier,3.0,Zagueiro,90+6
+8752,35,Athletico-PR,Amarelo,Mycael,41.0,Goleiro,72
+8750,35,Corinthians,Amarelo,André Ramalho,5.0,Zagueiro,68
+8750,35,Vasco,Amarelo,José Luis Rodríguez Bebanz,2.0,Meio-campo,86
+8750,35,Vasco,Amarelo,Pablo Galdames Millán,27.0,Meio-campo,51
+8750,35,Vasco,Amarelo,Hugo Moura,25.0,Meio-campo,86
+8750,35,Vasco,Amarelo,Jair Rodrigues Júnior,8.0,Meio-campo,67
+8753,35,Fluminense,Amarelo,Facundo Bernal,5.0,Meio-campo,58
+8753,35,Criciuma,Amarelo,Fellipe Mateus,7.0,Meio-campo,45+2
+8753,35,Criciuma,Amarelo,Gustavo Bonatto Barreto,88.0,Meio-campo,45+3
+8754,35,Fortaleza,Amarelo,Benjamín Kuscevic,13.0,Zagueiro,12
+8754,35,Flamengo,Amarelo,Nicolás de la Cruz,18.0,Meio-campo,79
+8754,35,Flamengo,Vermelho,Erick Pulgar,5.0,Meio-campo,67
+8754,35,Fortaleza,Amarelo,Eros Mancuso,33.0,Zagueiro,79
+8754,35,Flamengo,Amarelo,Guillermo Varela,2.0,Zagueiro,90+2
+8754,35,Flamengo,Amarelo,Erick Pulgar,5.0,Meio-campo,24
+8757,36,Atletico-MG,Amarelo,Igor Gomes,17.0,Meio-campo,36
+8756,36,Palmeiras,Vermelho,Marcos Rocha,2.0,Zagueiro,70
+8756,36,Palmeiras,Amarelo,Mayke,12.0,Zagueiro,83
+8756,36,Botafogo-RJ,Amarelo,John,12.0,Goleiro,58
+8756,36,Botafogo-RJ,Amarelo,Alex Telles,13.0,Zagueiro,45+4
+8756,36,Palmeiras,Amarelo,Gustavo Gómez,15.0,Zagueiro,90+6
+8756,36,Botafogo-RJ,Amarelo,Thiago Almada,23.0,Meio-campo,62
+8756,36,Botafogo-RJ,Amarelo,Alexander Barboza,20.0,Zagueiro,46
+8755,35,Cruzeiro,Amarelo,Lucas Romero,29.0,Meio-campo,90+4
+8755,35,Gremio,Amarelo,Jemerson de Jesus Nascimento,28.0,Zagueiro,66
+8755,35,Cruzeiro,Amarelo,William de Asevedo Furtado,12.0,Zagueiro,34
+8759,36,Cuiaba,Amarelo,Isidro Pitta,9.0,Atacante,80
+8759,36,Cuiaba,Amarelo,Max Alves,10.0,Meio-campo,23
+8759,36,Cuiaba,Amarelo,Jonathan Cafú,7.0,Atacante,90
+8759,36,Cuiaba,Amarelo,Fernando Sobral,88.0,Meio-campo,72
+8759,36,Bahia,Amarelo,Luciano Rodriguez,17.0,Meio-campo,85
+8758,36,Criciuma,Amarelo,Rodrigo Fagundes de Freitas,3.0,Zagueiro,77
+8758,36,Corinthians,Amarelo,Gustavo Henrique Vernes,13.0,Zagueiro,81
+8758,36,Corinthians,Amarelo,José Andrés Martínez,70.0,Meio-campo,76
+8758,36,Criciuma,Amarelo,Newton,8.0,Zagueiro,56
+8758,36,Corinthians,Amarelo,Matheuzinho,2.0,Zagueiro,77
+8760,36,Vasco,Amarelo,Dimitri Payet,10.0,Meio-campo,73
+8760,36,Atletico-GO,Amarelo,Luiz Fernando Moraes dos Santos,11.0,Meio-campo,85
+8760,36,Atletico-GO,Vermelho,Luiz Fernando Moraes dos Santos,11.0,Meio-campo,86
+8760,36,Vasco,Amarelo,Hugo Moura,25.0,Meio-campo,48
+8760,36,Atletico-GO,Amarelo,Rhaldney,7.0,Meio-campo,50
+8762,36,Flamengo,Amarelo,Gerson Santos da Silva,8.0,Meio-campo,63
+8762,36,Internacional,Amarelo,Fernando Reges,5.0,Meio-campo,66
+8762,36,Flamengo,Amarelo,Nicolás de la Cruz,18.0,Meio-campo,45
+8762,36,Internacional,Amarelo,Wesley Ribeiro Silva,21.0,Meio-campo,45+1
+8761,36,Gremio,Amarelo,Cristian Pavón,21.0,Atacante,90+5
+8761,36,Sao Paulo,Amarelo,Wellington Rato,27.0,Meio-campo,72
+8763,36,Bragantino,Amarelo,Cleiton Schwengber,1.0,Goleiro,78
+8763,36,Cruzeiro,Amarelo,Lucas Romero,29.0,Meio-campo,69
+8763,36,Bragantino,Amarelo,Lucas Evangelista,8.0,Meio-campo,45+7
+8763,36,Cruzeiro,Amarelo,Álvaro Barreal,21.0,Meio-campo,31
+8764,36,Athletico-PR,Vermelho,Léo Linck,24.0,Goleiro,43
+8764,36,Athletico-PR,Amarelo,Christian Roberto Alves Cardoso,88.0,Meio-campo,42
+8764,36,Fluminense,Amarelo,Lima,45.0,Meio-campo,45+3
+8764,36,Fluminense,Vermelho,Paulo Henrique Ganso,10.0,Meio-campo,90+4
+8764,36,Fluminense,Amarelo,Germán Cano,14.0,Atacante,90+3
+8765,36,Vitoria,Amarelo,Lucas Esteves,16.0,Zagueiro,59
+8765,36,Vitoria,Amarelo,Wagner Leonardo,4.0,Zagueiro,12
+8765,36,Fortaleza,Amarelo,Mário Sérgio Santos Costa,11.0,Meio-campo,57
+8765,36,Vitoria,Amarelo,José Hugo,17.0,Atacante,88
+8765,36,Vitoria,Amarelo,Gustavo Mosquito,7.0,Atacante,50
+8765,36,Fortaleza,Amarelo,Emmanuel Martínez,8.0,Meio-campo,89
+8765,36,Fortaleza,Amarelo,Titi,4.0,Zagueiro,21
+8766,37,Corinthians,Amarelo,Raniele,14.0,Meio-campo,69
+8766,37,Bahia,Amarelo,Jean Lucas Oliveira,6.0,Meio-campo,73
+8766,37,Bahia,Amarelo,Nicolás Acevedo,26.0,Zagueiro,66
+8766,37,Corinthians,Amarelo,Gustavo Henrique Vernes,13.0,Zagueiro,67
+8766,37,Bahia,Amarelo,Luciano Rodriguez,17.0,Atacante,67
+8766,37,Bahia,Amarelo,Gabriel Xavier,3.0,Zagueiro,59
+8767,37,Vasco,Amarelo,Leandrinho,66.0,Meio-campo,90+5
+8767,37,Vasco,Amarelo,Paulo,96.0,Zagueiro,76
+8767,37,Atletico-MG,Amarelo,Deyverson,9.0,Atacante,55
+8767,37,Atletico-MG,Amarelo,Guilherme Arana,13.0,Meio-campo,43
+8767,37,Vasco,Amarelo,Lucas Piton,6.0,Zagueiro,77
+8767,37,Vasco,Amarelo,Pablo Vegetti,99.0,Atacante,30
+8767,37,Atletico-MG,Amarelo,Alan Franco Palma,23.0,Meio-campo,54
+8768,37,Gremio,Amarelo,Reinaldo Manoel da Silva,6.0,Zagueiro,70
+8768,37,Vitoria,Amarelo,Neris,77.0,Zagueiro,51
+8768,37,Gremio,Amarelo,Agustín Marchesín,1.0,Goleiro,45+3
+8769,37,Criciuma,Amarelo,Fellipe Mateus,7.0,Meio-campo,90+4
+8770,37,Juventude,Amarelo,Lucas Barbosa,21.0,Meio-campo,18
+8770,37,Juventude,Amarelo,Gabriel Vasconcellos Ferreira,1.0,Goleiro,83
+8771,37,Atletico-GO,Amarelo,Gabriel Baralhas,8.0,Meio-campo,45+3
+8771,37,Atletico-GO,Amarelo,Alix Vinicius,4.0,Zagueiro,35
+8771,37,Fortaleza,Amarelo,Benjamín Kuscevic,13.0,Zagueiro,90
+8771,37,Atletico-GO,Amarelo,Jan Hurtado,17.0,Atacante,90+3
+8771,37,Atletico-GO,Amarelo,Roni,5.0,Meio-campo,41
+8771,37,Fortaleza,Amarelo,Yago Pikachu,22.0,Meio-campo,90+3
+8771,37,Fortaleza,Amarelo,Tomás Cardona,25.0,Zagueiro,64
+8772,37,Internacional,Amarelo,Wanderson,11.0,Atacante,90+3
+8772,37,Internacional,Amarelo,Wesley Ribeiro Silva,21.0,Meio-campo,45+2
+8772,37,Internacional,Amarelo,Bruno Henrique Corsini,8.0,Meio-campo,27
+8772,37,Botafogo-RJ,Amarelo,Raul,97.0,Goleiro,5
+8772,37,Internacional,Amarelo,Alexandro Bernabei,26.0,Zagueiro,59
+8772,37,Internacional,Amarelo,Sergio Rochet,1.0,Goleiro,45+1
+8772,37,Botafogo-RJ,Amarelo,Alexander Barboza,20.0,Zagueiro,45+3
+8773,37,Cruzeiro,Amarelo,Ivaldo,5.0,Zagueiro,68
+8773,37,Palmeiras,Amarelo,Vitor Reis,44.0,Zagueiro,85
+8773,37,Cruzeiro,Amarelo,Anderson,98.0,Goleiro,71
+8773,37,Cruzeiro,Amarelo,Marlon Rodrigues Xavier,3.0,Zagueiro,56
+8775,37,Athletico-PR,Amarelo,Fernandinho,5.0,Meio-campo,89
+8775,37,Bragantino,Amarelo,Eduardo Sasha,19.0,Atacante,83
+8775,37,Bragantino,Amarelo,Matheus Fernandes,35.0,Meio-campo,45+1
+8775,37,Bragantino,Amarelo,Pedro Henrique Ribeiro Gonçalves,14.0,Zagueiro,34
+8775,37,Bragantino,Amarelo,Jadsom,5.0,Meio-campo,90+2
+8775,37,Bragantino,Amarelo,Vinicinho,54.0,Meio-campo,67
+8774,37,Fluminense,Amarelo,Kevin Serna,90.0,Meio-campo,61
+8774,37,Cuiaba,Amarelo,Alan Empereur,33.0,Zagueiro,90+4
+8774,37,Cuiaba,Amarelo,Eliel,11.0,Meio-campo,38
+8774,37,Fluminense,Amarelo,Keno,11.0,Atacante,66
+8774,37,Fluminense,Amarelo,Facundo Bernal,5.0,Meio-campo,41
+8774,37,Cuiaba,Amarelo,Ramon Ramos Lima,23.0,Zagueiro,78
+8774,37,Cuiaba,Amarelo,Walter Leandro Capeloza Artune,1.0,Goleiro,27
+8777,38,Juventude,Vermelho,Alan Ruschel,28.0,Zagueiro,90+6
+8777,38,Cruzeiro,Vermelho,Matheus Pereira,10.0,Atacante,90
+8777,38,Juventude,Amarelo,Lucas Barbosa,21.0,Meio-campo,36
+8777,38,Cruzeiro,Amarelo,Matheus Pereira,10.0,Atacante,57
+8777,38,Juventude,Vermelho,Marcelo José de Lima Filho,11.0,Atacante,45+2
+8777,38,Juventude,Amarelo,Alan Ruschel,28.0,Zagueiro,80
+8777,38,Cruzeiro,Amarelo,Gabriel Veron,30.0,Meio-campo,76
+8777,38,Cruzeiro,Amarelo,Kaiki Bruno,6.0,Zagueiro,51
+8778,38,Bahia,Amarelo,Everaldo Stum,9.0,Atacante,90+4
+8778,38,Bahia,Amarelo,Nicolás Acevedo,26.0,Meio-campo,74
+8778,38,Atletico-GO,Amarelo,Gonzalo Freitas,5.0,Meio-campo,39
+8778,38,Bahia,Amarelo,Yago Rocha,20.0,Meio-campo,90+2
+8778,38,Bahia,Amarelo,Adriel,23.0,Goleiro,59
+8779,38,Vitoria,Amarelo,Lucas Eduardo Ribeiro de Souza,43.0,Zagueiro,52
+8779,38,Vitoria,Amarelo,Carlos Eduardo Ferreira de Souza,96.0,Atacante,56
+8781,38,Atletico-MG,Amarelo,Éverson,22.0,Goleiro,90
+8781,38,Athletico-PR,Amarelo,Thiago Heleno,44.0,Zagueiro,66
+8781,38,Athletico-PR,Amarelo,Agustín Canobbio,14.0,Meio-campo,24
+8781,38,Atletico-MG,Amarelo,Igor Gomes,17.0,Meio-campo,90+7
+8781,38,Atletico-MG,Amarelo,Brahian Palacios,30.0,Atacante,73
+8781,38,Athletico-PR,Amarelo,Fernandinho,5.0,Meio-campo,56
+8783,38,Vasco,Amarelo,Maxime Dominguez,26.0,Meio-campo,62
+8784,38,Fluminense,Amarelo,Germán Cano,14.0,Atacante,41
+8784,38,Palmeiras,Amarelo,Estêvão,41.0,Meio-campo,90+3
+8784,38,Fluminense,Amarelo,Martinelli,8.0,Meio-campo,90+7
+8784,38,Fluminense,Amarelo,Fábio Deivson Lopes Maciel,1.0,Goleiro,83
+8784,38,Fluminense,Amarelo,Lima,45.0,Meio-campo,7
+8784,38,Palmeiras,Amarelo,Richard Ríos,27.0,Meio-campo,85
+8784,38,Fluminense,Amarelo,Kauã Elias,19.0,Atacante,90+4
+8776,38,Fortaleza,Amarelo,Tinga,2.0,Zagueiro,76
+8776,38,Internacional,Amarelo,Bruno Tabata,17.0,Meio-campo,45
+8776,38,Internacional,Amarelo,Alexandro Bernabei,26.0,Zagueiro,68
+8780,38,Criciuma,Amarelo,Tobias Figueiredo,29.0,Zagueiro,59
+8780,38,Criciuma,Amarelo,Gustavo Bonatto Barreto,88.0,Meio-campo,53
+8780,38,Bragantino,Amarelo,Vinicinho,54.0,Meio-campo,41
+8780,38,Criciuma,Amarelo,Newton,8.0,Meio-campo,59
+8785,38,Gremio,Amarelo,Miguel Monsalve,11.0,Meio-campo,90+2
+8785,38,Corinthians,Amarelo,Matheus Bidu,21.0,Zagueiro,90+6
+8785,38,Corinthians,Amarelo,André Carrillo,19.0,Meio-campo,54
+8785,38,Corinthians,Vermelho,José Andrés Martínez,70.0,Meio-campo,79
+8785,38,Gremio,Amarelo,Reinaldo Manoel da Silva,6.0,Zagueiro,25
+8785,38,Corinthians,Amarelo,Hugo Souza,1.0,Goleiro,64
+8785,38,Gremio,Vermelho,Douglas Moreira,17.0,Meio-campo,79
