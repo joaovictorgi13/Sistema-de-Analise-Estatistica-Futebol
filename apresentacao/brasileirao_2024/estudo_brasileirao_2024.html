@@ -1,0 +1,466 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Material de Estudo — Estatística no Brasileirão 2024</title>
+<style>
+  @page { size: A4; margin: 15mm 15mm 16mm 15mm; }
+  :root { --ink:#0f1f19; --muted:#4b5b54; --green:#0b6e4f; --soft:#eaf5ef; --line:#cfd9d3; --amber:#a86a00; }
+  * { box-sizing: border-box; }
+  body { font-family: "Segoe UI", Calibri, Arial, sans-serif; color: var(--ink); font-size: 10.5pt; line-height: 1.5; margin: 0; }
+  h1 { font-size: 24pt; margin: 0 0 6px; color: var(--green); line-height: 1.1; }
+  h2 { font-size: 15pt; color: var(--green); border-bottom: 2px solid var(--green); padding-bottom: 3px; margin: 22px 0 10px; break-after: avoid; }
+  h3 { font-size: 12pt; margin: 14px 0 6px; break-after: avoid; }
+  h4 { font-size: 10.8pt; margin: 10px 0 4px; color: #0a4f39; break-after: avoid; }
+  p { margin: 4px 0 8px; }
+  ul, ol { margin: 4px 0 8px 18px; padding: 0; }
+  li { margin: 2px 0; }
+  .brk { page-break-before: always; }
+  .cover { height: 255mm; display: flex; flex-direction: column; justify-content: center; }
+  .tag { color: var(--muted); font-size: 10.5pt; letter-spacing: .5px; text-transform: uppercase; }
+  .sub { font-size: 13pt; color: var(--muted); margin-top: 6px; }
+  .kpis { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; margin: 22px 0; }
+  .kpi { border: 1px solid var(--line); border-radius: 8px; padding: 10px; }
+  .kpi b { display: block; font-size: 19pt; color: var(--green); }
+  .kpi span { font-size: 9pt; color: var(--muted); }
+  .box, .warn, .ex, .ok { border-radius: 8px; padding: 9px 12px; margin: 8px 0 10px; break-inside: avoid; }
+  .box { background: var(--soft); border: 1px solid #b9dcc9; }
+  .warn { background: #fff7e8; border: 1px solid #f3d6a1; }
+  .ok { background: #eef6ff; border: 1px solid #c4dbf5; }
+  .ex { background: #fbfbf7; border: 1px dashed #b8b8a6; }
+  .ex b.t { color: var(--amber); }
+  .f { font-family: "Cambria Math", Cambria, "Times New Roman", serif; font-size: 11.3pt; background: #f6f9f7; border-left: 3px solid var(--green); padding: 4px 10px; margin: 6px 0; display: block; break-inside: avoid; }
+  .m { font-family: "Cambria Math", Cambria, serif; }
+  table { border-collapse: collapse; width: 100%; margin: 6px 0 10px; font-size: 9.5pt; break-inside: avoid; }
+  th, td { border: 1px solid var(--line); padding: 4px 6px; text-align: left; vertical-align: top; }
+  th { background: #e1ece6; }
+  td.n { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  img { max-width: 100%; display: block; margin: 6px auto; border: 1px solid #e2e8e4; border-radius: 6px; break-inside: avoid; }
+  .two { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; align-items: start; break-inside: avoid; }
+  .small { font-size: 9pt; color: var(--muted); }
+  .pill { display: inline-block; font-size: 8.5pt; padding: 1px 7px; border-radius: 99px; background: #d6ecdf; color: #0a4f39; margin-right: 4px; }
+  .q { font-weight: 600; margin-top: 8px; break-after: avoid; }
+</style>
+</head>
+<body>
+
+<section class="cover">
+  <div class="tag">Probabilidade e Estatística · Material de estudo</div>
+  <h1>Estatística e Probabilidade<br>no Brasileirão 2024</h1>
+  <div class="sub">Guia completo do sistema: o que cada página mostra, os conteúdos da disciplina que ela aplica, os números reais da temporada, como interpretar cada um, exercícios resolvidos e perguntas prováveis da banca.</div>
+  <div class="kpis">
+    <div class="kpi"><b>380</b><span>partidas da Série A 2024</span></div>
+    <div class="kpi"><b>929</b><span>gols, com autor e minuto</span></div>
+    <div class="kpi"><b>2.096</b><span>cartões, com jogador e posição</span></div>
+    <div class="kpi"><b>586</b><span>jogadores em 20 clubes</span></div>
+  </div>
+  <div class="box"><b>Como usar este material.</b> Cada seção corresponde a uma página do app e segue a ordem do plano de curso: conceitos básicos → frequências → gráficos e posição → dispersão → probabilidade → probabilidade total e Bayes → variáveis discretas → variáveis contínuas. Todos os números foram calculados com o próprio sistema e batem com o que aparece na tela.</div>
+</section>
+
+<section class="brk">
+  <h2 style="margin-top:0">Sumário</h2>
+  <ol>
+    <li>O projeto, a fonte dos dados e a arquitetura</li>
+    <li>Página 1 — Introdução à Estatística e conceitos básicos</li>
+    <li>Página 3 — Tabelas de distribuição de frequências</li>
+    <li>Página 4 — Representação gráfica e medidas de posição</li>
+    <li>Página 5 — Medidas de dispersão, quartis, assimetria, outliers e boxplot</li>
+    <li>Página 6 — Teoria das Probabilidades</li>
+    <li>Página 7 — Teorema da Probabilidade Total e Teorema de Bayes</li>
+    <li>Página 8 — Variáveis aleatórias e distribuições discretas</li>
+    <li>Página 9 — Distribuições de variáveis aleatórias contínuas</li>
+    <li>Página 2 — Consulta por time e jogador</li>
+    <li>Limitações e perguntas prováveis da banca</li>
+    <li>Roteiro sugerido para a apresentação</li>
+    <li>Folha de fórmulas</li>
+  </ol>
+
+  <h2>1. O projeto, a fonte dos dados e a arquitetura</h2>
+  <p><b>Objetivo.</b> Aplicar os conteúdos da disciplina a dados reais do Campeonato Brasileiro Série A 2024, num sistema interativo em que cada página corresponde a um conteúdo do plano de curso.</p>
+  <h4>Fonte dos dados</h4>
+  <p><b>Brasileirao_Dataset</b> (Adão Duque, GitHub): repositório público e gratuito, sem chave de API. O sistema baixa três arquivos, filtra a temporada 2024 e salva o recorte em <i>data/</i>. Assim o app funciona sem internet.</p>
+  <table>
+    <tr><th>Arquivo</th><th>O que traz</th><th>Uso no sistema</th></tr>
+    <tr><td>Partidas</td><td>rodada, data, hora, mandante, visitante, placar, técnico, formação, arena, estado</td><td>Resultado, horário, formação, gols por partida, classificação</td></tr>
+    <tr><td>Gols</td><td>clube, atleta, minuto (inclusive 45+x e 90+x), tipo (normal, pênalti, gol contra)</td><td>Gols por tempo, minuto e autor do 1º gol, artilheiros</td></tr>
+    <tr><td>Cartões</td><td>clube, atleta, posição, minuto, cor</td><td>Cartões por partida, posição e disciplina dos jogadores</td></tr>
+  </table>
+  <div class="ok"><b>Checagem de qualidade:</b> somando os gols de cada clube no arquivo de gols, o resultado bate com o placar oficial nas 380 partidas. Gols contra são creditados ao clube beneficiado e não contam para o atleta que os marcou.</div>
+  <h4>Arquitetura (4 módulos em Python)</h4>
+  <table>
+    <tr><th>Arquivo</th><th>Papel</th></tr>
+    <tr><td><b>api_client.py</b></td><td>Baixa, filtra e guarda os dados; monta as tabelas de partidas, gols, cartões e jogadores</td></tr>
+    <tr><td><b>prob_stats_engine.py</b></td><td>Motor de cálculo: um método para cada conteúdo da disciplina (pandas, numpy, scipy)</td></tr>
+    <tr><td><b>visualizer.py</b></td><td>Gráficos: colunas, setores, histograma, ogiva, boxplot, Venn, árvore, PMF, densidades</td></tr>
+    <tr><td><b>app.py</b></td><td>Interface em Streamlit com 9 páginas</td></tr>
+  </table>
+  <div class="kpis" style="margin:10px 0">
+    <div class="kpi"><b>2,44</b><span>gols por partida (929 ÷ 380)</span></div>
+    <div class="kpi"><b>5,18</b><span>amarelos por partida</span></div>
+    <div class="kpi"><b>128</b><span>cartões vermelhos</span></div>
+    <div class="kpi"><b>Botafogo</b><span>campeão, 79 pontos</span></div>
+  </div>
+</section>
+
+<section>
+  <h2>2. Página 1 — Introdução à Estatística e conceitos básicos</h2>
+  <p><span class="pill">Estatística</span><span class="pill">População e amostra</span><span class="pill">Tipos de variáveis</span></p>
+  <ul>
+    <li><b>Estatística:</b> coleta, organização, apresentação e análise de dados. Divide-se em <b>descritiva</b> (resume os dados) e <b>inferencial</b> (generaliza para a população usando probabilidade).</li>
+    <li><b>População:</b> todas as partidas do Campeonato Brasileiro Série A. <b>Amostra:</b> as 380 partidas de 2024 (38 rodadas × 10 jogos).</li>
+    <li><b>Unidade amostral (elemento):</b> a partida. Em algumas análises o elemento é um <b>gol</b> (minuto do gol) ou um <b>jogador</b>.</li>
+    <li><b>Dado bruto × rol:</b> os valores como vieram da fonte × os mesmos valores em ordem crescente.</li>
+  </ul>
+  <table>
+    <tr><th>Variável</th><th>Classificação</th><th>Exemplos</th></tr>
+    <tr><td>Resultado da partida</td><td>Qualitativa nominal</td><td>Vitória do mandante, Empate, Vitória do visitante</td></tr>
+    <tr><td>Clube, estado, formação tática</td><td>Qualitativa nominal</td><td>Flamengo; RJ; 4-2-3-1</td></tr>
+    <tr><td>Faixa de horário</td><td>Qualitativa ordinal</td><td>Tarde &lt; Fim de tarde &lt; Noite</td></tr>
+    <tr><td>Rodada, gols, cartões</td><td>Quantitativa discreta</td><td>0, 1, 2, 3… (contagens)</td></tr>
+    <tr><td>Minuto do gol, tempo até o 1º gol</td><td>Quantitativa contínua</td><td>qualquer valor entre 0 e 90 minutos</td></tr>
+  </table>
+  <div class="box"><b>Dica para a banca:</b> uma variável é discreta quando resulta de <i>contagem</i> e contínua quando resulta de <i>medição</i>. O minuto é contínuo por natureza, mesmo que a fonte o registre em minutos inteiros.</div>
+  <p><b>Classificação final (página 1):</b> 1º Botafogo 79 pts · 2º Palmeiras 73 · 3º Flamengo 70 · 4º Fortaleza 68 · 5º Internacional 65 … 19º Atlético-GO 30 · 20º Cuiabá 30.</p>
+</section>
+
+<section>
+  <h2>3. Página 3 — Tabelas de distribuição de frequências</h2>
+  <p><span class="pill">fi</span><span class="pill">fri</span><span class="pill">Fi</span><span class="pill">Fri</span><span class="pill">Classes</span><span class="pill">Sturges</span></p>
+  <span class="f">fri = fi / n &nbsp;·&nbsp; Fi = f1 + f2 + … + fi &nbsp;·&nbsp; Fri = Fi / n &nbsp;·&nbsp; Σfi = n &nbsp;·&nbsp; Σfri = 100%</span>
+  <h4>Variável qualitativa: resultado da partida</h4>
+  <table>
+    <tr><th>Resultado</th><th>fi</th><th>fri</th><th>Fi</th><th>Fri</th></tr>
+    <tr><td>Vitória do mandante</td><td class="n">180</td><td class="n">47,37%</td><td class="n">180</td><td class="n">47,37%</td></tr>
+    <tr><td>Empate</td><td class="n">101</td><td class="n">26,58%</td><td class="n">281</td><td class="n">73,95%</td></tr>
+    <tr><td>Vitória do visitante</td><td class="n">99</td><td class="n">26,05%</td><td class="n">380</td><td class="n">100%</td></tr>
+  </table>
+  <p>Outras qualitativas no app: horário (noite 49,2%, tarde 28,9%, fim de tarde 21,8%), quem marcou primeiro (mandante 219, visitante 135, sem gols 26), estado do mandante (RJ e SP com 76 jogos cada), formação (4-2-3-1 em 217 jogos).</p>
+  <h4>Variável discreta: gols na partida</h4>
+  <table>
+    <tr><th>Gols (xi)</th><th>0</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th></tr>
+    <tr><td>fi</td><td class="n">26</td><td class="n">77</td><td class="n">97</td><td class="n">104</td><td class="n">49</td><td class="n">17</td><td class="n">6</td><td class="n">3</td><td class="n">1</td></tr>
+    <tr><td>fri (%)</td><td class="n">6,84</td><td class="n">20,26</td><td class="n">25,53</td><td class="n">27,37</td><td class="n">12,89</td><td class="n">4,47</td><td class="n">1,58</td><td class="n">0,79</td><td class="n">0,26</td></tr>
+    <tr><td>Fi</td><td class="n">26</td><td class="n">103</td><td class="n">200</td><td class="n">304</td><td class="n">353</td><td class="n">370</td><td class="n">376</td><td class="n">379</td><td class="n">380</td></tr>
+    <tr><td>Fri (%)</td><td class="n">6,84</td><td class="n">27,11</td><td class="n">52,63</td><td class="n">80,00</td><td class="n">92,89</td><td class="n">97,37</td><td class="n">98,95</td><td class="n">99,74</td><td class="n">100</td></tr>
+  </table>
+  <p><b>Leitura:</b> o valor mais frequente é 3 gols (27,37%). Pela Fri, 52,63% dos jogos tiveram até 2 gols e 80% tiveram até 3.</p>
+  <h4>Variável contínua em classes: minuto dos 929 gols</h4>
+  <span class="f">Sturges: k ≈ 1 + 3,322·log10(n) = 1 + 3,322·log10(929) ≈ 10,86 &nbsp;·&nbsp; AT = 90 − 1 = 89 &nbsp;·&nbsp; h = ⌈89 / 11⌉ = 9</span>
+  <table>
+    <tr><th>Classe (min)</th><th>1⊢10</th><th>10⊢19</th><th>19⊢28</th><th>28⊢37</th><th>37⊢46</th><th>46⊢55</th><th>55⊢64</th><th>64⊢73</th><th>73⊢82</th><th>82⊢91</th></tr>
+    <tr><td>xi</td><td class="n">5,5</td><td class="n">14,5</td><td class="n">23,5</td><td class="n">32,5</td><td class="n">41,5</td><td class="n">50,5</td><td class="n">59,5</td><td class="n">68,5</td><td class="n">77,5</td><td class="n">86,5</td></tr>
+    <tr><td>fi</td><td class="n">66</td><td class="n">73</td><td class="n">77</td><td class="n">62</td><td class="n">143</td><td class="n">79</td><td class="n">105</td><td class="n">87</td><td class="n">77</td><td class="n">160</td></tr>
+    <tr><td>Fi</td><td class="n">66</td><td class="n">139</td><td class="n">216</td><td class="n">278</td><td class="n">421</td><td class="n">500</td><td class="n">605</td><td class="n">692</td><td class="n">769</td><td class="n">929</td></tr>
+  </table>
+  <p class="small">Com h = 9, bastam 10 classes para cobrir o valor máximo (90). A notação li ⊢ ls inclui o limite inferior e exclui o superior; xi é o ponto médio (li + ls)/2.</p>
+  <div class="warn"><b>Por que as classes 37⊢46 e 82⊢91 têm tantos gols?</b> A fonte registra os acréscimos como 45+x e 90+x, e o sistema os conta no minuto 45 ou 90. Explicar isso mostra que você entende os dados.</div>
+  <div class="ex"><b class="t">Exercício resolvido.</b> Qual a porcentagem de jogos com pelo menos 4 gols? <br>Pelo complementar da Fri: 100% − Fri(3) = 100% − 80% = <b>20%</b> (49 + 17 + 6 + 3 + 1 = 76 jogos; 76/380 = 20%).</div>
+</section>
+
+<section>
+  <h2>4. Página 4 — Representação gráfica e medidas de posição</h2>
+  <p><span class="pill">Colunas</span><span class="pill">Setores</span><span class="pill">Histograma</span><span class="pill">Polígono</span><span class="pill">Ogiva</span><span class="pill">Linha</span><span class="pill">Média</span><span class="pill">Mediana</span><span class="pill">Moda</span></p>
+  <table>
+    <tr><th>Gráfico</th><th>Quando usar</th><th>No app</th></tr>
+    <tr><td>Colunas / barras</td><td>Qualitativas e discretas com poucos valores</td><td>Resultado, gols por partida, cartões</td></tr>
+    <tr><td>Setores (pizza)</td><td>Partes de um todo (soma 100%)</td><td>Resultado, horário, quem marcou primeiro</td></tr>
+    <tr><td>Histograma</td><td>Contínua agrupada em classes (barras justapostas)</td><td>Minuto dos gols, minuto do 1º gol, gols por rodada</td></tr>
+    <tr><td>Polígono de frequências</td><td>Liga os pontos médios das classes</td><td>Sobre o histograma</td></tr>
+    <tr><td>Ogiva</td><td>Frequência acumulada (cruza 50% na mediana)</td><td>Minuto dos gols</td></tr>
+    <tr><td>Linha</td><td>Evolução ao longo do tempo</td><td>Gols por rodada (média 24,4)</td></tr>
+  </table>
+  <div class="two">
+    <img src="figuras/01_colunas_resultado.png" alt="Colunas do resultado">
+    <img src="figuras/03_histograma_minutos.png" alt="Histograma do minuto dos gols">
+  </div>
+  <div class="two">
+    <img src="figuras/04_ogiva_minutos.png" alt="Ogiva">
+    <img src="figuras/05_linha_gols_rodada.png" alt="Gols por rodada">
+  </div>
+  <h4>Medidas de posição (tendência central)</h4>
+  <span class="f">x̄ = Σxi / n &nbsp;·&nbsp; Md = valor central do rol (n par: média dos dois centrais) &nbsp;·&nbsp; Mo = valor de maior frequência</span>
+  <table>
+    <tr><th>Variável</th><th>n</th><th>Média</th><th>Mediana</th><th>Moda</th><th>Leitura</th></tr>
+    <tr><td>Gols por partida</td><td class="n">380</td><td class="n">2,445</td><td class="n">2</td><td class="n">3</td><td>Média &gt; mediana: poucos jogos com muitos gols puxam a média</td></tr>
+    <tr><td>Minuto dos gols</td><td class="n">929</td><td class="n">50,84</td><td class="n">52</td><td class="n">90</td><td>Moda em 90 por causa dos acréscimos</td></tr>
+  </table>
+  <img src="figuras/06_posicao_gols.png" alt="Medidas de posição dos gols" style="width:70%">
+  <h4>Dados agrupados em classes (minuto dos gols)</h4>
+  <span class="f">x̄ = Σ(xi·fi) / n &nbsp;·&nbsp; Md = li + [(n/2 − Fant) / fi]·h &nbsp;·&nbsp; Mo (Czuber) = li + [d1 / (d1 + d2)]·h</span>
+  <p>Média agrupada = <b>50,79</b> (bruta 50,84) · Mediana agrupada = <b>50,96</b>, na classe 46⊢55 · Moda de Czuber = <b>85,07</b>, na classe modal 82⊢91.</p>
+  <div class="ex"><b class="t">Exercício resolvido (mediana agrupada).</b> n = 929, então n/2 = 464,5. A primeira classe com Fi ≥ 464,5 é 46⊢55 (Fi = 500), com li = 46, fi = 79, Fant = 421 e h = 9.
+  Md = 46 + [(464,5 − 421)/79]·9 = 46 + 0,5506·9 = <b>50,96 min</b>.</div>
+</section>
+
+<section>
+  <h2>5. Página 5 — Medidas de dispersão, quartis, assimetria, outliers e boxplot</h2>
+  <p><span class="pill">Amplitude</span><span class="pill">Variância</span><span class="pill">Desvio padrão</span><span class="pill">CV</span><span class="pill">Quartis</span><span class="pill">DIQ</span><span class="pill">Assimetria</span><span class="pill">Outliers</span><span class="pill">Boxplot</span></p>
+  <span class="f">AT = máx − mín &nbsp;·&nbsp; s² = Σ(xi − x̄)² / (n − 1) &nbsp;·&nbsp; σ² = Σ(xi − x̄)² / n &nbsp;·&nbsp; s = √s² &nbsp;·&nbsp; CV = (s / x̄)·100%</span>
+  <h4>Gols por partida</h4>
+  <table>
+    <tr><th>Medida</th><th>Valor</th><th>Interpretação</th></tr>
+    <tr><td>Amplitude total</td><td class="n">8</td><td>de 0 a 8 gols</td></tr>
+    <tr><td>Variância amostral s² · populacional σ²</td><td class="n">2,021 · 2,015</td><td>s² divide por n − 1 (estimador não viesado)</td></tr>
+    <tr><td>Desvio padrão s</td><td class="n">1,422</td><td>afastamento típico em torno da média, em gols</td></tr>
+    <tr><td>Coeficiente de variação</td><td class="n">58,15%</td><td>alta dispersão (&gt; 30%)</td></tr>
+    <tr><td>Q1 · Q2 · Q3</td><td class="n">1 · 2 · 3</td><td>metade central dos jogos tem de 1 a 3 gols</td></tr>
+    <tr><td>Diferença interquartílica DIQ</td><td class="n">2</td><td>Q3 − Q1</td></tr>
+    <tr><td>Limites de Tukey</td><td class="n">[−2 ; 6]</td><td>Q1 − 1,5·DIQ e Q3 + 1,5·DIQ</td></tr>
+    <tr><td>Outliers</td><td class="n">4 jogos</td><td>os 3 jogos de 7 gols e o de 8 gols</td></tr>
+    <tr><td>Assimetria de Pearson (mediana)</td><td class="n">+0,94</td><td>assimétrica positiva moderada (cauda à direita)</td></tr>
+  </table>
+  <span class="f">As1 = (x̄ − Mo) / s &nbsp;·&nbsp; As2 = 3(x̄ − Md) / s &nbsp;·&nbsp; |As| &lt; 0,15 simétrica; 0,15 a 1 moderada; &gt; 1 forte</span>
+  <div class="warn"><b>Atenção:</b> com a moda, As1 = (2,445 − 3)/1,422 = −0,39, que aponta o sentido oposto. Em variáveis discretas com poucos valores a moda é instável; por isso o app classifica pelo coeficiente com a mediana, As2 = 3(2,445 − 2)/1,422 = 0,94. O minuto dos gols, com As2 = −0,13, é praticamente simétrico.</div>
+  <div class="two">
+    <img src="figuras/07_boxplot_gols.png" alt="Boxplot gols">
+    <img src="figuras/08_boxplot_clubes.png" alt="Boxplot por clube">
+  </div>
+  <h4>Comparação entre clubes (gols marcados por jogo, 38 jogos)</h4>
+  <p>Melhores ataques: Flamengo 1,61 (s = 1,24), Palmeiras 1,58, Botafogo 1,55. Ataque mais <b>regular</b> (menor CV): São Paulo, 69,8%. Mais <b>irregular</b> (maior CV): Cuiabá, 156,6% (média 0,76, mas com um jogo de 5 gols).</p>
+  <div class="box"><b>Por que usar o CV e não só o desvio padrão?</b> O CV é relativo à média e não tem unidade. Por isso permite comparar a regularidade de clubes com médias diferentes.</div>
+  <div class="ex"><b class="t">Exercício resolvido.</b> Um jogo de 6 gols é outlier? O limite superior é Q3 + 1,5·DIQ = 3 + 1,5·2 = 6. Como 6 não é maior que 6, <b>não é outlier</b>; 7 e 8 são.</div>
+</section>
+
+<section>
+  <h2>6. Página 6 — Teoria das Probabilidades</h2>
+  <h3>6.1 Experimento, espaço amostral e evento</h3>
+  <ul>
+    <li><b>Experimento determinístico:</b> nas mesmas condições, sempre o mesmo resultado (duração regulamentar de 90 minutos; 3 pontos por vitória).</li>
+    <li><b>Experimento aleatório:</b> o resultado não é previsível, mas os resultados possíveis são conhecidos (o resultado, o placar e os cartões de uma partida).</li>
+    <li><b>Espaço amostral:</b> S = {Vitória do mandante, Empate, Vitória do visitante}. <b>Evento:</b> subconjunto de S, por exemplo B = {o mandante não perde}.</li>
+  </ul>
+  <span class="f">Clássica: P(E) = n(E) / n(S) (resultados equiprováveis) &nbsp;·&nbsp; Frequentista: P(E) ≈ nº de ocorrências / nº de repetições</span>
+  <div class="two">
+    <table>
+      <tr><th>Evento</th><th>Clássica</th><th>Frequentista</th></tr>
+      <tr><td>Vitória do mandante</td><td class="n">33,33%</td><td class="n">47,37% (180)</td></tr>
+      <tr><td>Empate</td><td class="n">33,33%</td><td class="n">26,58% (101)</td></tr>
+      <tr><td>Vitória do visitante</td><td class="n">33,33%</td><td class="n">26,05% (99)</td></tr>
+    </table>
+    <img src="figuras/09_classica_frequentista.png" alt="Clássica x frequentista">
+  </div>
+  <p>A suposição de resultados equiprováveis falha: jogar em casa aumenta a chance de vencer. No espaço amostral dos <b>placares</b>, houve 27 placares distintos; os mais comuns foram 1×1 (13,42%), 2×1 (13,16%) e 1×0 (12,37%). P(0×0) = 6,84%; P(3 ou mais gols) = 47,37%; o complementar P(até 2 gols) = 52,63%.</p>
+
+  <h3>6.2 Axiomas, eventos mutuamente exclusivos, união e interseção</h3>
+  <span class="f">(1) 0 ≤ P(A) ≤ 1 &nbsp;·&nbsp; (2) P(S) = 1 &nbsp;·&nbsp; (3) A ∩ B = ∅ ⇒ P(A ∪ B) = P(A) + P(B) &nbsp;·&nbsp; P(Aᶜ) = 1 − P(A) &nbsp;·&nbsp; P(A ∪ B) = P(A) + P(B) − P(A ∩ B)</span>
+  <ul>
+    <li>Axioma 2: 47,37% + 26,58% + 26,05% = 100%.</li>
+    <li><b>Mutuamente exclusivos</b> (não ocorrem juntos): vitória do mandante e empate. P(mandante não perde) = 47,37% + 26,58% = <b>73,95%</b>.</li>
+    <li><b>Complementar:</b> P(o mandante não vence) = 1 − 47,37% = <b>52,63%</b>.</li>
+  </ul>
+  <div class="two">
+    <div>
+      <p><b>Eventos não exclusivos:</b> A = o mandante marca no 1º tempo (195 jogos, 51,32%); B = o visitante marca no 1º tempo (147 jogos, 38,68%); A ∩ B = 80 jogos (21,05%).</p>
+      <p>P(A ∪ B) = 51,32% + 38,68% − 21,05% = <b>68,95%</b>, igual à contagem direta de jogos com gol no 1º tempo. P(1º tempo sem gols) = 31,05%.</p>
+    </div>
+    <img src="figuras/10_venn_gols_1t.png" alt="Venn">
+  </div>
+
+  <h3>6.3 Probabilidade condicional e eventos independentes</h3>
+  <span class="f">P(A | B) = P(A ∩ B) / P(B) &nbsp;·&nbsp; regra do produto P(A ∩ B) = P(B)·P(A | B) &nbsp;·&nbsp; independentes ⇔ P(A ∩ B) = P(A)·P(B) ⇔ P(A | B) = P(A)</span>
+  <table>
+    <tr><th>A = vitória do mandante · B = mandante marca o 1º gol</th><th>Valor</th></tr>
+    <tr><td>P(A) · P(B)</td><td class="n">47,37% (180) · 57,63% (219)</td></tr>
+    <tr><td>P(A ∩ B)</td><td class="n">42,37% (161 jogos)</td></tr>
+    <tr><td>P(A | B) = 161 / 219</td><td class="n"><b>73,52%</b></td></tr>
+    <tr><td>P(A)·P(B), se fossem independentes</td><td class="n">27,30% ≠ 42,37% → dependentes</td></tr>
+  </table>
+  <p><b>Independência:</b> C = o mandante marca no 1º tempo; D = o mandante marca no 2º tempo. P(D) = 55,79% e P(D | C) = 54,36%; P(C ∩ D) = 27,89% contra P(C)·P(D) = 28,63%. A diferença é de só 0,73 ponto percentual: <b>aproximadamente independentes</b>.</p>
+  <div class="warn"><b>Não confunda:</b> eventos <i>mutuamente exclusivos</i> não podem ocorrer juntos (P(A ∩ B) = 0). Eventos <i>independentes</i> podem ocorrer juntos, mas um não altera a chance do outro. Dois eventos com probabilidade positiva que são exclusivos são sempre dependentes.</div>
+  <div class="ex"><b class="t">Exercício resolvido.</b> Escolhida ao acaso uma partida em que o mandante venceu, qual a probabilidade de ele ter marcado primeiro? P(B | A) = P(A ∩ B) / P(A) = 161/180 = <b>89,44%</b>.</div>
+</section>
+
+<section>
+  <h2>7. Página 7 — Teorema da Probabilidade Total e Teorema de Bayes</h2>
+  <p>O primeiro gol divide as partidas em três eventos <b>mutuamente exclusivos e exaustivos</b> (uma partição): B1 = o mandante marcou primeiro, B2 = o visitante marcou primeiro, B3 = jogo sem gols. Evento de interesse: A = vitória do mandante.</p>
+  <span class="f">Probabilidade Total: P(A) = Σ P(A | Bi)·P(Bi) &nbsp;&nbsp;·&nbsp;&nbsp; Bayes: P(Bi | A) = P(A | Bi)·P(Bi) / P(A)</span>
+  <img src="figuras/11_arvore_probabilidade_total.png" alt="Árvore de probabilidades" style="width:88%">
+  <table>
+    <tr><th>Partição</th><th>Jogos</th><th>P(Bi)</th><th>P(A | Bi)</th><th>P(A | Bi)·P(Bi)</th><th>Bayes P(Bi | A)</th></tr>
+    <tr><td>B1 mandante marcou primeiro</td><td class="n">219</td><td class="n">57,63%</td><td class="n">73,52%</td><td class="n">42,37%</td><td class="n">89,44%</td></tr>
+    <tr><td>B2 visitante marcou primeiro</td><td class="n">135</td><td class="n">35,53%</td><td class="n">14,07%</td><td class="n">5,00%</td><td class="n">10,56%</td></tr>
+    <tr><td>B3 jogo sem gols</td><td class="n">26</td><td class="n">6,84%</td><td class="n">0%</td><td class="n">0%</td><td class="n">0%</td></tr>
+    <tr><th>Total</th><th class="n">380</th><th class="n">100%</th><th></th><th class="n">P(A) = 47,37%</th><th class="n">100%</th></tr>
+  </table>
+  <p><b>Interpretação:</b> a Probabilidade Total vai das causas para o efeito e soma os ramos da árvore: 47,37%, que é exatamente a frequência de vitórias do mandante. Bayes faz o caminho inverso: <b>89,44%</b> das vitórias do mandante vieram de jogos em que ele marcou primeiro, e apenas 10,56% foram viradas.</p>
+  <p><b>Por clube (Botafogo, 38 jogos):</b> P(B1) = 65,79%, P(A|B1) = 88%; P(B2) = 23,68%, P(A|B2) = 11,11%; P(B3) = 10,53%. Pela Probabilidade Total, P(vitória) = 57,89% + 2,63% + 0% = <b>60,53%</b> (23/38). Por Bayes, 95,65% das vitórias do campeão vieram de jogos em que ele abriu o placar.</p>
+  <div class="ex"><b class="t">Exercício resolvido.</b> Calcule P(B2 | A).<br>P(B2 | A) = P(A | B2)·P(B2) / P(A) = (0,1407 × 0,3553) / 0,4737 = 0,0500 / 0,4737 = <b>10,56%</b>.</div>
+</section>
+
+<section>
+  <h2>8. Página 8 — Variáveis aleatórias e distribuições discretas</h2>
+  <span class="f">p(x) = P(X = x) com Σp(x) = 1 &nbsp;·&nbsp; F(x) = P(X ≤ x) &nbsp;·&nbsp; E[X] = Σx·p(x) &nbsp;·&nbsp; Var(X) = E[X²] − (E[X])²</span>
+  <h4>Variável aleatória discreta: cartões amarelos por partida</h4>
+  <div class="two">
+    <div>
+      <table>
+        <tr><th>x</th><th>p(x)</th><th>F(x)</th></tr>
+        <tr><td>3</td><td class="n">0,1316</td><td class="n">0,2526</td></tr>
+        <tr><td>4</td><td class="n">0,1711</td><td class="n">0,4237</td></tr>
+        <tr><td>5</td><td class="n">0,1553</td><td class="n">0,5789</td></tr>
+        <tr><td>6</td><td class="n">0,1211</td><td class="n">0,7000</td></tr>
+        <tr><td>7</td><td class="n">0,1447</td><td class="n">0,8447</td></tr>
+      </table>
+      <p>E[X] = <b>5,18</b> amarelos · Var(X) = <b>5,39</b> · σ = 2,32. Exemplo: P(X ≤ 5) = 57,89%.</p>
+    </div>
+    <img src="figuras/12_pmf_cdf_amarelos.png" alt="PMF e CDF">
+  </div>
+  <h4>Bernoulli e Binomial: vitórias em casa</h4>
+  <span class="f">Bernoulli: P(X = 1) = p, E[X] = p, Var(X) = p(1 − p) &nbsp;·&nbsp; Binomial: P(X = k) = C(n,k)·p^k·(1 − p)^(n−k), E[X] = np, Var(X) = np(1 − p)</span>
+  <p>Uma partida em casa: X = 1 se o mandante vence. p = 180/380 = <b>0,4737</b>, Var(X) = 0,4737·0,5263 = 0,2493. Em n = 5 jogos em casa: E[X] = 2,37 vitórias e P(pelo menos 1 vitória) = 1 − 0,5263⁵ = <b>95,96%</b>. Para o Botafogo (12 vitórias em 19 jogos em casa, p = 0,632): P(pelo menos 1 vitória em 5) = 99,32%.</p>
+  <p><b>Hipóteses da Binomial:</b> n ensaios fixos; cada um com sucesso ou fracasso; p constante; ensaios independentes.</p>
+  <h4>Poisson: gols por partida</h4>
+  <span class="f">P(X = k) = e^(−λ)·λ^k / k! &nbsp;·&nbsp; E[X] = Var(X) = λ &nbsp;·&nbsp; soma de Poissons independentes: Poisson(λ1 + λ2)</span>
+  <div class="two">
+    <div>
+      <p>λ = média = <b>2,445</b> gols; variância amostral 2,021 (próxima de λ, como a Poisson prevê).</p>
+      <table>
+        <tr><th>Evento</th><th>Poisson</th><th>Observado</th></tr>
+        <tr><td>P(X = 0)</td><td class="n">8,67%</td><td class="n">6,84%</td></tr>
+        <tr><td>P(X = 2)</td><td class="n">25,92%</td><td class="n">25,53%</td></tr>
+        <tr><td>P(X ≥ 3)</td><td class="n">44,19%</td><td class="n">47,37%</td></tr>
+      </table>
+      <p><b>Gols do mandante por tempo:</b> λ1T = 0,663 → P(gol no 1T) = 1 − e^(−0,663) = 48,5% (observado 51,3%); λ2T = 0,747 → 52,6% (observado 55,8%); no jogo λ = 1,411 → 75,6% (observado 79,2%).</p>
+    </div>
+    <img src="figuras/14_poisson_gols.png" alt="Poisson observado x esperado">
+  </div>
+  <h4>Simulador de partida: Botafogo (casa) × Palmeiras (fora)</h4>
+  <div class="two">
+    <img src="figuras/15_matriz_placares.png" alt="Matriz de placares">
+    <div>
+      <p>λ Botafogo = 1,263; λ Palmeiras = 1,026 (média entre o ataque de um e a defesa do outro). Cada placar: P(i × j) = Poi(i; 1,263)·Poi(j; 1,026).</p>
+      <p>Vitória do Botafogo <b>41,75%</b> · Empate <b>28,19%</b> · Vitória do Palmeiras <b>30,06%</b>. Placar mais provável: 1×1 (13,14%). P(3 ou mais gols) = 40,11%.</p>
+    </div>
+  </div>
+  <div class="ex"><b class="t">Exercício resolvido.</b> Com λ = 2,445, qual a probabilidade de um jogo ter exatamente 1 gol?<br>P(X = 1) = e^(−2,445)·2,445¹ / 1! = 0,0867 × 2,445 = <b>21,2%</b> (observado: 77/380 = 20,3%).</div>
+</section>
+
+<section>
+  <h2>9. Página 9 — Distribuições de variáveis aleatórias contínuas</h2>
+  <p>Para variáveis contínuas P(X = x) = 0: só intervalos têm probabilidade, dada pela área sob a densidade, P(a ≤ X ≤ b) = F(b) − F(a).</p>
+  <h4>Uniforme: minuto de cada gol</h4>
+  <span class="f">X ~ U(a, b): f(x) = 1/(b − a) &nbsp;·&nbsp; P(c ≤ X ≤ d) = (d − c)/(b − a) &nbsp;·&nbsp; E[X] = (a + b)/2 &nbsp;·&nbsp; Var(X) = (b − a)²/12</span>
+  <div class="two">
+    <div>
+      <p>Com U(0, 90): f(x) = 1/90 = 0,0111; E[X] = 45 (observado 50,8); σ = 25,98 (observado 26,23). Cada faixa de 15 minutos teria 16,67%.</p>
+      <table>
+        <tr><th>Faixa</th><th>Observado</th><th>Uniforme</th></tr>
+        <tr><td>0–15</td><td class="n">12,92%</td><td class="n">16,67%</td></tr>
+        <tr><td>30–45</td><td class="n">19,59%</td><td class="n">16,67%</td></tr>
+        <tr><td>75–90</td><td class="n">22,60%</td><td class="n">16,67%</td></tr>
+      </table>
+      <p>Os dados têm menos gols no começo e mais no fim de cada tempo (cansaço, acréscimos): a Uniforme é só uma primeira aproximação.</p>
+    </div>
+    <img src="figuras/16_uniforme_minutos.png" alt="Uniforme">
+  </div>
+  <h4>Exponencial: tempo até o primeiro gol</h4>
+  <span class="f">T ~ Exp(λ): f(t) = λe^(−λt) &nbsp;·&nbsp; F(t) = 1 − e^(−λt) &nbsp;·&nbsp; E[T] = 1/λ &nbsp;·&nbsp; Var(T) = 1/λ² &nbsp;·&nbsp; P(T &gt; s + t | T &gt; s) = P(T &gt; t)</span>
+  <div class="two">
+    <div>
+      <p>354 jogos com gol (26 terminaram 0×0). Tempo médio = <b>33,3 min</b>, então λ = 1/33,3 = 0,0300 por minuto.</p>
+      <table>
+        <tr><th>1º gol até</th><th>Exponencial</th><th>Observado</th></tr>
+        <tr><td>15 min</td><td class="n">36,27%</td><td class="n">30,79%</td></tr>
+        <tr><td>30 min</td><td class="n">59,38%</td><td class="n">51,13%</td></tr>
+        <tr><td>45 min</td><td class="n">74,11%</td><td class="n">74,01%</td></tr>
+        <tr><td>60 min</td><td class="n">83,50%</td><td class="n">85,59%</td></tr>
+      </table>
+      <p><b>Falta de memória:</b> se está 0×0 aos 30 min, a chance de continuar sem gols por mais 15 min é P(T &gt; 15) = e^(−0,03·15) = 63,73%, a mesma do início do jogo.</p>
+    </div>
+    <img src="figuras/17_exponencial_primeiro_gol.png" alt="Exponencial">
+  </div>
+  <h4>Normal: gols por rodada</h4>
+  <span class="f">X ~ N(μ, σ²): f(x) = e^(−(x − μ)²/(2σ²)) / (σ√2π) &nbsp;·&nbsp; Z = (X − μ)/σ ~ N(0, 1) &nbsp;·&nbsp; regra empírica 68–95–99,7</span>
+  <div class="two">
+    <div>
+      <p>X = total de gols da rodada (soma de 10 jogos); 38 observações; μ = <b>24,45</b>, σ = <b>4,15</b>.</p>
+      <p>P(20 ≤ X ≤ 30): z1 = (20 − 24,45)/4,15 = −1,07; z2 = (30 − 24,45)/4,15 = 1,34. P = Φ(1,34) − Φ(−1,07) = <b>76,76%</b> (observado 78,95%). P(X &gt; 30) = 9,05% (observado 10,53%).</p>
+      <p>Regra empírica observada: 73,7% em μ ± σ, 94,7% em μ ± 2σ, 100% em μ ± 3σ. Rodada 36: 36 gols (z = 2,78); rodada 18: 17 gols (z = −1,79).</p>
+    </div>
+    <img src="figuras/18_normal_gols_rodada.png" alt="Normal">
+  </div>
+  <div class="ex"><b class="t">Exercício resolvido.</b> Qual a probabilidade de uma rodada ter menos de 20 gols? z = −1,07 → P(Z &lt; −1,07) = 1 − Φ(1,07) ≈ 1 − 0,8577 = <b>14,2%</b>.</div>
+</section>
+
+<section>
+  <h2>10. Página 2 — Consulta por time e jogador</h2>
+  <p>É a página que junta tudo num caso prático. Ao escolher um clube, ela mostra posição, pontos, V/E/D, aproveitamento, gols pró e contra, média e desvio de gols marcados. Ao escolher um jogador (586 opções, todos que marcaram ou receberam cartão), mostra gols, gols por tempo, pênaltis, cartões e quatro abas:</p>
+  <table>
+    <tr><th>Aba</th><th>Conteúdo</th><th>Exemplo: Yuri Alberto (Corinthians, artilheiro)</th></tr>
+    <tr><td>Estatística descritiva</td><td>Gols por faixa de minutos; tabela de frequências e medidas dos gols por jogo</td><td>15 gols (8 no 1T, 7 no 2T, 3 pênaltis), em 12 jogos</td></tr>
+    <tr><td>Poisson</td><td>λ = gols/38 e P(marcar) = 1 − e^(−λ)</td><td>λ = 0,395 → P(marcar) = 32,6% (observado 31,6%)</td></tr>
+    <tr><td>Binomial</td><td>Y = jogos com gol nos próximos n; p = jogos com gol/38</td><td>p = 12/38 = 0,316</td></tr>
+    <tr><td>Condicional e Bayes</td><td>P(V | M), P(V | Mᶜ), P(M | V) e Probabilidade Total</td><td>P(V | M) = 58,3% × P(V | Mᶜ) = 30,8%; P(M | V) = 46,7%</td></tr>
+  </table>
+  <p><b>Outro exemplo forte:</b> Estêvão (Palmeiras, 13 gols): quando marca, o Palmeiras vence 83,3% das vezes; quando não marca, 46,2% (+37,2 p.p.).</p>
+  <div class="warn">Correlação não é causalidade: o time vence mais quando o atleta marca, mas também o atleta marca mais quando o time joga melhor.</div>
+</section>
+
+<section>
+  <h2>11. Limitações e perguntas prováveis da banca</h2>
+  <p class="q">1. “Os dados são reais?”</p>
+  <p>Sim. Placares, gols (autor e minuto) e cartões vêm de um dataset público do Brasileirão. Conferimos que os gols por clube batem com o placar nas 380 partidas.</p>
+  <p class="q">2. “Por que a Poisson para gols?”</p>
+  <p>Gols são contagens de eventos relativamente raros num intervalo fixo. A média (2,445) e a variância (2,021) são próximas, como a Poisson exige, e as frequências esperadas acompanham as observadas.</p>
+  <p class="q">3. “Qual a diferença entre a Binomial e a Poisson aqui?”</p>
+  <p>A Binomial conta sucessos em n ensaios fixos (vitórias em 5 jogos em casa). A Poisson conta eventos num intervalo sem n fixo (gols numa partida).</p>
+  <p class="q">4. “Por que a assimetria dá sinais diferentes?”</p>
+  <p>Em dados discretos com poucos valores, a moda é instável (o 1º coeficiente de Pearson dá −0,39). Usamos o 2º coeficiente, com a mediana (+0,94), que é mais estável.</p>
+  <p class="q">5. “Exclusivos e independentes são a mesma coisa?”</p>
+  <p>Não. Vitória do mandante e empate são exclusivos (não ocorrem juntos). Gol no 1º e no 2º tempo do mandante são aproximadamente independentes (podem ocorrer juntos, sem um afetar o outro).</p>
+  <p class="q">6. “Como saber se o Bayes está certo?”</p>
+  <p>A Probabilidade Total reproduz a frequência direta (47,37%) e P(B1 | A) = 89,44% coincide com a contagem 161/180.</p>
+  <p class="q">7. “Por que a Uniforme não se ajusta bem?”</p>
+  <p>Ela supõe todos os minutos igualmente prováveis. Os dados mostram concentração no fim de cada tempo (acréscimos, cansaço). Ela serve como modelo de referência.</p>
+  <p class="q">8. “Por que a Normal para gols por rodada?”</p>
+  <p>Cada rodada é a soma de 10 jogos; somas de muitas parcelas tendem à Normal. A regra empírica observada (73,7% / 94,7% / 100%) fica próxima da teórica.</p>
+  <h4>Limitações</h4>
+  <ul>
+    <li>A fonte não traz chutes, posse, escanteios nem minutos jogados por atleta em 2024; as taxas dos jogadores usam os 38 jogos do clube.</li>
+    <li>A posição do atleta vem do registro de cartões (“Não informada” para quem não levou cartão).</li>
+    <li>Acréscimos são contados nos minutos 45 e 90.</li>
+    <li>O simulador de placares supõe gols dos dois times independentes.</li>
+  </ul>
+
+  <h2>12. Roteiro sugerido para a apresentação (~12 min)</h2>
+  <table>
+    <tr><th>Tempo</th><th>Página</th><th>O que mostrar</th></tr>
+    <tr><td>0:00–1:00</td><td>Abertura</td><td>Objetivo, fonte dos dados, arquitetura</td></tr>
+    <tr><td>1:00–2:00</td><td>1</td><td>População, amostra e tipos de variáveis</td></tr>
+    <tr><td>2:00–3:30</td><td>3 e 4</td><td>Tabela de gols por partida e Fri; histograma dos minutos; média 2,44 × mediana 2 × moda 3</td></tr>
+    <tr><td>3:30–4:30</td><td>5</td><td>CV de 58%, quartis, 4 outliers no boxplot; regularidade dos clubes</td></tr>
+    <tr><td>4:30–6:30</td><td>6</td><td>Clássica × frequentista; união com Venn; P(vitória | marcou primeiro) = 73,5%</td></tr>
+    <tr><td>6:30–8:00</td><td>7</td><td>Árvore: P(A) = 47,37% e Bayes 89,44%; exemplo do Botafogo</td></tr>
+    <tr><td>8:00–9:30</td><td>8</td><td>Binomial (vitórias em casa) e Poisson (gols); Botafogo × Palmeiras</td></tr>
+    <tr><td>9:30–11:00</td><td>9</td><td>Uniforme, Exponencial (falta de memória), Normal com padronização</td></tr>
+    <tr><td>11:00–12:00</td><td>2 e fecho</td><td>Um artilheiro; limitações</td></tr>
+  </table>
+</section>
+
+<section>
+  <h2>13. Folha de fórmulas</h2>
+  <table>
+    <tr><th>Conteúdo</th><th>Fórmulas</th></tr>
+    <tr><td>Frequências</td><td class="m">fri = fi/n ; Fi = Σfi ; Fri = Fi/n ; Sturges k ≈ 1 + 3,322·log n ; h = AT/k</td></tr>
+    <tr><td>Posição (brutos)</td><td class="m">x̄ = Σxi/n ; Md = valor central ; Mo = mais frequente</td></tr>
+    <tr><td>Posição (agrupados)</td><td class="m">x̄ = Σxi·fi/n ; Md = li + [(n/2 − Fant)/fi]·h ; Mo = li + [d1/(d1 + d2)]·h</td></tr>
+    <tr><td>Dispersão</td><td class="m">AT = máx − mín ; s² = Σ(xi − x̄)²/(n − 1) ; σ² = Σ(xi − x̄)²/n ; s = √s² ; CV = s/x̄·100%</td></tr>
+    <tr><td>Quartis e outliers</td><td class="m">DIQ = Q3 − Q1 ; outlier &lt; Q1 − 1,5·DIQ ou &gt; Q3 + 1,5·DIQ</td></tr>
+    <tr><td>Assimetria</td><td class="m">As1 = (x̄ − Mo)/s ; As2 = 3(x̄ − Md)/s</td></tr>
+    <tr><td>Probabilidade</td><td class="m">P(E) = n(E)/n(S) ; 0 ≤ P ≤ 1 ; P(S) = 1 ; P(Aᶜ) = 1 − P(A)</td></tr>
+    <tr><td>União</td><td class="m">P(A ∪ B) = P(A) + P(B) − P(A ∩ B) ; exclusivos: P(A ∪ B) = P(A) + P(B)</td></tr>
+    <tr><td>Condicional</td><td class="m">P(A|B) = P(A ∩ B)/P(B) ; P(A ∩ B) = P(B)·P(A|B)</td></tr>
+    <tr><td>Independência</td><td class="m">P(A ∩ B) = P(A)·P(B) ⇔ P(A|B) = P(A)</td></tr>
+    <tr><td>Prob. Total e Bayes</td><td class="m">P(A) = ΣP(A|Bi)·P(Bi) ; P(Bi|A) = P(A|Bi)·P(Bi)/P(A)</td></tr>
+    <tr><td>V.A. discreta</td><td class="m">E[X] = Σx·p(x) ; Var(X) = E[X²] − E[X]² ; F(x) = P(X ≤ x)</td></tr>
+    <tr><td>Bernoulli</td><td class="m">E = p ; Var = p(1 − p)</td></tr>
+    <tr><td>Binomial</td><td class="m">P(X = k) = C(n,k)·p^k·(1 − p)^(n−k) ; E = np ; Var = np(1 − p)</td></tr>
+    <tr><td>Poisson</td><td class="m">P(X = k) = e^(−λ)λ^k/k! ; E = Var = λ</td></tr>
+    <tr><td>Uniforme</td><td class="m">f = 1/(b − a) ; E = (a + b)/2 ; Var = (b − a)²/12</td></tr>
+    <tr><td>Exponencial</td><td class="m">F(t) = 1 − e^(−λt) ; E = 1/λ ; Var = 1/λ² ; sem memória</td></tr>
+    <tr><td>Normal</td><td class="m">Z = (X − μ)/σ ; P(a ≤ X ≤ b) = Φ(zb) − Φ(za) ; 68–95–99,7</td></tr>
+  </table>
+</section>
+
+</body>
+</html>
